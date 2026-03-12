@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Burocrazia on Radioascolto Pratico</title>
+    <link>http://localhost:1313/tags/burocrazia/</link>
+    <description>Recent content in Burocrazia on Radioascolto Pratico</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Sat, 13 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/burocrazia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La QSL per gli SWL: Rapporti di Ascolto, eQSL e l&#39;Iter MIMIT</title>
+      <link>http://localhost:1313/posts/07-qsl-swl-rapporti-ascolto-mimit/</link>
+      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/07-qsl-swl-rapporti-ascolto-mimit/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;La &lt;strong&gt;QSL&lt;/strong&gt; è la conferma di un ascolto o di un collegamento radio. Per il radioamatore è la prova del contatto; per lo SWL (Short Wave Listener) e il BCL (BroadCast Listener) è la conferma che la stazione ha ricevuto e verificato il rapporto d&amp;rsquo;ascolto inviato. Una tradizione iniziata nella notte di Natale del 1906, quando Reginald Fessenden — il primo a trasmettere voce via radio — chiese ai suoi ascoltatori un feedback sulla qualità della ricezione. Da allora sono passati quasi 120 anni e la pratica non si è mai fermata.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

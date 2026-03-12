@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tecnologia on Radioascolto Pratico</title>
+    <link>http://localhost:1313/tags/tecnologia/</link>
+    <description>Recent content in Tecnologia on Radioascolto Pratico</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Sat, 29 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tecnologia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SDR per il Radioascolto: RTL-SDR, Malachite, Belka e i KiwiSDR</title>
+      <link>http://localhost:1313/posts/05-sdr-radioascolto-rtlsdr-malachite-kiwi/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/05-sdr-radioascolto-rtlsdr-malachite-kiwi/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Il Software Defined Radio (SDR) ha cambiato radicalmente il radioascolto negli ultimi dieci anni. Dove prima serviva hardware dedicato per ogni banda e modo, oggi un dongle da 30 euro collegato al PC copre da 500 kHz a 1,7 GHz. Ma non tutti gli SDR sono uguali, e la scelta dipende molto da cosa si vuole fare.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

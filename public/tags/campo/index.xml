@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Campo on Radioascolto Pratico</title>
+    <link>http://localhost:1313/tags/campo/</link>
+    <description>Recent content in Campo on Radioascolto Pratico</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/campo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DX Camp: Radioascolto in Campo Aperto, Lontano dal Rumore Urbano</title>
+      <link>http://localhost:1313/posts/18-dx-camp-radioascolto-campale/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/18-dx-camp-radioascolto-campale/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Il &lt;strong&gt;DX Camp&lt;/strong&gt; è un&amp;rsquo;attività nata nel mondo radioamatoriale e adottata con entusiasmo dagli SWL: portare tutta la stazione — ricevitore, antenne, alimentazione — in un luogo isolato e acusticamente silenzioso, lontano dai disturbi urbani, e passare una giornata o un weekend ad ascoltare. Il risultato è quasi sempre sorprendente per chi lo prova per la prima volta.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

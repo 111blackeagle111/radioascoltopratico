@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chi-Siamo on Radioascolto Pratico</title>
+    <link>http://localhost:1313/tags/chi-siamo/</link>
+    <description>Recent content in Chi-Siamo on Radioascolto Pratico</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Thu, 12 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/chi-siamo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chi Siamo: radioascolto pratico</title>
+      <link>http://localhost:1313/posts/37-chi-siamo/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/37-chi-siamo/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;radioascolto pratico&lt;/strong&gt; è un blog dedicato all&amp;rsquo;ascolto delle onde radio — onde medie, onde corte, onde lunghe, utility — scritto da appassionati per appassionati.&lt;/p&gt;&#xA;&lt;p&gt;Non vendiamo niente. Non abbiamo sponsor. Non siamo un&amp;rsquo;azienda.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;da-dove-veniamo&#34;&gt;Da dove veniamo&lt;/h2&gt;&#xA;&lt;p&gt;Siamo un gruppo di ascoltatori italiani con anni di log alle spalle, ricevitori che vanno dai portatili economici ai riferimenti SDR, antenne sul balcone e antenne in campo aperto. Abbiamo iniziato ad ascoltare in epoche diverse — c&amp;rsquo;è chi ricorda Radio Mosca sulle onde medie e chi ha scoperto il radioascolto con un RTL-SDR da 25 euro.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

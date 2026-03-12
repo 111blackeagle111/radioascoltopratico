@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ricevitori on Radioascolto Pratico</title>
+    <link>http://localhost:1313/tags/ricevitori/</link>
+    <description>Recent content in Ricevitori on Radioascolto Pratico</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Thu, 12 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ricevitori/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Il Perseus: Perché è Ancora il Riferimento dopo Vent&#39;anni</title>
+      <link>http://localhost:1313/posts/32-perseus-ricevitore-riferimento/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/32-perseus-ricevitore-riferimento/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Nel 2006 la Microtelecom italiana ha messo sul mercato il Perseus. Venti anni dopo, in una discussione del GIR, qualcuno cita il Kenwood R1000 come ricevitore mitico e aggiunge: &lt;em&gt;&amp;ldquo;non c&amp;rsquo;è SDR che lo batte&amp;hellip; (vabbeh, Perseus!)&amp;rdquo;&lt;/em&gt;. La parentesi dice tutto: il Perseus è ancora il termine di paragone con cui si misura tutto il resto.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ricevitori Vintage: Grundig, Hammarlund e i Classici che Resistono al Tempo</title>
+      <link>http://localhost:1313/posts/29-ricevitori-vintage-grundig-hammarlund/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/29-ricevitori-vintage-grundig-hammarlund/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;C&amp;rsquo;è qualcosa di particolare in un ricevitore vintage funzionante. Non è solo nostalgia: alcuni apparecchi progettati e costruiti decenni fa hanno caratteristiche — meccaniche, sonore, o semplicemente di robustezza — che i portatili moderni non replicano. Non tutti, ovviamente. Ma i migliori invecchiano meglio di quanto ci si aspetterebbe.&lt;/p&gt;&#xA;&lt;h2 id=&#34;largomento-contro-il-vintage-la-selettività&#34;&gt;L&amp;rsquo;argomento contro il vintage: la selettività&lt;/h2&gt;&#xA;&lt;p&gt;Prima di romanticheggiare troppo, un fatto tecnico: molti ricevitori degli anni &amp;lsquo;70 e &amp;lsquo;80 hanno &lt;strong&gt;selettività in AM inferiore&lt;/strong&gt; ai portatili moderni con DSP. I moderni Tecsun con filtri digitali in media frequenza possono fare cose che i circuiti analogici dell&amp;rsquo;epoca non potevano. Il rumore di fondo di un buon DSP è più basso. La ricezione SSB è più stabile.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ricevitori Portatili: Tecsun, Eton, Sangean e gli Altri</title>
+      <link>http://localhost:1313/posts/04-ricevitori-portatili-confronto/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/04-ricevitori-portatili-confronto/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Il mercato dei ricevitori portatili AM/FM/SW è dominato da un pugno di marchi, con una fascia di prezzo che va dai 30 euro di un Kchibo cinese agli 800+ euro di un Tecsun S-8800. La scelta può disorientare. Questa guida raccoglie impressioni d&amp;rsquo;uso reale, non schede tecniche.&lt;/p&gt;&#xA;&lt;h2 id=&#34;il-quadro-generale&#34;&gt;Il quadro generale&lt;/h2&gt;&#xA;&lt;p&gt;La maggior parte dei portatili moderni condivide la stessa architettura di base: un frontend AM/FM analogico abbinato a un DSP (Digital Signal Processor) per la demodulazione e la gestione della selettività. Il chip DSP è spesso lo stesso in apparati di marchi diversi — il che spiega perché le prestazioni RF tendano ad assomigliarsi tra modelli della stessa fascia di prezzo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

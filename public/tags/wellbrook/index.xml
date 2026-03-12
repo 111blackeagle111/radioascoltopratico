@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wellbrook on Radioascolto Pratico</title>
+    <link>http://localhost:1313/tags/wellbrook/</link>
+    <description>Recent content in Wellbrook on Radioascolto Pratico</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Thu, 12 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/wellbrook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Antenne Attive a Confronto: Wellbrook ALA 1530 vs AOR SA7000</title>
+      <link>http://localhost:1313/posts/27-wellbrook-sa7000-confronto/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/27-wellbrook-sa7000-confronto/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Nel panorama delle antenne riceventi broadband per HF e MW, due modelli tornano frequentemente nelle discussioni degli appassionati europei: la &lt;strong&gt;Wellbrook ALA 1530&lt;/strong&gt; e la &lt;strong&gt;AOR SA7000&lt;/strong&gt;. Entrambe sono antenne attive, entrambe promettono copertura wideband, entrambe si trovano spesso nei setup di chi vuole un&amp;rsquo;antenna esterna compatta. Ma le esperienze pratiche raccontano storie diverse.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

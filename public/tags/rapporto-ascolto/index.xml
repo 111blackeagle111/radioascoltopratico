@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rapporto-Ascolto on Radioascolto Pratico</title>
+    <link>http://localhost:1313/tags/rapporto-ascolto/</link>
+    <description>Recent content in Rapporto-Ascolto on Radioascolto Pratico</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Thu, 12 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/rapporto-ascolto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Come Ottenere una QSL: Guida Step by Step per SWL</title>
+      <link>http://localhost:1313/posts/39-guida-qsl-template-lettera/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/39-guida-qsl-template-lettera/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;La QSL è la conferma ufficiale che la stazione ha ricevuto e accettato il tuo rapporto di ascolto. Per alcuni è un documento da collezione; per altri è la prova che il proprio setup funziona. In ogni caso, ottenerla richiede un po&amp;rsquo; di metodo. Questa guida copre tutto il processo — dal log alla busta in uscita.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Come Scrivere un Rapporto di Ascolto: il Codice SINPO e il Modello GIR</title>
+      <link>http://localhost:1313/posts/26-rapporto-ascolto-sinpo/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/26-rapporto-ascolto-sinpo/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Il rapporto di ascolto è il biglietto da visita dello SWL/BCL verso le emittenti. Un rapporto ben scritto serve a due cose: ottenere la QSL di conferma e fornire all&amp;rsquo;emittente informazioni utili sulla qualità della ricezione nella tua area. Un rapporto mal scritto o incompleto raramente riceve risposta.&lt;/p&gt;&#xA;&lt;h2 id=&#34;il-codice-sinpo&#34;&gt;Il codice SINPO&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;SINPO&lt;/strong&gt; è il sistema standardizzato per descrivere la qualità di un segnale radio. Ogni lettera rappresenta un parametro, valutato su scala da 1 (pessimo) a 5 (eccellente):&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

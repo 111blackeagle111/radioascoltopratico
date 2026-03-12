@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Est-Europa on Radioascolto Pratico</title>
+    <link>http://localhost:1313/tags/est-europa/</link>
+    <description>Recent content in Est-Europa on Radioascolto Pratico</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Sat, 21 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/est-europa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Russia e Est Europa: Cosa si Riceve dall&#39;Italia in MW e HF</title>
+      <link>http://localhost:1313/posts/16-russia-est-europa-mw-hf/</link>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/16-russia-est-europa-mw-hf/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;L&amp;rsquo;Italia è geograficamente ben posizionata per ricevere le trasmissioni provenienti dall&amp;rsquo;Est Europa e dalla Russia. Con propagazione favorevole, le stazioni russe in onde medie arrivano con segnali fortissimi, e in HF la Russia è presente su molte frequenze con trasmissioni di vario tipo — radiofoniche, militari, enigmatiche.&lt;/p&gt;&#xA;&lt;h2 id=&#34;le-stazioni-mw-russe-ricevibili-in-italia&#34;&gt;Le stazioni MW russe ricevibili in Italia&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Vesti FM / Radio Vesti — 999 kHz&lt;/strong&gt;: trasmette con 1000 kW (un megawatt) dalle 11 alle 15 UTC. Un segnale di questa potenza arriva in tutta Europa con facilità. La frequenza 999 kHz è però affollata — altre stazioni europee si sovrappongono, causando il classico fading veloce da battimento nelle ore di copertura parziale.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

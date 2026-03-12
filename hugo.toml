@@ -1,0 +1,13 @@
+baseURL = "https://www.radioascoltopratico.org/"
+languageCode = "it-IT"
+title = "Radioascolto Pratico"
+theme = "ananke"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  description = "Blog tecnico sulla ricezione radio: onde medie, HF, SDR, antenne e propagazione. Ispirato dalle discussioni della community GIR."
+  recent_posts_number = 11

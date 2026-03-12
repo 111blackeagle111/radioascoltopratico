@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digitale on Radioascolto Pratico</title>
+    <link>http://localhost:1313/tags/digitale/</link>
+    <description>Recent content in Digitale on Radioascolto Pratico</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/digitale/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modi Digitali in Ricezione: DRM, WSPR, FT8 e gli Altri</title>
+      <link>http://localhost:1313/posts/20-modi-digitali-ricezione-drm-wspr-ft8/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20-modi-digitali-ricezione-drm-wspr-ft8/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;La radio non è solo voce. Le bande HF ospitano un universo di segnali digitali: trasmissioni di dati, comunicazioni militari, bollettini meteorologici, segnali di propagazione, e modi sviluppati dalla community radioamatoriale che permettono di fare cose straordinarie con potenze e antenne minime. Ricevere e decodificare questi segnali — senza trasmettere — è attività SWL a pieno titolo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

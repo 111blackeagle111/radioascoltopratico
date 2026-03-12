@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tecnica on Radioascolto Pratico</title>
+    <link>http://localhost:1313/tags/tecnica/</link>
+    <description>Recent content in Tecnica on Radioascolto Pratico</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Thu, 12 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tecnica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fading: Tipi, Cause e Come Riconoscerli all&#39;Ascolto</title>
+      <link>http://localhost:1313/posts/24-fading-tipi-cause/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/24-fading-tipi-cause/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Chi ascolta le onde medie o le onde corte conosce bene il fading: quella variazione di intensità del segnale che fa sì che una stazione forte un momento diventi quasi inudibile il momento successivo. Non è un difetto del ricevitore — è la propagazione radio che parla. Imparare a distinguere i tipi di fading aiuta a capire cosa sta succedendo nell&amp;rsquo;etere.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Glossario SWL: da SINPO a QSB, da Strato F a Noise Floor</title>
+      <link>http://localhost:1313/posts/33-glossario-swl/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/33-glossario-swl/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Il radioascolto ha un linguaggio proprio — codici Q, sigle tecniche, termini ionosferici, abbreviazioni da telegrafia. Chi inizia si trova spesso spaesato. Questo glossario raccoglie i termini più usati nella pratica quotidiana.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;a&#34;&gt;A&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;ADC&lt;/strong&gt; — Analog to Digital Converter. Il convertitore che trasforma il segnale radio analogico in numeri. La qualità dell&amp;rsquo;ADC (numero di bit, frequenza di campionamento, linearità) determina in larga misura le prestazioni di un ricevitore SDR.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Il Perseus: Perché è Ancora il Riferimento dopo Vent&#39;anni</title>
+      <link>http://localhost:1313/posts/32-perseus-ricevitore-riferimento/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/32-perseus-ricevitore-riferimento/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Nel 2006 la Microtelecom italiana ha messo sul mercato il Perseus. Venti anni dopo, in una discussione del GIR, qualcuno cita il Kenwood R1000 come ricevitore mitico e aggiunge: &lt;em&gt;&amp;ldquo;non c&amp;rsquo;è SDR che lo batte&amp;hellip; (vabbeh, Perseus!)&amp;rdquo;&lt;/em&gt;. La parentesi dice tutto: il Perseus è ancora il termine di paragone con cui si misura tutto il resto.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Registrare le Ricezioni: Strumenti, Metodi e il Problema del Mini Registratore</title>
+      <link>http://localhost:1313/posts/31-registrare-ricezioni/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/31-registrare-ricezioni/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Una ricezione interessante dura pochi minuti. La stazione si identifica, dice qualcosa di utile per il rapporto, poi forse il segnale cala o arriva qualcosa di più forte sulla frequenza vicina. Se non hai registrato, quella ricezione esiste solo nella tua memoria — e la memoria è inaffidabile per i dettagli che contano in un rapporto di ascolto.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Risonanza e Impedenza: L&#39;Errore che Fanno Quasi Tutti</title>
+      <link>http://localhost:1313/posts/23-risonanza-impedenza-antenne/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/23-risonanza-impedenza-antenne/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Tra le incomprensioni tecniche più diffuse nel mondo delle antenne, una svetta su tutte: &lt;strong&gt;confondere risonanza con adattamento di impedenza&lt;/strong&gt;. Sono due concetti distinti, collegati ma non equivalenti. Confonderli porta a decisioni sbagliate nella costruzione e nel setup delle antenne.&lt;/p&gt;&#xA;&lt;h2 id=&#34;cosè-la-risonanza&#34;&gt;Cos&amp;rsquo;è la risonanza&lt;/h2&gt;&#xA;&lt;p&gt;Un&amp;rsquo;antenna risuona su una frequenza quando la sua lunghezza fisica è tale da formare un&amp;rsquo;onda stazionaria stabile nel conduttore. La frequenza di risonanza dipende dalla lunghezza dell&amp;rsquo;antenna (e dal suo ambiente circostante).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RFI e Rumore Elettrico: Come Identificarlo e Combatterlo</title>
+      <link>http://localhost:1313/posts/15-rfi-rumore-elettrico/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/15-rfi-rumore-elettrico/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Il nemico numero uno del radioascolto moderno non è la scarsità di stazioni — è il rumore. Le abitazioni contemporanee sono ambienti elettromagneticamente ostili: alimentatori switching, lampadine LED, inverter fotovoltaici, caricabatterie, router WiFi, televisori, pompe di calore. Ognuno di questi dispositivi emette disturbi radio in misura variabile. Capire come identificarli e ridurli può fare la differenza tra sentire e non sentire.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Capire la Propagazione HF: Ionosfera, Skip e Aurora</title>
+      <link>http://localhost:1313/posts/06-propagazione-hf-ionosfera-skip-aurora/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/06-propagazione-hf-ionosfera-skip-aurora/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&amp;ldquo;Perché oggi non si sente niente?&amp;rdquo; è la domanda più frequente tra chi inizia il radioascolto in HF. La risposta quasi sempre è: propagazione. Capire come funziona la propagazione ionosferica trasforma il radioascolto da attività casuale in qualcosa di molto più consapevole — e soddisfacente.&lt;/p&gt;&#xA;&lt;h2 id=&#34;la-ionosfera-il-riflettore-naturale&#34;&gt;La ionosfera: il riflettore naturale&lt;/h2&gt;&#xA;&lt;p&gt;A partire da circa 60 km di altitudine, i raggi UV e X del sole ionizzano gli strati superiori dell&amp;rsquo;atmosfera, creando zone di gas ionizzato che riflettono le onde radio a determinate frequenze. Questi strati — chiamati D, E, F1 e F2 — hanno comportamenti diversi a seconda dell&amp;rsquo;ora del giorno, della stagione e dell&amp;rsquo;attività solare.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Antenne Esterne per l&#39;HF: Dipoli, End-Fed e il Mistero dell&#39;Impedenza</title>
+      <link>http://localhost:1313/posts/02-antenne-esterne-hf-dipoli-endfed/</link>
+      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/02-antenne-esterne-hf-dipoli-endfed/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Quando si esce dalla miniloop da comodino e si vuole mettere un&amp;rsquo;antenna vera fuori — sul balcone, sul tetto, tesa tra due alberi — si entra in un territorio dove circolano molti miti e qualche equivoco tecnico. Il più comune riguarda il rapporto tra risonanza e impedenza: due concetti spesso confusi, ma distinti.&lt;/p&gt;&#xA;&lt;h2 id=&#34;risonanza-non-è-sinonimo-di-adattamento&#34;&gt;Risonanza non è sinonimo di adattamento&lt;/h2&gt;&#xA;&lt;p&gt;Un&amp;rsquo;antenna risuona a una certa frequenza quando la sua lunghezza fisica è un multiplo della lunghezza d&amp;rsquo;onda del segnale. Una antenna risonante è efficiente: trasferisce bene l&amp;rsquo;energia tra il campo elettromagnetico e il cavo di discesa. Ma questo non dice nulla sull&amp;rsquo;impedenza al punto di alimentazione.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bcl on Radioascolto Pratico</title>
+    <link>http://localhost:1313/tags/bcl/</link>
+    <description>Recent content in Bcl on Radioascolto Pratico</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Thu, 12 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/bcl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SWL o BCL? Capire le Differenze e Trovare la Propria Identità nel Radioascolto</title>
+      <link>http://localhost:1313/posts/22-swl-vs-bcl-differenze/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/22-swl-vs-bcl-differenze/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Nel mondo del radioascolto si usano due sigle che spesso si sovrappongono e si confondono: &lt;strong&gt;SWL&lt;/strong&gt; e &lt;strong&gt;BCL&lt;/strong&gt;. Non sono sinonimi, anche se molti le usano come tali. Capire la differenza aiuta a orientarsi nella community e, soprattutto, a capire cosa si sta facendo e perché.&lt;/p&gt;&#xA;&lt;h2 id=&#34;swl-short-wave-listener&#34;&gt;SWL: Short Wave Listener&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;SWL&lt;/strong&gt; significa letteralmente &amp;ldquo;ascoltatore di onde corte&amp;rdquo; (dall&amp;rsquo;inglese &lt;em&gt;Short Wave Listener&lt;/em&gt;). In senso stretto, uno SWL ascolta le bande HF — tipicamente 3–30 MHz — con interesse particolare per le comunicazioni radioamatoriali. L&amp;rsquo;attività principale è ascoltare QSO tra radioamatori, annotarli nel log, e inviare rapporti di ricezione alle stazioni ascoltate per ricevere la QSL di conferma.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

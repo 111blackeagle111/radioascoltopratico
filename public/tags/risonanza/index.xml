@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Risonanza on Radioascolto Pratico</title>
+    <link>http://localhost:1313/tags/risonanza/</link>
+    <description>Recent content in Risonanza on Radioascolto Pratico</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Thu, 12 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/risonanza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Risonanza e Impedenza: L&#39;Errore che Fanno Quasi Tutti</title>
+      <link>http://localhost:1313/posts/23-risonanza-impedenza-antenne/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/23-risonanza-impedenza-antenne/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Tra le incomprensioni tecniche più diffuse nel mondo delle antenne, una svetta su tutte: &lt;strong&gt;confondere risonanza con adattamento di impedenza&lt;/strong&gt;. Sono due concetti distinti, collegati ma non equivalenti. Confonderli porta a decisioni sbagliate nella costruzione e nel setup delle antenne.&lt;/p&gt;&#xA;&lt;h2 id=&#34;cosè-la-risonanza&#34;&gt;Cos&amp;rsquo;è la risonanza&lt;/h2&gt;&#xA;&lt;p&gt;Un&amp;rsquo;antenna risuona su una frequenza quando la sua lunghezza fisica è tale da formare un&amp;rsquo;onda stazionaria stabile nel conduttore. La frequenza di risonanza dipende dalla lunghezza dell&amp;rsquo;antenna (e dal suo ambiente circostante).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
