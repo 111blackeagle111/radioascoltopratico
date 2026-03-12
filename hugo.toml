@@ -11,3 +11,13 @@ theme = "ananke"
 [params]
   description = "Blog tecnico sulla ricezione radio: onde medie, HF, SDR, antenne e propagazione. Ispirato dalle discussioni della community GIR."
   recent_posts_number = 11
+
+[[menus.main]]
+  name = "Chi Siamo"
+  url = "/chi-siamo/"
+  weight = 10
+
+[[menus.main]]
+  name = "Licenza"
+  url = "/licenza/"
+  weight = 20
