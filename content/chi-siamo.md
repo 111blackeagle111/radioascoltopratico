@@ -41,6 +41,6 @@ Recensioni pagate. Affiliazioni. Contenuti generati automaticamente. Affermazion
 
 ## Contatti
 
-Per segnalare errori tecnici, proporre argomenti o condividere ricezioni interessanti: usa il modulo di contatto o scrivi all'indirizzo che trovi in fondo alla pagina.
+Per segnalare errori tecnici, proporre argomenti o condividere ricezioni interessanti, scrivici a 1blackeagle1@protonmail.com
 
 Le QSL non le mandiamo — non trasmettiamo. Ma ci fa piacere sapere cosa avete ricevuto.
