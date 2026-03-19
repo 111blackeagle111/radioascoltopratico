@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile on Radioascolto Pratico</title>
+    <link>http://localhost:1313/tags/mobile/</link>
+    <description>Recent content in Mobile on Radioascolto Pratico</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Sat, 07 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Radioascolto in Auto: Setup Mobile e le Ore Piccole in MW</title>
+      <link>http://localhost:1313/posts/14-radioascolto-in-auto-mobile/</link>
+      <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/14-radioascolto-in-auto-mobile/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Uno degli ambienti di ascolto più sottovalutati è l&amp;rsquo;automobile. Lontana dai disturbi elettrici domestici, con un&amp;rsquo;antenna esterna già installata (quella dell&amp;rsquo;autoradio), e disponibile nelle ore in cui la propagazione MW è migliore — le prime ore del mattino, quando pochi altri sono svegli — l&amp;rsquo;auto può diventare un&amp;rsquo;ottima stazione mobile.&lt;/p&gt;&#xA;&lt;h2 id=&#34;perché-lauto-funziona-bene&#34;&gt;Perché l&amp;rsquo;auto funziona bene&lt;/h2&gt;&#xA;&lt;p&gt;Il principale nemico del radioascolto in ambienti urbani è il rumore elettrico: alimentatori switching, LED, inverter fotovoltaici, caricabatterie. L&amp;rsquo;auto, specialmente ferma con il motore spento, è relativamente pulita da questi disturbi. L&amp;rsquo;impianto elettrico a 12V è stabile, e l&amp;rsquo;alternatore (quando il motore è acceso) introduce un po&amp;rsquo; di rumore ma nulla di paragonabile all&amp;rsquo;inferno elettromagnetico di un appartamento moderno.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

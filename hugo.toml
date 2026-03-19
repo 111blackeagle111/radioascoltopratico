@@ -1,0 +1,49 @@
+baseURL = "https://www.radioascoltopratico.org/"
+languageCode = "it-IT"
+title = "Radioascolto Pratico"
+theme = "ananke"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  description = "Blog tecnico sulla ricezione radio: onde medie, HF, SDR, antenne e propagazione. Ispirato dalle discussioni della community GIR."
+  recent_posts_number = 11
+  featured_image = "/images/og-default.png"
+  images = ["/images/og-default.png"]
+  author = "Radioascolto Pratico"
+
+  [params.social]
+    # Decommenta e compila quando crei i profili social
+    # facebook = "radioascoltopratico"
+    # twitter = "radioascoltopratico"
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+[[menus.main]]
+  name = "Chi Siamo"
+  url = "/chi-siamo/"
+  weight = 10
+
+[[menus.main]]
+  name = "Newsletter"
+  url = "/newsletter/"
+  weight = 15
+
+[[menus.main]]
+  name = "Telegram"
+  url = "https://t.me/radioascoltopratico"
+  weight = 16
+
+[[menus.main]]
+  name = "Licenza"
+  url = "/licenza/"
+  weight = 20

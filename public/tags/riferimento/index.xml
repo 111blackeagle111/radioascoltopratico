@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Riferimento on Radioascolto Pratico</title>
+    <link>http://localhost:1313/tags/riferimento/</link>
+    <description>Recent content in Riferimento on Radioascolto Pratico</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Thu, 12 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/riferimento/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Il Perseus: Perché è Ancora il Riferimento dopo Vent&#39;anni</title>
+      <link>http://localhost:1313/posts/32-perseus-ricevitore-riferimento/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/32-perseus-ricevitore-riferimento/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Nel 2006 la Microtelecom italiana ha messo sul mercato il Perseus. Venti anni dopo, in una discussione del GIR, qualcuno cita il Kenwood R1000 come ricevitore mitico e aggiunge: &lt;em&gt;&amp;ldquo;non c&amp;rsquo;è SDR che lo batte&amp;hellip; (vabbeh, Perseus!)&amp;rdquo;&lt;/em&gt;. La parentesi dice tutto: il Perseus è ancora il termine di paragone con cui si misura tutto il resto.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

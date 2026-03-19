@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Appartamento on Radioascolto Pratico</title>
+    <link>http://localhost:1313/tags/appartamento/</link>
+    <description>Recent content in Appartamento on Radioascolto Pratico</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Thu, 12 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/appartamento/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Antenne per Chi Abita in Condominio: Soluzioni Reali per Spazi Impossibili</title>
+      <link>http://localhost:1313/posts/30-antenne-condominio-balcone/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/30-antenne-condominio-balcone/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;La maggior parte degli appassionati di radioascolto in Italia abita in appartamento. Niente spazio per un dipolo da 40 metri, niente terreno per piantare radiali, niente tetto accessibile. Eppure si sente lo stesso — se si sceglie l&amp;rsquo;approccio giusto.&lt;/p&gt;&#xA;&lt;h2 id=&#34;il-vincolo-reale&#34;&gt;Il vincolo reale&lt;/h2&gt;&#xA;&lt;p&gt;Il problema dell&amp;rsquo;appartamento non è solo lo spazio: è il &lt;strong&gt;rumore elettrico interno&lt;/strong&gt; combinato con la &lt;strong&gt;mancanza di antenna esterna&lt;/strong&gt;. Un&amp;rsquo;antenna interna (anche buona) cattura sia il segnale esterno che tutto il rumore generato dall&amp;rsquo;edificio. L&amp;rsquo;antenna interna è sempre un compromesso, e in un palazzo moderno con molte sorgenti RFI il compromesso è spesso penalizzante.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

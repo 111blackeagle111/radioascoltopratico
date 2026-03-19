@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="it-IT">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>WebSDR e Ricezione Remota: Opportunità, Limiti e Questione Etica | Radioascolto Pratico</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="
+Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).
+
+
+Internet ha cambiato il radioascolto in modo radicale. Oggi chiunque può collegarsi a un ricevitore SDR collegato a un&rsquo;antenna in Giappone, in Australia, o in un&rsquo;isola sperduta nell&rsquo;Oceano Indiano, e ascoltare le bande HF come se fosse fisicamente lì. È un privilegio tecnico straordinario — e solleva domande interessanti su cosa significhi &ldquo;ascoltare la radio&rdquo;.">
+    <meta name="generator" content="Hugo 0.154.5">
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+    
+
+    
+<link rel="stylesheet" href="/ananke/css/main.min.css" >
+
+
+
+
+    
+
+
+    
+      
+
+    
+
+    
+
+    
+      <link rel="canonical" href="http://localhost:1313/posts/21-websdr-ricezione-remota/">
+    
+
+    
+    
+    <meta property="og:url" content="http://localhost:1313/posts/21-websdr-ricezione-remota/">
+  <meta property="og:site_name" content="Radioascolto Pratico">
+  <meta property="og:title" content="WebSDR e Ricezione Remota: Opportunità, Limiti e Questione Etica">
+  <meta property="og:description" content="Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).
+Internet ha cambiato il radioascolto in modo radicale. Oggi chiunque può collegarsi a un ricevitore SDR collegato a un’antenna in Giappone, in Australia, o in un’isola sperduta nell’Oceano Indiano, e ascoltare le bande HF come se fosse fisicamente lì. È un privilegio tecnico straordinario — e solleva domande interessanti su cosa significhi “ascoltare la radio”.">
+  <meta property="og:locale" content="it_IT">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2026-03-07T00:00:00+00:00">
+    <meta property="article:modified_time" content="2026-03-07T00:00:00+00:00">
+    <meta property="article:tag" content="Websdr">
+    <meta property="article:tag" content="Openwebrx">
+    <meta property="article:tag" content="Kiwisdr">
+    <meta property="article:tag" content="Sdr">
+    <meta property="article:tag" content="Remoto">
+
+  <meta itemprop="name" content="WebSDR e Ricezione Remota: Opportunità, Limiti e Questione Etica">
+  <meta itemprop="description" content="Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).
+Internet ha cambiato il radioascolto in modo radicale. Oggi chiunque può collegarsi a un ricevitore SDR collegato a un’antenna in Giappone, in Australia, o in un’isola sperduta nell’Oceano Indiano, e ascoltare le bande HF come se fosse fisicamente lì. È un privilegio tecnico straordinario — e solleva domande interessanti su cosa significhi “ascoltare la radio”.">
+  <meta itemprop="datePublished" content="2026-03-07T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2026-03-07T00:00:00+00:00">
+  <meta itemprop="wordCount" content="810">
+  <meta itemprop="keywords" content="Websdr,Openwebrx,Kiwisdr,Sdr,Remoto">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="WebSDR e Ricezione Remota: Opportunità, Limiti e Questione Etica">
+  <meta name="twitter:description" content="Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).
+Internet ha cambiato il radioascolto in modo radicale. Oggi chiunque può collegarsi a un ricevitore SDR collegato a un’antenna in Giappone, in Australia, o in un’isola sperduta nell’Oceano Indiano, e ascoltare le bande HF come se fosse fisicamente lì. È un privilegio tecnico straordinario — e solleva domande interessanti su cosa significhi “ascoltare la radio”.">
+
+	
+  </head><body class="ma0 avenir bg-near-white development is-page is-page page-21-websdr-ricezione-remota">
+    
+   
+  
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l center items-center justify-between">
+    <a href="/" class="f3 fw2 hover-white white-90 dib no-underline">
+      
+        Radioascolto Pratico
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+      <div class="ananke-socials"></div>
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+
+  <article class="page-21-websdr-ricezione-remota flex-l mw7 center ph3 flex-wrap justify-between">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked ttu">
+          
+        Articoli
+      </aside><div id="sharing" class="mt3 ananke-socials"></div>
+<h1 class="f1 athelas mt3 mb1">WebSDR e Ricezione Remota: Opportunità, Limiti e Questione Etica</h1>
+      
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2026-03-07T00:00:00Z">March 7, 2026</time>
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-100-l"><blockquote>
+<p><em>Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).</em></p>
+</blockquote>
+<hr>
+<p>Internet ha cambiato il radioascolto in modo radicale. Oggi chiunque può collegarsi a un ricevitore SDR collegato a un&rsquo;antenna in Giappone, in Australia, o in un&rsquo;isola sperduta nell&rsquo;Oceano Indiano, e ascoltare le bande HF come se fosse fisicamente lì. È un privilegio tecnico straordinario — e solleva domande interessanti su cosa significhi &ldquo;ascoltare la radio&rdquo;.</p>
+<h2 id="come-funziona">Come funziona</h2>
+<p>Un <strong>KiwiSDR</strong> o un sistema <strong>OpenWebRX</strong> è un ricevitore SDR collegato a un&rsquo;antenna, connesso a internet, che permette a più utenti simultanei di sintonizzarsi su frequenze diverse nella finestra di banda coperta dal sistema (tipicamente 0–30 MHz per i KiwiSDR).</p>
+<p>L&rsquo;interfaccia è un browser web: si vede il waterfall in tempo reale, si clicca sulla frequenza desiderata, si sceglie il modo (AM, SSB, CW, ecc.) e si ascolta. Non serve installare nulla. Non serve possedere alcuna attrezzatura.</p>
+<p>La rete <strong>KiwiSDR.com</strong> aggrega centinaia di ricevitori in tutto il mondo su una mappa interattiva. <strong>WebSDR.org</strong> fa lo stesso per i sistemi WebSDR universitari. Entrambi sono gratuiti e accessibili a chiunque.</p>
+<h2 id="cosa-permettono-di-fare">Cosa permettono di fare</h2>
+<p>Le applicazioni pratiche sono molte:</p>
+<p><strong>Verifica propagazione</strong>: prima di montare l&rsquo;antenna sul tetto e fare prove, è utile capire cosa si riceve su una certa frequenza da una certa direzione. Un KiwiSDR in Finlandia ti dice cosa arriva dalla Russia verso nord; uno in Giappone cosa arriva dall&rsquo;Asia.</p>
+<p><strong>Ascolto da location impossibili</strong>: vivere in un appartamento con RFI altissima e nessuna possibilità di mettere un&rsquo;antenna esterna non significa rinunciare al radioascolto HF. Un WebSDR remoto in una location rurale è molto meglio di nessun ascolto.</p>
+<p><strong>Confronto di antenne</strong>: chi gestisce un KiwiSDR con più antenne commutabili può confrontare in tempo reale come sente lo stesso segnale con antenna diversa — uno strumento di apprendimento concreto.</p>
+<p><strong>Monitoraggio eventi</strong>: seguire in diretta una trasmissione storica o una stazione rara da un nodo remoto ben posizionato geograficamente.</p>
+<h2 id="i-limiti-tecnici-e-pratici">I limiti tecnici e pratici</h2>
+<p>I sistemi remoti hanno limitazioni reali:</p>
+<p><strong>Latenza</strong>: l&rsquo;audio arriva con ritardo. Non è un problema per l&rsquo;ascolto passivo, ma rende impossibile operare in modalità interattiva (non che un SWL debba farlo).</p>
+<p><strong>Utenti multipli</strong>: i KiwiSDR gratuiti hanno un numero limitato di connessioni simultanee (tipicamente 4–8). Nei momenti di punta alcune frequenze molto cercate sono occupate.</p>
+<p><strong>Dipendenza dalla connessione</strong>: se cade internet, cade tutto. Con un ricevitore fisico e un&rsquo;antenna in giardino si è autonomi.</p>
+<p><strong>Audio compresso</strong>: l&rsquo;audio arriva via streaming compresso. Non è la stessa qualità di un segnale HF diretto su un buon ricevitore, anche se la differenza è spesso trascurabile per l&rsquo;ascolto normale.</p>
+<h2 id="la-questione-etica-conta-come-ascolto-vero">La questione etica: conta come &ldquo;ascolto vero&rdquo;?</h2>
+<p>Questa è la domanda che divide la community. E la risposta dipende da cosa si cerca nell&rsquo;attività di radioascolto.</p>
+<p>Se l&rsquo;obiettivo è <strong>sentire un segnale radio e identificare una stazione</strong>, il WebSDR funziona benissimo. Se l&rsquo;obiettivo è <strong>sviluppare competenze tecniche</strong> — costruire antenne, ottimizzare la ricezione, capire come la propria location interagisce con la propagazione — allora il WebSDR non insegna nulla, perché le variabili locali non ci sono.</p>
+<p>Per questo motivo eventi come la <strong>Maratona SWL</strong> escludono esplicitamente i ricevitori remoti: l&rsquo;obiettivo è &ldquo;allenamento all&rsquo;ascolto&rdquo; nella propria location con le proprie attrezzature. La difficoltà fa parte dell&rsquo;esercizio.</p>
+<blockquote>
+<p>💬 <em>Esperienza GIR: la distinzione tra ascolto remoto e ascolto &ldquo;vero&rdquo; è emersa esplicitamente nella discussione sulla Maratona SWL — la scelta di escludere KiwiSDR e remote è una posizione consapevole della community, non una limitazione tecnica.</em></p>
+<p>📖 <em>Non esiste una definizione normativa di &ldquo;ascolto SWL autentico&rdquo;. La distinzione tra WebSDR e ricevitore fisico è un criterio regolamentare adottato da alcuni eventi, non una categoria tecnica o giuridica.</em></p>
+<p>🔧 <em>Nota pratica: per imparare davvero il radioascolto — propagazione, antenne, rumore, identificazione stazioni — serve la propria stazione fisica. Il WebSDR è utile come complemento e strumento di esplorazione, non come sostituto.</em></p>
+</blockquote>
+<p>Una posizione ragionevole: il WebSDR è un ottimo strumento complementare, non un sostituto. Usarlo per esplorare frequenze che non si conoscono, per verificare la propagazione, per ascoltare in momenti in cui la propria stazione non è disponibile — tutto legittimo. Usarlo come unica forma di radioascolto perdendosi tutta la parte tecnica e antenna — un po&rsquo; come guardare la montagna da Google Earth invece di salirci.</p>
+<h2 id="mettere-online-il-proprio-sdr-openwebrx">Mettere online il proprio SDR: OpenWebRX</h2>
+<p>Chi vuole contribuire alla rete invece di solo usarla può mettere online il proprio ricevitore con <strong>OpenWebRX+</strong>. È un progetto open source che permette di condividere un SDR (RTL-SDR, SDRplay, Elad, ecc.) via browser con altri utenti.</p>
+<p>Installarlo su un Raspberry Pi è un pomeriggio di lavoro. Il proprio KiwiSDR fatto in casa, con la propria antenna nella propria location — uno strumento per la community e per sé stessi.</p>
+<p>Un nodo OpenWebRX attivo nella propria città è un contributo concreto alla mappatura della propagazione e alla disponibilità di punti di ascolto italiani — una risorsa che manca rispetto ad altri paesi europei.</p>
+<ul class="pa0">
+  
+   <li class="list di">
+     <a href="/tags/websdr/" class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline">Websdr</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/openwebrx/" class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline">Openwebrx</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/kiwisdr/" class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline">Kiwisdr</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/sdr/" class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline">Sdr</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/remoto/" class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline">Remoto</a>
+   </li>
+  
+</ul>
+
+      
+    </div></article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="http://localhost:1313/" >
+    &copy;  Radioascolto Pratico 2026 
+  </a>
+    <div><div class="ananke-socials"></div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>

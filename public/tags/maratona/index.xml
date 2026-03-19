@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maratona on Radioascolto Pratico</title>
+    <link>http://localhost:1313/tags/maratona/</link>
+    <description>Recent content in Maratona on Radioascolto Pratico</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/maratona/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Maratona SWL: Cos&#39;è, Come Funziona e Come Partecipare</title>
+      <link>http://localhost:1313/posts/17-maratona-swl/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/17-maratona-swl/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Nel mondo dei radioamatori il &amp;ldquo;contest&amp;rdquo; è una gara di collegamento: chi fa più QSO in un tempo stabilito vince. Per gli SWL — che non trasmettono — esiste un equivalente: la &lt;strong&gt;Maratona SWL&lt;/strong&gt;, un periodo di ascolto intensivo in cui si cerca di ricevere il maggior numero possibile di stazioni, annotando tutto in un log.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

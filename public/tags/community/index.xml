@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community on Radioascolto Pratico</title>
+    <link>http://localhost:1313/tags/community/</link>
+    <description>Recent content in Community on Radioascolto Pratico</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Thu, 12 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/community/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chi Siamo: radioascolto pratico</title>
+      <link>http://localhost:1313/posts/37-chi-siamo/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/37-chi-siamo/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;radioascolto pratico&lt;/strong&gt; è un blog dedicato all&amp;rsquo;ascolto delle onde radio — onde medie, onde corte, onde lunghe, utility — scritto da appassionati per appassionati.&lt;/p&gt;&#xA;&lt;p&gt;Non vendiamo niente. Non abbiamo sponsor. Non siamo un&amp;rsquo;azienda.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;da-dove-veniamo&#34;&gt;Da dove veniamo&lt;/h2&gt;&#xA;&lt;p&gt;Siamo un gruppo di ascoltatori italiani con anni di log alle spalle, ricevitori che vanno dai portatili economici ai riferimenti SDR, antenne sul balcone e antenne in campo aperto. Abbiamo iniziato ad ascoltare in epoche diverse — c&amp;rsquo;è chi ricorda Radio Mosca sulle onde medie e chi ha scoperto il radioascolto con un RTL-SDR da 25 euro.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Regolamento Maratona SWL: Bozza e File Scaricabile</title>
+      <link>http://localhost:1313/posts/38-regolamento-maratona-swl/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/38-regolamento-maratona-swl/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;La Maratona SWL è una gara di radioascolto — chi riesce a loggare più stazioni diverse in un arco di tempo definito, su bande e modi prestabiliti. Non si trasmette: si ascolta, si identifica, si annota. Questa è la bozza di regolamento usata come riferimento dalla nostra community.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;anteprima-del-regolamento&#34;&gt;Anteprima del regolamento&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/preview-regolamento-maratona-1.png&#34; alt=&#34;Anteprima regolamento Maratona SWL&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SWL o BCL? Capire le Differenze e Trovare la Propria Identità nel Radioascolto</title>
+      <link>http://localhost:1313/posts/22-swl-vs-bcl-differenze/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/22-swl-vs-bcl-differenze/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Nel mondo del radioascolto si usano due sigle che spesso si sovrappongono e si confondono: &lt;strong&gt;SWL&lt;/strong&gt; e &lt;strong&gt;BCL&lt;/strong&gt;. Non sono sinonimi, anche se molti le usano come tali. Capire la differenza aiuta a orientarsi nella community e, soprattutto, a capire cosa si sta facendo e perché.&lt;/p&gt;&#xA;&lt;h2 id=&#34;swl-short-wave-listener&#34;&gt;SWL: Short Wave Listener&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;SWL&lt;/strong&gt; significa letteralmente &amp;ldquo;ascoltatore di onde corte&amp;rdquo; (dall&amp;rsquo;inglese &lt;em&gt;Short Wave Listener&lt;/em&gt;). In senso stretto, uno SWL ascolta le bande HF — tipicamente 3–30 MHz — con interesse particolare per le comunicazioni radioamatoriali. L&amp;rsquo;attività principale è ascoltare QSO tra radioamatori, annotarli nel log, e inviare rapporti di ricezione alle stazioni ascoltate per ricevere la QSL di conferma.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

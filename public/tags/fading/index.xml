@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fading on Radioascolto Pratico</title>
+    <link>http://localhost:1313/tags/fading/</link>
+    <description>Recent content in Fading on Radioascolto Pratico</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Thu, 12 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fading: Tipi, Cause e Come Riconoscerli all&#39;Ascolto</title>
+      <link>http://localhost:1313/posts/24-fading-tipi-cause/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/24-fading-tipi-cause/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Chi ascolta le onde medie o le onde corte conosce bene il fading: quella variazione di intensità del segnale che fa sì che una stazione forte un momento diventi quasi inudibile il momento successivo. Non è un difetto del ricevitore — è la propagazione radio che parla. Imparare a distinguere i tipi di fading aiuta a capire cosa sta succedendo nell&amp;rsquo;etere.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

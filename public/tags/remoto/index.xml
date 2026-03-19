@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Remoto on Radioascolto Pratico</title>
+    <link>http://localhost:1313/tags/remoto/</link>
+    <description>Recent content in Remoto on Radioascolto Pratico</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/remoto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WebSDR e Ricezione Remota: Opportunità, Limiti e Questione Etica</title>
+      <link>http://localhost:1313/posts/21-websdr-ricezione-remota/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/21-websdr-ricezione-remota/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Internet ha cambiato il radioascolto in modo radicale. Oggi chiunque può collegarsi a un ricevitore SDR collegato a un&amp;rsquo;antenna in Giappone, in Australia, o in un&amp;rsquo;isola sperduta nell&amp;rsquo;Oceano Indiano, e ascoltare le bande HF come se fosse fisicamente lì. È un privilegio tecnico straordinario — e solleva domande interessanti su cosa significhi &amp;ldquo;ascoltare la radio&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

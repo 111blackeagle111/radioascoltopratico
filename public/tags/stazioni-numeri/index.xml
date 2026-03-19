@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stazioni-Numeri on Radioascolto Pratico</title>
+    <link>http://localhost:1313/tags/stazioni-numeri/</link>
+    <description>Recent content in Stazioni-Numeri on Radioascolto Pratico</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/stazioni-numeri/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Utility Listening: Radiosonde, VOLMET, Stazioni Numeri</title>
+      <link>http://localhost:1313/posts/08-utility-listening-radiosonde-volmet-stazioni-numeri/</link>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/08-utility-listening-radiosonde-volmet-stazioni-numeri/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Non tutto il radioascolto è fatto di emittenti con programmi musicali o notiziari. Esiste un intero universo di trasmissioni &amp;ldquo;di servizio&amp;rdquo; — le cosiddette &lt;strong&gt;utility&lt;/strong&gt; — che spaziano dalle comunicazioni aeronautiche ai bollettini meteo per navi, dalle sonde meteorologiche ai segnali di stazioni la cui identità è ancora oggi oggetto di dibattito. Per molti ascoltatori, questo è il segmento più affascinante dello spettro.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

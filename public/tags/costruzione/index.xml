@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Costruzione on Radioascolto Pratico</title>
+    <link>http://localhost:1313/tags/costruzione/</link>
+    <description>Recent content in Costruzione on Radioascolto Pratico</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/costruzione/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Il Preselettore: il Componente che Tutti Dovrebbero Avere</title>
+      <link>http://localhost:1313/posts/09-preselettore-radioascolto/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/09-preselettore-radioascolto/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;C&amp;rsquo;è un accessorio quasi universalmente sottovalutato da chi inizia il radioascolto: il &lt;strong&gt;preselettore&lt;/strong&gt;. Non è il ricevitore più performante, non è l&amp;rsquo;antenna più lunga — è un filtro che si mette tra l&amp;rsquo;antenna e il ricevitore, e che in molte situazioni fa una differenza più grande di qualsiasi upgrade hardware.&lt;/p&gt;&#xA;&lt;h2 id=&#34;il-problema-che-risolve&#34;&gt;Il problema che risolve&lt;/h2&gt;&#xA;&lt;p&gt;I ricevitori moderni, specialmente i portatili consumer, hanno frontend relativamente lineari: amplificano tutto quello che arriva dall&amp;rsquo;antenna, indipendentemente dalla frequenza. Questo va bene quando i segnali sono deboli e distribuiti uniformemente. Va male quando c&amp;rsquo;è una stazione molto forte vicina alla frequenza di interesse.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>La Loop Magnetica per le Onde Medie: dalla Miniloop alla BILOOP</title>
+      <link>http://localhost:1313/posts/01-loop-biloop-onde-medie/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/01-loop-biloop-onde-medie/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Chi si avvicina all&amp;rsquo;ascolto delle onde medie si scontra quasi subito con lo stesso problema: l&amp;rsquo;antenna interna alla radio non basta. La ferrite integrata nei portatili è un compromesso accettabile per la ricezione locale, ma per fare DX serio — cioè ricevere stazioni lontane centinaia o migliaia di chilometri — serve qualcosa di meglio. La risposta più accessibile, soprattutto per chi abita in appartamento, è la &lt;strong&gt;loop magnetica&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

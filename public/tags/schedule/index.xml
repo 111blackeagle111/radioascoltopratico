@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schedule on Radioascolto Pratico</title>
+    <link>http://localhost:1313/tags/schedule/</link>
+    <description>Recent content in Schedule on Radioascolto Pratico</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Thu, 12 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/schedule/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EIBI, WRTH e gli Altri: i Database Indispensabili per l&#39;Ascoltatore</title>
+      <link>http://localhost:1313/posts/25-database-schedule-eibi-wrth/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/25-database-schedule-eibi-wrth/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Senza una mappa, l&amp;rsquo;etere è un caos di segnali non identificabili. Con i giusti database, ogni frequenza diventa una storia: chi trasmette, da dove, in quale lingua, a che ora. Questi strumenti sono il secondo pilastro del radioascolto — dopo l&amp;rsquo;antenna.&lt;/p&gt;&#xA;&lt;h2 id=&#34;eibi-il-database-gratuito-di-riferimento&#34;&gt;EIBI: il database gratuito di riferimento&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;EIBI&lt;/strong&gt; (&lt;em&gt;Eike&amp;rsquo;s International Broadcast Information&lt;/em&gt;) è il database più completo e aggiornato per le emittenti radiofoniche internazionali in onde corte e medie. Mantenuto da Eike Bierwirth, viene aggiornato due volte all&amp;rsquo;anno in coincidenza con i cambi di schedule stagionali (primavera/estate e autunno/inverno).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Schede Frequenza per Banda: Cosa si Trova, Orari e Stazioni Tipiche</title>
+      <link>http://localhost:1313/posts/34-schede-frequenza-bande/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/34-schede-frequenza-bande/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Una scheda rapida per ogni banda — cosa aspettarsi, quando sintonizzarsi, quali stazioni cercare. Tutti gli orari sono in &lt;strong&gt;UTC&lt;/strong&gt;. Per gli schedule aggiornati consultare sempre &lt;strong&gt;EIBI&lt;/strong&gt; (eibispace.de).&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;onde-lunghe--lw-150530-khz&#34;&gt;Onde Lunghe — LW (150–530 kHz)&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Propagazione&lt;/strong&gt;: onda di superficie, stabile h24, indipendente dalla ionosfera.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Cosa si trova&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Emittenti broadcast (pochissime rimaste in Europa)&lt;/li&gt;&#xA;&lt;li&gt;NDB aeronautici (beacon CW con codice ICAO)&lt;/li&gt;&#xA;&lt;li&gt;Stazioni di tempo/frequenza: DCF77 (77,5 kHz Germania), TDF (162 kHz Francia), MSF (60 kHz UK)&lt;/li&gt;&#xA;&lt;li&gt;NAVTEX su 518 kHz e 490 kHz&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Stazioni di riferimento dall&amp;rsquo;Italia&lt;/strong&gt;:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

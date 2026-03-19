@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rfi on Radioascolto Pratico</title>
+    <link>http://localhost:1313/tags/rfi/</link>
+    <description>Recent content in Rfi on Radioascolto Pratico</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Sat, 14 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/rfi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RFI e Rumore Elettrico: Come Identificarlo e Combatterlo</title>
+      <link>http://localhost:1313/posts/15-rfi-rumore-elettrico/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/15-rfi-rumore-elettrico/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Il nemico numero uno del radioascolto moderno non è la scarsità di stazioni — è il rumore. Le abitazioni contemporanee sono ambienti elettromagneticamente ostili: alimentatori switching, lampadine LED, inverter fotovoltaici, caricabatterie, router WiFi, televisori, pompe di calore. Ognuno di questi dispositivi emette disturbi radio in misura variabile. Capire come identificarli e ridurli può fare la differenza tra sentire e non sentire.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

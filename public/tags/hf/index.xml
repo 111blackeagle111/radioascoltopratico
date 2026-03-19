@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hf on Radioascolto Pratico</title>
+    <link>http://localhost:1313/tags/hf/</link>
+    <description>Recent content in Hf on Radioascolto Pratico</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Sat, 06 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Capire la Propagazione HF: Ionosfera, Skip e Aurora</title>
+      <link>http://localhost:1313/posts/06-propagazione-hf-ionosfera-skip-aurora/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/06-propagazione-hf-ionosfera-skip-aurora/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&amp;ldquo;Perché oggi non si sente niente?&amp;rdquo; è la domanda più frequente tra chi inizia il radioascolto in HF. La risposta quasi sempre è: propagazione. Capire come funziona la propagazione ionosferica trasforma il radioascolto da attività casuale in qualcosa di molto più consapevole — e soddisfacente.&lt;/p&gt;&#xA;&lt;h2 id=&#34;la-ionosfera-il-riflettore-naturale&#34;&gt;La ionosfera: il riflettore naturale&lt;/h2&gt;&#xA;&lt;p&gt;A partire da circa 60 km di altitudine, i raggi UV e X del sole ionizzano gli strati superiori dell&amp;rsquo;atmosfera, creando zone di gas ionizzato che riflettono le onde radio a determinate frequenze. Questi strati — chiamati D, E, F1 e F2 — hanno comportamenti diversi a seconda dell&amp;rsquo;ora del giorno, della stagione e dell&amp;rsquo;attività solare.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Antenne Esterne per l&#39;HF: Dipoli, End-Fed e il Mistero dell&#39;Impedenza</title>
+      <link>http://localhost:1313/posts/02-antenne-esterne-hf-dipoli-endfed/</link>
+      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/02-antenne-esterne-hf-dipoli-endfed/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Alcune informazioni e spunti in questo articolo provengono da discussioni della community GIR (Gruppo Italiano Radioascolto).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Quando si esce dalla miniloop da comodino e si vuole mettere un&amp;rsquo;antenna vera fuori — sul balcone, sul tetto, tesa tra due alberi — si entra in un territorio dove circolano molti miti e qualche equivoco tecnico. Il più comune riguarda il rapporto tra risonanza e impedenza: due concetti spesso confusi, ma distinti.&lt;/p&gt;&#xA;&lt;h2 id=&#34;risonanza-non-è-sinonimo-di-adattamento&#34;&gt;Risonanza non è sinonimo di adattamento&lt;/h2&gt;&#xA;&lt;p&gt;Un&amp;rsquo;antenna risuona a una certa frequenza quando la sua lunghezza fisica è un multiplo della lunghezza d&amp;rsquo;onda del segnale. Una antenna risonante è efficiente: trasferisce bene l&amp;rsquo;energia tra il campo elettromagnetico e il cavo di discesa. Ma questo non dice nulla sull&amp;rsquo;impedenza al punto di alimentazione.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
