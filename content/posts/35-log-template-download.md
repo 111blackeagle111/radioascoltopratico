@@ -1,6 +1,7 @@
 ---
 title: "Log Ricezioni SWL/BCL: Scarica il Template Excel"
 date: 2026-03-12
+lastmod: 2026-11-01
 draft: false
 description: "Template Excel pronto per il log delle ricezioni SWL/BCL: campi SINPO, dropdown, formula automatica. Scarica e inizia a tracciare."
 tags:
@@ -93,12 +94,16 @@ Questo template Excel è pronto all'uso: tre fogli, dropdown preimpostati, formu
 **Caratteristiche del foglio:**
 - 30 righe preformattate con righe alternate colorate
 - **Dropdown** per Banda (LW / MW / SW), Modo (AM / SSB / FM / CW / DRM…) e QSL (Sì / No / In attesa)
-- **Formula SINPO automatica**: inserisci le 5 cifre separate e il codice si compone da solo
+- **Formula SINPO automatica**: il codice compare solo con cinque valori numerici interi da 1 a 5; con dati incompleti o non validi resta vuoto. La convalida segnala gli inserimenti non ammessi.
 - Data con formato `gg/mm/aaaa`, frequenza con separatore migliaia
+
+Per aggiungere righe, copia l’intera ultima riga del log (A:P), incluse formule, formati e convalide, quindi cancella soltanto i dati inseriti, lasciando la formula in N. Controlla che nelle nuove celle I:M sia presente la convalida per numeri interi da 1 a 5; se il programma non la copia, estendila manualmente. La convalida può essere aggirata da alcuni incolla: il controllo nella formula evita comunque codici parziali o non validi. Il file usa cinque valutazioni numeriche; per rapporti con parametri non valutati, SM.1135 ammette X, da gestire separatamente.
 
 ---
 
 ### Foglio 2 — Guida SINPO
+
+Riferimento: [ITU-R SM.1135](https://www.itu.int/dms_pubrec/itu-r/rec/sm/R-REC-SM.1135-0-199510-I%21%21PDF-S.pdf). S è una valutazione del segnale, non una lettura dello S-meter; P descrive i disturbi di propagazione e O la qualità complessiva.
 
 <div style="overflow-x:auto; margin: 1.5em 0;">
 <table style="border-collapse:collapse; font-size:0.82em; font-family:Arial,sans-serif;">
@@ -115,17 +120,17 @@ Questo template Excel è pronto all'uso: tre fogli, dropdown preimpostati, formu
   </thead>
   <tbody>
     <tr><td style="padding:5px 10px;border:1px solid #ccc;font-weight:bold;text-align:center;">S</td><td style="padding:5px 10px;border:1px solid #ccc;">Forza segnale</td><td style="padding:5px 10px;border:1px solid #ccc;">Appena percettibile</td><td style="padding:5px 10px;border:1px solid #ccc;">Debole</td><td style="padding:5px 10px;border:1px solid #ccc;">Moderata</td><td style="padding:5px 10px;border:1px solid #ccc;">Buona</td><td style="padding:5px 10px;border:1px solid #ccc;">Eccellente</td></tr>
-    <tr style="background:#f5f5f5;"><td style="padding:5px 10px;border:1px solid #ccc;font-weight:bold;text-align:center;">I</td><td style="padding:5px 10px;border:1px solid #ccc;">Interferenze</td><td style="padding:5px 10px;border:1px solid #ccc;">Copertura totale</td><td style="padding:5px 10px;border:1px solid #ccc;">Forte</td><td style="padding:5px 10px;border:1px solid #ccc;">Moderata</td><td style="padding:5px 10px;border:1px solid #ccc;">Lieve</td><td style="padding:5px 10px;border:1px solid #ccc;">Nessuna</td></tr>
-    <tr><td style="padding:5px 10px;border:1px solid #ccc;font-weight:bold;text-align:center;">N</td><td style="padding:5px 10px;border:1px solid #ccc;">Rumore</td><td style="padding:5px 10px;border:1px solid #ccc;">Forte</td><td style="padding:5px 10px;border:1px solid #ccc;">Notevole</td><td style="padding:5px 10px;border:1px solid #ccc;">Moderato</td><td style="padding:5px 10px;border:1px solid #ccc;">Lieve</td><td style="padding:5px 10px;border:1px solid #ccc;">Nessuno</td></tr>
-    <tr style="background:#f5f5f5;"><td style="padding:5px 10px;border:1px solid #ccc;font-weight:bold;text-align:center;">P</td><td style="padding:5px 10px;border:1px solid #ccc;">Propagazione</td><td style="padding:5px 10px;border:1px solid #ccc;">Fading grave</td><td style="padding:5px 10px;border:1px solid #ccc;">Fading forte</td><td style="padding:5px 10px;border:1px solid #ccc;">Fading moderato</td><td style="padding:5px 10px;border:1px solid #ccc;">Fading lieve</td><td style="padding:5px 10px;border:1px solid #ccc;">Stabile</td></tr>
-    <tr><td style="padding:5px 10px;border:1px solid #ccc;font-weight:bold;text-align:center;">O</td><td style="padding:5px 10px;border:1px solid #ccc;">Qualità globale</td><td style="padding:5px 10px;border:1px solid #ccc;">Inutilizzabile</td><td style="padding:5px 10px;border:1px solid #ccc;">Difficile</td><td style="padding:5px 10px;border:1px solid #ccc;">Comprensibile</td><td style="padding:5px 10px;border:1px solid #ccc;">Buona</td><td style="padding:5px 10px;border:1px solid #ccc;">Perfetta</td></tr>
+    <tr style="background:#f5f5f5;"><td style="padding:5px 10px;border:1px solid #ccc;font-weight:bold;text-align:center;">I</td><td style="padding:5px 10px;border:1px solid #ccc;">Interferenze</td><td style="padding:5px 10px;border:1px solid #ccc;">Molto forti</td><td style="padding:5px 10px;border:1px solid #ccc;">Forte</td><td style="padding:5px 10px;border:1px solid #ccc;">Moderata</td><td style="padding:5px 10px;border:1px solid #ccc;">Lieve</td><td style="padding:5px 10px;border:1px solid #ccc;">Nessuna</td></tr>
+    <tr><td style="padding:5px 10px;border:1px solid #ccc;font-weight:bold;text-align:center;">N</td><td style="padding:5px 10px;border:1px solid #ccc;">Rumore</td><td style="padding:5px 10px;border:1px solid #ccc;">Molto forte</td><td style="padding:5px 10px;border:1px solid #ccc;">Forte</td><td style="padding:5px 10px;border:1px solid #ccc;">Moderato</td><td style="padding:5px 10px;border:1px solid #ccc;">Lieve</td><td style="padding:5px 10px;border:1px solid #ccc;">Nessuno</td></tr>
+    <tr style="background:#f5f5f5;"><td style="padding:5px 10px;border:1px solid #ccc;font-weight:bold;text-align:center;">P</td><td style="padding:5px 10px;border:1px solid #ccc;">Disturbi di propagazione</td><td style="padding:5px 10px;border:1px solid #ccc;">Molto forti</td><td style="padding:5px 10px;border:1px solid #ccc;">Forti</td><td style="padding:5px 10px;border:1px solid #ccc;">Moderati</td><td style="padding:5px 10px;border:1px solid #ccc;">Lievi</td><td style="padding:5px 10px;border:1px solid #ccc;">Nessuno</td></tr>
+    <tr><td style="padding:5px 10px;border:1px solid #ccc;font-weight:bold;text-align:center;">O</td><td style="padding:5px 10px;border:1px solid #ccc;">Qualità globale</td><td style="padding:5px 10px;border:1px solid #ccc;">Inutilizzabile</td><td style="padding:5px 10px;border:1px solid #ccc;">Scarsa</td><td style="padding:5px 10px;border:1px solid #ccc;">Accettabile</td><td style="padding:5px 10px;border:1px solid #ccc;">Buona</td><td style="padding:5px 10px;border:1px solid #ccc;">Eccellente</td></tr>
   </tbody>
 </table>
 </div>
 
 ### Foglio 3 — Stazioni Preferite
 
-Lista precompilata con le stazioni di riferimento (Radio Polonia, Vesti FM, Radio Rossii, KBS, Shannon Volmet, UVB-76…) + righe vuote per aggiungere le proprie.
+Lista precompilata con le stazioni di riferimento (Polskie Radio Program 1 / Jedynka, Vesti FM, Radio Rossii, KBS, Shannon Volmet, UVB-76…) + righe vuote per aggiungere le proprie.
 
 ---
 
@@ -139,6 +144,6 @@ Lista precompilata con le stazioni di riferimento (Radio Polonia, Vesti FM, Radi
     📥 Scarica il Log Template (.xlsx)
   </a>
   <p style="font-size:0.8em; color:#666; margin-top:8px;">
-    Formato Microsoft Excel (.xlsx) — compatibile con LibreOffice Calc e Google Sheets
+    Formato Microsoft Excel (.xlsx). Dopo l’importazione in un altro programma, verifica formule e convalide prima dell’uso.
   </p>
 </div>

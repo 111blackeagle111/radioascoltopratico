@@ -15,7 +15,7 @@ tags:
 
 ---
 
-Una scheda rapida per ogni banda — cosa aspettarsi, quando sintonizzarsi, quali stazioni cercare. Tutti gli orari sono in **UTC**. Per gli schedule aggiornati consultare sempre **EIBI** (eibispace.de).
+Una scheda rapida per banda, con limiti riferiti alla Regione ITU 1 quando indicato. Tutti gli orari sono in **UTC**. Le segnalazioni GIR documentano gli ascolti del gruppo; le altre righe sono riferimenti da ricontrollare, non una conferma dell’attività odierna. Per 693 kHz, [BBC documenta Radio 5 Live](https://www.bbc.co.uk/sport/formula1/17238688); per 225 kHz, [Polskie Radio documenta Solec Kujawski e 1200 kW nominali](https://reportaz.polskieradio.pl/artykul/1448878%2CRadiostacja-w-Raszynie-sygnal-od-1931-roku). Consultare schedule datati e annunci dei gestori prima dell’ascolto.
 
 ---
 
@@ -32,7 +32,7 @@ Una scheda rapida per ogni banda — cosa aspettarsi, quando sintonizzarsi, qual
 
 | Frequenza | Stazione | Paese | Orario | Note |
 |-----------|----------|-------|--------|------|
-| 225 kHz | Radio Polonia | Polonia | H24 | Segnale fondo scala, sempre |
+| 225 kHz | Polskie Radio Program 1 (Jedynka) | Polonia | Verificare il servizio | Solec Kujawski, 1200 kW nominali; potenza effettiva e ricezione variabili |
 | 252 kHz | "Catena 3" Algeria | Algeria | H24 | 750 kW, forte di notte |
 | 162 kHz | TDF | Francia | Segnale di tempo/frequenza | Non è più il programma France Inter |
 
@@ -44,7 +44,9 @@ NAVTEX a **490 e 518 kHz** è in **MF**, non in LW. I bollettini vengono trasmes
 
 ---
 
-## Onde Medie — MW (530–1700 kHz)
+## Onde Medie — MW in Regione 1 (526,5–1606,5 kHz)
+
+I centri dei canali sono **531–1602 kHz**, con passo **9 kHz**. La ricerca oltre questi limiti è un’esplorazione fuori dalla porzione broadcast della Regione 1, non un’estensione della sua allocazione. Vedi il [riferimento ETSI](https://www.etsi.org/deliver/etsi_es/201900_201999/201980/02.02.01_60/es_201980v020201p.pdf).
 
 **Propagazione**: di giorno prevale spesso l'onda di superficie; di notte il minore assorbimento ionosferico favorisce il DX per onda di cielo. La [ITU-R P.1147-4](https://www.itu.int/dms_pubrec/itu-r/rec/p/R-REC-P.1147-4-200708-I%21%21PDF-E.pdf) considera predominante la regione **E** per le MW, con possibili contributi della F in condizioni particolari.
 
@@ -57,7 +59,7 @@ NAVTEX a **490 e 518 kHz** è in **MF**, non in LW. I bollettini vengono trasmes
 | Frequenza | Stazione | Paese | Potenza | Note |
 |-----------|----------|-------|---------|------|
 | 558 kHz | National Media Authority | Egitto | Alta | Sera UTC |
-| 693 kHz | BBC Radio 4 / altre | UK/Europa | — | Notte |
+| 693 kHz | BBC Radio 5 Live | UK | — | Identificazione storica; verificare lo stato del trasmettitore |
 | 747 kHz | Radio Seagull | UK (offshore) | — | Pirata storica |
 | 999 kHz | Vesti FM | Russia | 1000 kW | 11:00–15:00 UTC |
 | 1242 kHz | Radio Zoomrock | Finlandia | — | — |
@@ -87,7 +89,8 @@ NAVTEX a **490 e 518 kHz** è in **MF**, non in LW. I bollettini vengono trasmes
 | 6120 kHz | Radio Blacksmith (Finlandia) | — |
 | 6140 kHz | Radio Nova Int. / R.Augusta | Relay, trasmissioni periodiche |
 | 6170 kHz | Voice of Korea | Corea del Nord, segnale forte |
-| 6423 kHz | Varie pirata | Frequenza non standard |
+
+**Fuori dalla banda dei 49 metri:** la segnalazione GIR a **6423 kHz** riportata sotto va tenuta distinta dall’intervallo 5900–6200 kHz. Una ricezione non dimostra da sola lo status autorizzativo della stazione.
 
 Il riferimento CRI è la stagione **B26, dal 25 ottobre 2026 al 28 marzo 2027**. Le registrazioni descrivono trasmissioni programmate: verificarle prima dell’ascolto, senza presumere la ricezione in Italia o un passaggio automatico alla radio nordcoreana.
 
@@ -95,21 +98,22 @@ Il riferimento CRI è la stagione **B26, dal 25 ottobre 2026 al 28 marzo 2027**.
 
 ---
 
-## Onde Corte — Banda 41 metri (7100–7600 kHz)
+## Onde Corte — Banda 41 metri (7200–7450 kHz, Regione 1)
+
+I limiti broadcast sono riportati nella [tabella ufficiale ITU per regioni](https://www.itu.int/en/ITU-R/terrestrial/broadcast/Pages/Bands.aspx).
 
 **Propagazione**: sera, strato F. Mix di percorsi corti e medi.
 
 **Quando**: 17:00–22:00 UTC.
 
-**Cosa si trova**: emittenti internazionali, radioamatori in SSB (7100–7200 kHz porzione europea), stazioni utility.
+**Cosa si trova**: broadcast internazionale. La banda HAM dei 40 metri (7000–7200 kHz) è distinta. Gli intervalli esplorati sul ricevitore possono oltrepassare i limiti della banda broadcast.
 
-**Stazioni tipiche**:
+**Segnalazioni fuori dalla porzione broadcast 7200–7450 kHz**, da verificare per data, operatore e orario:
 
 | Frequenza | Stazione | Note |
 |-----------|----------|------|
 | 7455 kHz | Varie religiose/internazionali | Sera UTC |
 | 7465 kHz | Radio Shabname (clandestina) | In farsi verso Iran, 15:30–19:00 UTC |
-| 7100–7200 | Radioamatori SSB | Bande HAM europee |
 
 > 💬 *Esperienza GIR: 7455 kHz monitorata regolarmente dal gruppo in orario serale. La banda 41m meno produttiva per le emittenti broadcast rispetto agli anni '90, ma ancora attiva.*
 
@@ -154,11 +158,12 @@ Lo [schedule NHK B26](https://www3.nhk.or.jp/nhkworld/ja/information/brochure/pd
 
 | Frequenza | Stazione | Note |
 |-----------|----------|------|
-| 15770 kHz | WRMI (USA) | Relay religiosi/sperimentali |
+| 15770 kHz | WRMI (Radio Miami International, USA) | Programmi di produttori diversi; verificare lo schedule |
 | 15100–15800 | Radio Cina Int. | Omnipresente, varie frequenze |
-| 17450 kHz | Radio Shabname | Clandestina Iran |
 
 > 💬 *Esperienza GIR: NHK Giappone su 15130 kHz ricevuta con buon segnale nella finestra 19–21 UTC. Radio Cina su banda 19m presente su più frequenze simultaneamente.*
+
+**Fuori dalla banda dei 19 metri:** il precedente riferimento a **17450 kHz** non appartiene a 15100–15800 kHz e non va usato come esempio di questa banda.
 
 La testimonianza su NHK a 15130 kHz documenta un ascolto passato del GIR. Non rappresenta il palinsesto B26: per un tentativo attuale usare lo schedule datato e l'esempio a 11920 kHz riportato sopra.
 
@@ -166,13 +171,13 @@ La testimonianza su NHK a 15130 kHz documenta un ascolto passato del GIR. Non ra
 
 ## Bande radioamatoriali (per SWL)
 
-Per chi ascolta i QSO radioamatoriali in SSB:
+Intervalli pratici per cercare QSO in SSB, scelti entro i segmenti compatibili del [band plan IARU Regione 1](https://www.iaru-r1.org/wp-content/uploads/2019/08/hf_r1_bandplan.pdf). Non rappresentano l’intera banda HAM né segmenti riservati esclusivamente alla voce. Il band plan è una raccomandazione d’uso, distinta dalle autorizzazioni nazionali.
 
 | Banda | Frequenza | USB/LSB | Condizioni |
 |-------|-----------|---------|------------|
-| 40m | 7100–7200 kHz | LSB | Sera/notte, ottima per Europa |
-| 20m | 14000–14350 kHz | USB | Pomeriggio, ottima propagazione intercontinentale |
-| 15m | 21000–21450 kHz | USB | Giorno, dipende dall'attività solare |
-| 10m | 28000–29700 kHz | USB | Aperture sporadiche, eccezionale nel massimo solare |
+| 40m | 7060–7200 kHz | LSB | Sera/notte, ottima per Europa |
+| 20m | 14125–14350 kHz | USB | Pomeriggio, ottima propagazione intercontinentale |
+| 15m | 21151–21450 kHz | USB | Giorno, dipende dall'attività solare |
+| 10m | 28320–29100 kHz | USB | Aperture sporadiche, eccezionale nel massimo solare |
 
 > 🔧 *Nota pratica: per la Maratona SWL le bande di riferimento sono 40m e 20m — le più affollate e produttive in qualsiasi condizione. Il 15m e 10m dipendono troppo dall'attività solare per essere affidabili in qualsiasi stagione.*

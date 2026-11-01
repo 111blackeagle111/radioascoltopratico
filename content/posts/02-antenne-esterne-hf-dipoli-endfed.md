@@ -18,7 +18,7 @@ Quando si esce dalla miniloop da comodino e si vuole mettere un'antenna vera fuo
 
 ## Risonanza non è sinonimo di adattamento
 
-Un'antenna risuona a una certa frequenza quando la sua lunghezza fisica è un multiplo della lunghezza d'onda del segnale. Una antenna risonante è efficiente: trasferisce bene l'energia tra il campo elettromagnetico e il cavo di discesa. Ma questo non dice nulla sull'impedenza al punto di alimentazione.
+Un'antenna è risonante quando la parte reattiva della sua impedenza d'ingresso si annulla. La frequenza dipende da geometria, materiali e ambiente: non basta una regola sui multipli della lunghezza d'onda. La resistenza residua comprende sia la resistenza di radiazione sia le perdite. Risonanza, efficienza e adattamento al cavo sono quindi proprietà distinte.
 
 Un dipolo a mezza onda alimentato al centro ha circa 73 ohm di impedenza — vicino ai 50 ohm standard dei ricevitori e dei cavi coassiali, quindi si adatta bene. Ma un dipolo alimentato a un'estremità (la cosiddetta end-fed) può avere impedenze di 1000–5000 ohm, a seconda della lunghezza e della frequenza. Alta impedenza non significa che l'antenna non funzioni: significa solo che serve un trasformatore d'impedenza (un balun o un unun) per adattarla al cavo coassiale e al ricevitore.
 
@@ -36,7 +36,7 @@ Un errore comune è pensare che senza balun l'antenna "non funzioni". In realtà
 
 Una soluzione pratica è il dipolo sostenuto al centro da una canna da pesca in fibra di vetro. Per un dipolo a mezz'onda, la lunghezza totale iniziale è circa **143/f(MHz) metri**: a 14 MHz circa **10,2 m totali, 5,1 m per braccio**; a 7 MHz circa **20,4 m totali, 10,2 m per braccio**. Sono valori da rifinire in funzione di filo, altezza e ambiente, come spiega la [guida ARRL ai dipoli](https://www.arrl.org/single-band-dipoles). Nella configurazione a **V invertita**, entrambi i bracci scendono obliquamente dal vertice centrale: la canna sostiene il punto di alimentazione, non un braccio verticale.
 
-Per il radioascolto puro, dove non si trasmette, le specifiche di adattamento sono meno critiche che in trasmissione: un ROS di 3:1 non danneggia nulla e la perdita di segnale è minima. Questo dà una certa libertà costruttiva.
+In ricezione un ROS elevato non espone uno stadio trasmittente a potenza riflessa, ma la perdita di trasferimento resta. Nel caso ideale di linea senza perdite e ricevitore adattato, ROS 3:1 corrisponde a circa **1,25 dB** di perdita per disadattamento. Se il rumore esterno domina, segnale e rumore si attenuano insieme e il rapporto segnale/rumore può cambiare poco; con segnali prossimi al rumore interno del ricevitore la perdita conta. [Qui il calcolo e le sue ipotesi]({{< relref "23-risonanza-impedenza-antenne.md" >}}).
 
 ## L'antenna Ribakov e le antenne militari
 

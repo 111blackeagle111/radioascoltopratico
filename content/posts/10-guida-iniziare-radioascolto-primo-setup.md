@@ -45,13 +45,13 @@ Questo è tutto. Con questi due elementi si possono ricevere emittenti da Africa
 
 ## Le prime bande da esplorare
 
-**Onde medie (530–1700 kHz)**: di notte. Sintonizzarsi lentamente dall'alto verso il basso, aspettare che le stazioni si identifichino. Le prime frequenze significative che si sentiranno probabilmente: 693 kHz, 999 kHz, 1170 kHz, 1413 kHz.
+**Onde medie in Regione 1**: canali da 531 a 1602 kHz, passo 9 kHz, nella banda 526,5–1606,5 kHz. Di notte sintonizzarsi lentamente e attendere l’identificazione; frequenza e palinsesto vanno verificati prima di attribuire un segnale a una stazione.
 
 **Onde corte 49 metri (5900–6200 kHz)**: sera e notte. Piena di emittenti internazionali. Un buon banco di prova per capire come cambia la propagazione.
 
 **Onde corte 19 metri (15100–15800 kHz)**: pomeriggio e sera. BBC, RFI, Radio China International, VOA. Segnali spesso forti.
 
-**41 metri (7100–7300 kHz)**: sera. Mix di radioamatori (in SSB) ed emittenti. Interessante per capire la differenza tra AM e SSB.
+**41 metri broadcast (7200–7450 kHz, Regione 1)**: ascolti serali di emittenti internazionali. La banda radioamatoriale dei **40 metri, 7000–7200 kHz**, è distinta: per cercare conversazioni in SSB si può esplorare 7060–7200 kHz in LSB. Vedi [bande e riferimenti]({{< relref "34-schede-frequenza-bande.md" >}}).
 
 ## I database indispensabili
 

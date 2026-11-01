@@ -54,11 +54,11 @@ La MUF varia enormemente: in periodi di alta attività solare può salire fino a
 
 I siti come **NOAA Space Weather** e le app come **HamClock** mostrano in tempo reale le condizioni ionosferiche e la MUF prevista.
 
-## L'aurora boreale: quando le bande tacciono
+## Attività solare: tre fenomeni da distinguere
 
-Le **tempeste geomagnetiche** causate da brillamenti solari perturbano la ionosfera in modo drammatico. Lo strato D si ispessisce e diventa più assorbente anche di notte; lo strato F si frammenta. Il risultato è che le bande HF diventano "silenziose": le stazioni abituali spariscono o arrivano con fading fortissimo e segnali disturbati.
+Un **brillamento solare (flare)** può aumentare rapidamente l’assorbimento nella regione D attraverso la radiazione X: il blackout HF interessa il lato della Terra illuminato dal Sole. Gli **eventi di protoni energetici** possono invece produrre assorbimento alle alte latitudini, sulle rotte polari. Le **tempeste geomagnetiche**, dovute all’interazione del vento solare e spesso di espulsioni di massa coronale (CME) con la magnetosfera, perturbano la ionosfera: la densità elettronica della regione F e la MUF possono aumentare o diminuire secondo fase e posizione. Sono fenomeni collegati, ma non equivalenti. Riferimenti: NOAA sui [flare e blackout](https://www.swpc.noaa.gov/phenomena/solar-flares-radio-blackouts) e sulle [tempeste spaziali](https://www.swpc.noaa.gov/sites/default/files/images/u33/swx_booklet.pdf).
 
-In queste occasioni si possono osservare le aurore boreali anche a latitudini italiane — le foto di aurore viste dalla Francia o dall'Italia settentrionale durante le tempeste del 2024–2025 ne sono testimonianza. Per il radioascoltatore, un'aurora intensa significa spesso una serata di ascolto deludente nelle bande HF, ma può aprire interessanti fenomeni nelle VHF (aurora scatter).
+Le aurore sono emissioni luminose dovute a particelle che precipitano nell'alta atmosfera; possono accompagnare tempeste geomagnetiche e condizioni difficili sulle rotte HF polari. La sola presenza di fading o di una banda poco affollata non identifica la causa: confrontare orario, percorso e bollettini NOAA. In VHF possono verificarsi aperture per diffusione aurorale.
 
 ## Stagioni e ciclo solare
 

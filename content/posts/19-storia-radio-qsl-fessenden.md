@@ -1,6 +1,7 @@
 ---
 title: "Storia della Radio e delle QSL: da Fessenden a Oggi"
 date: 2026-03-07
+lastmod: 2026-11-01
 draft: false
 description: "Storia della radio e delle QSL card: dalla prima trasmissione di Fessenden 1906 alla collezione moderna di conferme di ascolto."
 tags:
@@ -28,7 +29,7 @@ Negli anni d'oro della radio internazionale — anni '50, '60 e '70 — le emitt
 
 Con il declino delle emittenti in onde corte — accelerato dall'internet e dalla FM digitale — molte stazioni hanno smesso di rispondere alle QSL, o rispondono in modo molto ridotto. Radio Australia ha chiuso le trasmissioni HF. La BBC World Service ha drasticamente ridotto le ore in italiano. Radio Canada International non trasmette più in HF da anni.
 
-Sopravvivono però alcune emittenti che ancora valorizzano il rapporto con gli ascoltatori: Radio Romania Internazionale, Radio Habana Cuba, WRMI (World Radio Missionary Inc. dagli USA), alcune stazioni asiatiche come Radio Giappone e KBS Korea. Scrivere a queste stazioni — con un rapporto dettagliato, frequenza, ora UTC, SINPO — ha ancora senso e spesso produce una risposta.
+Sopravvivono però alcune emittenti che ancora valorizzano il rapporto con gli ascoltatori: Radio Romania Internazionale, Radio Habana Cuba, [WRMI (Radio Miami International, emittente commerciale di Okeechobee, Florida)](https://www.wrmi.net/), alcune stazioni asiatiche come Radio Giappone e KBS Korea. Scrivere a queste stazioni — con un rapporto dettagliato, frequenza, ora UTC, SINPO — ha ancora senso e spesso produce una risposta.
 
 ## Radio Romania: la prima stazione di molti
 

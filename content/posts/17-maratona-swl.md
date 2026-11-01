@@ -25,9 +25,9 @@ Durata, bande e modi variano secondo l'evento. La bozza pubblicata su questo sit
 
 ## Le regole fondamentali
 
-Qui riassumiamo la [bozza del sito, versione 0.2 del 1 novembre 2026]({{< relref "38-regolamento-maratona-swl.md" >}}). Il PDF è il riferimento per queste regole; resta una bozza e non annuncia un'edizione della gara.
+Qui riassumiamo la [bozza del sito, versione 0.3 del 1 novembre 2026]({{< relref "38-regolamento-maratona-swl.md" >}}). Il PDF è il riferimento per queste regole; resta una bozza e non annuncia un'edizione della gara.
 
-**Categorie di ricezione**: la categoria **A** è per ricevitori standalone, senza SDR né PC; la **B** per SDR con PC. La categoria **C** è dedicata ai **WebSDR, fuori classifica**. La preferenza per l'ascolto dalla propria postazione riguarda quindi le categorie in classifica.
+**Categorie di ricezione**: la categoria **A** è per portatili standalone, senza SDR né PC nel percorso di ricezione; la **B** per SDR con PC. Un computer usato solo per il log non cambia categoria. Setup diversi, compresi SDR autonomi, richiedono una collocazione esplicita nel bando prima dell’iscrizione. La categoria **C** è dedicata ai **WebSDR, fuori classifica**. La preferenza per l'ascolto dalla propria postazione riguarda quindi le categorie in classifica.
 
 > 💬 *Esperienza GIR: la scelta di escludere i ricevitori remoti dalla Maratona SWL è una posizione deliberata — l'obiettivo è "allenamento all'ascolto" nella propria location, non raccolta di log tramite nodi ottimali altrui.*
 >

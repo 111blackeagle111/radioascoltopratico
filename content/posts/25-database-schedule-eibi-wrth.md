@@ -1,6 +1,7 @@
 ---
 title: "EIBI, WRTH e gli Altri: i Database Indispensabili per l'Ascoltatore"
 date: 2026-03-12
+lastmod: 2026-11-01
 draft: false
 description: "Database e schedule radiofoniche: EIBI gratuito, WRTH annuale, ricerca frequenze per identificare stazioni sconosciute in tempo reale."
 tags:
@@ -48,7 +49,7 @@ Il **WRTH** (*World Radio TV Handbook*) è la pubblicazione annuale di riferimen
 
 ## Short-wave.info: la ricerca web rapida
 
-**short-wave.info** offre un'interfaccia web pulita per cercare stazioni per frequenza, nome o paese. Dati derivati principalmente da EIBI. Utile per ricerche veloci senza scaricare il database completo.
+**short-wave.info** permette ricerche per frequenza, lingua ed emittente. Le [istruzioni del sito](https://short-wave.info/index.php?feature=instructions) attribuiscono il database ad **Aoki**, non a EiBi. Aoki, EiBi e HFCC sono fonti distinte, con copertura e criteri diversi: una voce nello schedule indica una trasmissione programmata, non la prova che sia in onda o ricevibile dalla propria postazione.
 
 ## Shortwave Schedules (app)
 

@@ -13,7 +13,7 @@ tags:
 
 ---
 
-La Maratona SWL è una gara di radioascolto: si ascolta, si identifica e si annota, senza trasmettere. Il PDF qui pubblicato è la **bozza di riferimento, versione 0.2 del 1 novembre 2026**. Non è un regolamento definitivo e non annuncia una data di gara. Le presentazioni negli altri articoli si riferiscono a questa versione; prima di partecipare a un'edizione occorrerà consultarne il regolamento definitivo.
+La Maratona SWL è una gara di radioascolto: si ascolta, si identifica e si annota, senza trasmettere. Il PDF qui pubblicato è la **bozza di riferimento, versione 0.3 del 1 novembre 2026**. Non è un regolamento definitivo e non annuncia una data di gara. Le presentazioni negli altri articoli si riferiscono a questa versione; prima di partecipare a un'edizione occorrerà consultarne il regolamento definitivo.
 
 La bozza prevede categorie A e B per ricevitori locali e una categoria C WebSDR fuori classifica; ammette AM in MW, AM e SSB in SW, SSB e CW nelle bande HAM elencate. Il PDF specifica i dettagli di bande, categorie, punteggio e log.
 
@@ -35,8 +35,10 @@ La bozza prevede categorie A e B per ricevitori locali e una categoria C WebSDR 
     📥 Scarica il Regolamento (.pdf)
   </a>
   <p style="font-size:0.8em; color:#666; margin-top:8px;">
-    Formato PDF stampabile — bozza v0.2 del 1 novembre 2026, soggetta ad aggiornamenti
+    Formato PDF stampabile — bozza v0.3 del 1 novembre 2026, soggetta ad aggiornamenti
   </p>
 </div>
 
-La versione 0.2 elimina NAVTEX dagli esempi delle ricezioni utility a punteggio: il servizio non rientra nei modi ammessi dalla bozza. Bande, modi e punteggi delle altre ricezioni restano quelli indicati nel PDF.
+La versione 0.3 propone punteggi alternativi, non cumulabili: 1 punto per broadcast, 2 per QSO, 3 per utility e 5 per DX qualificato. Definisce i duplicati per gruppo di conteggio (MW, SW non radioamatoriali e singole bande HAM), usa il paese del trasmettitore e richiede entrambi i nominativi per i QSO. Le scelte organizzative restano proposte da confermare nel bando definitivo.
+
+**Il recapito per i log non è ancora disponibile.** Sarà pubblicato nel bando, insieme a data e regolamento definitivo, prima dell’apertura delle iscrizioni e almeno 30 giorni prima della gara. Questa pagina non apre le iscrizioni.

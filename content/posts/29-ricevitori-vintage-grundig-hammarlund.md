@@ -53,7 +53,7 @@ Tra gli apparecchi citati nel confronto figurano il **ricetrasmettitore Icom IC-
 
 ## L'AR-2000 e i ricevitori scanning
 
-Il **AOR AR-2000** è un ricevitore scanning (non un portatile HF classico) che copre un range molto ampio dalle LF alle GHz. Usato su antenna Wellbrook per MW/HF dà risultati buoni, anche se non è progettato specificamente per il radioascolto HF in AM.
+L'**AOR AR2000** è uno scanner portatile con copertura dichiarata **500 kHz–1300 MHz**, secondo il [bollettino del costruttore](https://www.aorja.com/support/bulletin_ar2000.html). Non copre quindi le LF (30–300 kHz) e non è una scelta per i broadcast LW a 225 o 252 kHz. Le esperienze d'uso con Wellbrook in MW/HF non estendono questa specifica; prima di confrontare apparecchi AOR occorre controllare la sigla esatta del modello.
 
 ## Il vero argomento per il vintage: la costruzione
 

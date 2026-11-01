@@ -1,6 +1,7 @@
 ---
 title: "Risonanza e Impedenza: L'Errore che Fanno Quasi Tutti"
 date: 2026-03-12
+lastmod: 2026-11-01
 draft: false
 description: "Risonanza vs impedenza antenna: il più comune malinteso tecnico. Dipolo risonante non è sinonimo di antenna adattata a 50 ohm."
 tags:
@@ -18,11 +19,11 @@ Tra le incomprensioni tecniche più diffuse nel mondo delle antenne, una svetta 
 
 ## Cos'è la risonanza
 
-Un'antenna risuona su una frequenza quando la sua lunghezza fisica è tale da formare un'onda stazionaria stabile nel conduttore. La frequenza di risonanza dipende dalla lunghezza dell'antenna (e dal suo ambiente circostante). 
+La risonanza si ha quando la reattanza dell'impedenza d'ingresso si annulla: **Z = R + jX**, con **X = 0**. Dipende dalla geometria dell'antenna, dai materiali e dall'ambiente circostante.
 
-Un dipolo a mezza onda risuona quando la sua lunghezza totale è circa λ/2. Un quarto d'onda verticale risuona quando il radiatore è lungo λ/4. Sulla frequenza di risonanza, la parte reattiva dell'impedenza dell'antenna è zero (o prossima a zero) — rimane solo la resistenza di radiazione.
+Un dipolo risonante a mezz'onda ha lunghezza vicina a λ/2; un monopolo a quarto d'onda, su piano di terra ideale, vicina a λ/4. Sono approssimazioni da rifinire. Alla risonanza rimane la somma **R = Rrad + Rperdite**, non soltanto la resistenza di radiazione. L'efficienza di radiazione è **η = Rrad / (Rrad + Rperdite)**: un'antenna può essere risonante e dissipare molta energia nelle perdite.
 
-> 📖 *Sulla frequenza di risonanza, la reactance dell'antenna si annulla. L'impedenza risultante è puramente resistiva. Per un dipolo a mezza onda in spazio libero, questa resistenza è circa 73 Ω. Per un quarto d'onda con piano di terra ideale, circa 36 Ω.*
+> 📖 *Per un dipolo sottile vicino alla mezz'onda in spazio libero si usa spesso il valore indicativo di 73 Ω, e circa 36 Ω per il monopolo ideale corrispondente. L'impedenza effettiva dipende dal progetto e dall'ambiente. Il [tutorial ARRL sulla modellazione](https://www.arrl.org/files/file/Antenna%20Modeling%20for%20Beginners%20Supplemental%20Files/EZNEC%20Modeling%20Tutorial%20by%20W8WWV.pdf) distingue le perdite dall'energia irradiata.*
 
 ## Cos'è l'adattamento di impedenza
 
@@ -32,7 +33,7 @@ Un'antenna può risuonare perfettamente sulla frequenza desiderata e avere comun
 
 > 💬 *Esperienza GIR: questo errore è stato identificato esplicitamente in una discussione tecnica del gruppo come "l'errore più comune" — confondere il fatto che un'antenna risuoni con il fatto che sia adattata a 50 Ω. Un'antenna può risuonare su qualsiasi frequenza pur non avendo 50 Ω di impedenza.*
 >
-> 📖 *Un'antenna che risuona con impedenza di 200 Ω ha un SWR di 4:1 rispetto a un sistema a 50 Ω. Non è che "non risuona" — risuona benissimo, ma è disadattata. Per il ricevitore in ricezione questo è quasi irrilevante (non ci sono perdite di potenza significative); per la trasmissione è importante perché causa riflessioni di potenza verso il trasmettitore.*
+> 📖 *Un'impedenza puramente resistiva di 200 Ω rispetto a 50 Ω dà ROS 4:1. Nel caso ideale di una linea senza perdite con ricevitore adattato a 50 Ω, Γ = (Z − Z0)/(Z + Z0) = 0,6. La frazione di potenza trasferita è 1 − |Γ|² = 0,64 e la perdita per disadattamento è −10 log10(0,64) ≈ **1,94 dB**. La stessa rete passiva ha le stesse perdite in ricezione e trasmissione; questo calcolo non include le perdite del cavo.*
 
 ## Il punto di alimentazione cambia tutto
 
@@ -56,6 +57,6 @@ Per gestire il disadattamento si usano due tipi di trasformatori:
 
 ## Perché importa per il radioascolto (non solo per la trasmissione)
 
-In ricezione, un forte disadattamento causa perdita di segnale — non tanta quanta in trasmissione, ma misurabile. Più importante: un'antenna mal adattata può introdurre rumore comune (common-mode noise) sul cavo coassiale, che poi si scarica nel ricevitore. Un buon adattamento di impedenza, anche in ricezione, riduce il rumore e migliora il rapporto segnale/rumore.
+In ricezione il disadattamento attenua sia il segnale sia il rumore esterno raccolto dall'antenna. Se quest'ultimo domina sul rumore interno del ricevitore, il rapporto segnale/rumore può peggiorare poco, pur diminuendo il livello ricevuto. Se invece il rumore interno è rilevante, perdere segnale riduce la sensibilità utile. Le correnti di modo comune dipendono dal bilanciamento e dal percorso del cavo: il solo ROS non le dimostra e un adattamento perfetto non le elimina necessariamente.
 
 > 🔧 *Nota pratica per il ricevitore: se cambiando la lunghezza del cavo coassiale il segnale cambia molto, probabilmente c'è un problema di adattamento o di correnti di modo comune sul cavo. Un balun o un choke ferrite vicino al connettore dell'antenna spesso risolve il problema.*

@@ -1,6 +1,7 @@
 ---
 title: "Come Scrivere un Rapporto di Ascolto: il Codice SINPO e il Modello GIR"
 date: 2026-03-12
+lastmod: 2026-11-01
 draft: false
 description: "Codice SINPO per rapporti di ascolto: forza segnale, interferenze, rumore, propagazione. Template per ottenere QSL dalle emittenti."
 tags:
@@ -23,16 +24,16 @@ Il rapporto di ascolto è il biglietto da visita dello SWL/BCL verso le emittent
 | Lettera | Parametro | 1 | 3 | 5 |
 |---------|-----------|---|---|---|
 | **S** | Signal strength (forza) | Appena percettibile | Moderata | Eccellente |
-| **I** | Interference (interferenza) | Grave | Moderata | Nessuna |
-| **N** | Noise (rumore) | Forte | Moderato | Nessuno |
-| **P** | Propagation (propagazione) | Pessima, fading grave | Discreta | Ottima, stabile |
-| **O** | Overall merit (qualità globale) | Inutilizzabile | Accettabile | Perfetta |
+| **I** | Interference (interferenza) | Molto forte | Moderata | Nessuna |
+| **N** | Noise (rumore) | Molto forte | Moderato | Nessuno |
+| **P** | Disturbi di propagazione | Molto forti | Moderati | Nessuno |
+| **O** | Overall merit (qualità globale) | Inutilizzabile | Accettabile | Eccellente |
 
-Un SINPO **55555** indica ricezione perfetta su tutti i parametri. Un SINPO **44444** indica ricezione buona — il valore più comune nelle buone condizioni di ascolto. Un SINPO **34333** indica segnale debole con qualche interferenza ma comprensibile.
+Un SINPO **55555** indica segnale e qualità complessiva eccellenti, senza effetti perturbatori apprezzabili. **34333** significa segnale moderato, interferenze lievi, rumore e disturbi di propagazione moderati, qualità complessiva accettabile. La cifra **S = 5** è una valutazione SINPO: non equivale a S5 dello S-meter e non dimostra saturazione.
 
 > 💬 *Esperienza GIR: il codice SINPO usato quotidianamente nei log del gruppo — esempi reali: "225 kHz R.Polonia SINPO fondo scala", "IBRA Radio Ibrahim 11655 kHz SINPO 44444". La notazione "fondo scala" per S equivale a S5 ma indica in modo più espressivo che il segnale saturava il rilevatore.*
 >
-> 📖 *Il codice SINPO è definito nell'ITU-R S.341. Esiste anche una versione semplificata **SINO** (senza il parametro P) e la versione **SIO** ancora più minimale. Alcune emittenti accettano solo SIO nei rapporti. Verificare sempre cosa richiede la stazione di destinazione.*
+> 📖 *Il riferimento è la [raccomandazione **ITU-R SM.1135**](https://www.itu.int/dms_pubrec/itu-r/rec/sm/R-REC-SM.1135-0-199510-I%21%21PDF-S.pdf). P valuta i disturbi di propagazione, O la qualità complessiva; per un parametro non valutato la raccomandazione ammette X. La testimonianza GIR usa «fondo scala» come descrizione dell’ascolto: l’interpretazione come saturazione richiederebbe una verifica strumentale separata. Alcune stazioni richiedono il formato ridotto SIO: seguire le loro istruzioni.*
 
 ## Cosa deve contenere un rapporto
 
@@ -65,7 +66,7 @@ Un rapporto di ascolto completo include:
 
 **Via email**: la maggior parte delle emittenti accetta rapporti via email. Trovare l'indirizzo sul sito ufficiale dell'emittente o su EIBI. Usare oggetto chiaro: "Reception Report - [frequenza] kHz - [data]".
 
-**Via posta**: ancora gradita da alcune emittenti, specialmente quelle che inviano QSL fisiche di qualità. Include un **IRC** (International Reply Coupon) o un biglietto verde se si vuole aumentare le probabilità di risposta. I paesi con valuta debole apprezzano particolarmente l'IRC.
+**Via posta**: verificare le istruzioni dell’emittente per buste e contributi alla risposta. SAE significa busta preindirizzata; SASE significa anche affrancata con porto valido nel paese di spedizione della risposta. Gli IRC sono uno strumento internazionale, da verificare per disponibilità, validità e accettazione; non inviare denaro o coupon come requisito presunto. Vedi la [guida QSL]({{< relref "39-guida-qsl-template-lettera.md" >}}).
 
 **Via eQSL**: alcune emittenti usano piattaforme di QSL digitale. Meno formale, ma rapido e gratuito.
 

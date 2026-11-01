@@ -51,11 +51,11 @@ Non è elegante. Non è ottimizzata. Ma è esterna — e questo conta più di qu
 
 Sul mercato esistono molte antenne pubblicizzate come soluzione per chi non ha spazio: stili corti amplificati, antenne "broadband" da interno, ricevitori attivi da 20 cm. Alcune funzionano, molte no.
 
-Il criterio di giudizio è fisico: un'antenna corta rispetto alla lunghezza d'onda ha un'efficienza di radiazione intrinsecamente bassa. Un amplificatore amplifica sia il segnale che il rumore — non migliora il rapporto segnale/rumore. Le antenne che dichiarano di non aver bisogno di radiali (per i modelli verticali) spesso usano il cavo coassiale come "radiale involontario", con risultati imprevedibili.
+Un'antenna elettricamente corta può avere resistenza di radiazione piccola rispetto alle perdite nei conduttori, nel terreno e nella rete di accordo. La sua efficienza dipende da questi contributi, non dalla sola lunghezza. Un amplificatore a basso rumore può rendere il segnale utilizzabile da un ricevitore poco sensibile, ma amplifica anche il rumore esterno: il risultato va giudicato dal rapporto segnale/rumore dell'intero sistema. Le verticali senza radiali espliciti possono inoltre usare il cavo come percorso di ritorno, con risultati dipendenti dall'installazione.
 
 > 💬 *Esperienza GIR: le antenne "miracolose" che "dichiarano di non avere bisogno di radiali" sono state identificate nel gruppo come "fumo negli occhi per chi vive in condominio di milioni di piani" — un giudizio netto basato su esperienza diretta.*
 >
-> 📖 *Non esiste una soluzione magica al problema fisico di un'antenna piccola. La fisica dell'antenna è nota: l'efficienza di un radiatore di lunghezza l rispetto alla lunghezza d'onda λ scala approssimativamente come (l/λ)². Un'antenna 10 volte più corta della lunghezza d'onda è 100 volte meno efficiente. Questo non significa che non funzioni — significa che le aspettative devono essere calibrate.*
+> 📖 *L'efficienza di radiazione è η = Rrad / (Rrad + Rperdite). La dipendenza da (l/λ)² riguarda la resistenza di radiazione di determinate geometrie di radiatori corti, non è una legge universale dell'efficienza. Non si può quindi dedurre che un'antenna dieci volte più corta sia sempre cento volte meno efficiente. Vedi la [spiegazione su risonanza ed efficienza]({{< relref "23-risonanza-impedenza-antenne.md" >}}).*
 
 ## La soluzione definitiva: antenna sul tetto
 

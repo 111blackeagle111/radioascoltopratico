@@ -1,6 +1,7 @@
 ---
 title: "WebSDR e Ricezione Remota: Opportunità, Limiti e Questione Etica"
 date: 2026-03-07
+lastmod: 2026-11-01
 draft: false
 description: "WebSDR e ricevitori remoti: KiwiSDR, OpenWebRX. Ascoltare HF da tutto il mondo via browser, pro e contro dell'ascolto remoto."
 tags:
@@ -43,7 +44,7 @@ I sistemi remoti hanno limitazioni reali:
 
 **Latenza**: l'audio arriva con ritardo. Non è un problema per l'ascolto passivo, ma rende impossibile operare in modalità interattiva (non che un SWL debba farlo).
 
-**Utenti multipli**: i KiwiSDR gratuiti hanno un numero limitato di connessioni simultanee (tipicamente 4–8). Nei momenti di punta alcune frequenze molto cercate sono occupate.
+**Utenti multipli**: ogni ascoltatore dispone di sintonia indipendente; due persone possono ascoltare la stessa frequenza. Si esauriscono eventualmente i posti utente o i canali di ricezione disponibili, non le frequenze. I limiti dipendono dal server e dalla configurazione: possono riguardare utenti simultanei, durata della sessione e banda accessibile. Vedi la [spiegazione WebSDR](https://www.websdr.org/background.html) e la [documentazione KiwiSDR](https://github.com/jks-prv/KiwiSDR/blob/master/README.md).
 
 **Dipendenza dalla connessione**: se cade internet, cade tutto. Con un ricevitore fisico e un'antenna in giardino si è autonomi.
 

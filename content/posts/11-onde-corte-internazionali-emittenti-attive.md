@@ -36,7 +36,7 @@ Le motivazioni per continuare a trasmettere in HF nel 2025 sono più solide di q
 
 **Radio China International (CRI)**: trasmissioni in italiano disponibili su varie frequenze. Curioso ascoltare le notizie cinesi in italiano — utile anche per confrontare diverse prospettive su stessi eventi.
 
-**WRMI (World Radio Mission International)**: emittente religiosa americana da Miami, con trasmissioni in molte lingue su molteplici frequenze. Risponde quasi sempre ai rapporti con QSL. Frequenza spesso in uso: 15.770 kHz.
+**WRMI (Radio Miami International)** è un’emittente commerciale con studi e trasmettitori a **Okeechobee, Florida**. Ospita programmi religiosi, culturali, politici e di altri produttori: non è esclusivamente religiosa. Per frequenze, orari e modalità di richiesta QSL consultare il [sito ufficiale WRMI](https://www.wrmi.net/).
 
 **Radio Exterior de España (REE)**: trasmissioni in spagnolo verso le Americhe, ricevibili dall'Italia nelle ore notturne.
 
@@ -47,7 +47,7 @@ Le motivazioni per continuare a trasmettere in HF nel 2025 sono più solide di q
 Le bande internazionali sono fisse per convenzione internazionale (ITU). Quelle più utili per l'ascolto serale/notturno dall'Italia:
 
 - **49 metri (5900–6200 kHz)**: sera e notte, emittenti europee e americane
-- **41 metri (7200–7450 kHz)**: sera, mix di emittenti e radioamatori
+- **41 metri (7200–7450 kHz, Regione 1)**: broadcast serale; i radioamatori dei 40 metri occupano la banda distinta 7000–7200 kHz.
 - **31 metri (9400–9900 kHz)**: pomeriggio e sera, molto frequentata
 - **25 metri (11600–12100 kHz)**: pomeriggio
 - **19 metri (15100–15800 kHz)**: mattino e pomeriggio, segnali transoceanici

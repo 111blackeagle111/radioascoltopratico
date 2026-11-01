@@ -3,7 +3,7 @@ title: "Onde Lunghe (LW): Polonia, Algeria e Servizi tra LF e MF"
 date: 2026-01-24
 lastmod: 2026-11-01
 draft: false
-description: "Onde lunghe (LW): Radio Polonia 225 kHz, Algeria 252 kHz e servizi LF/MF. Onda di superficie, contributi ionosferici e ascolti del GIR."
+description: "Onde lunghe (LW): Polskie Radio Program 1 a 225 kHz, Algeria 252 kHz e servizi LF/MF. Onda di superficie, contributi ionosferici e ascolti del GIR."
 tags:
   - onde-lunghe
   - lw
@@ -25,11 +25,11 @@ Il rovescio della medaglia è che costruire trasmettitori LW efficaci richiede a
 
 ## Le stazioni ancora attive dall'Italia
 
-**Radio Polonia — 225 kHz**: una stazione di riferimento per gli ascolti LW del GIR, ricevuta anche con la ferrite interna di portatili. Le segnalazioni di un livello elevato e costante descrivono le postazioni osservate: non garantiscono lo stesso risultato in tutta Italia o con qualsiasi ricevitore. Possono servire per confronti pratici nello stesso setup, senza sostituire una calibrazione strumentale.
+**Polskie Radio Program 1 (Jedynka) — 225 kHz**: è il servizio ricevuto dal GIR e chiamato «Radio Polonia» nelle testimonianze riportate sotto. Le segnalazioni di un livello elevato descrivono le postazioni osservate: non garantiscono lo stesso risultato in tutta Italia o con qualsiasi ricevitore. Sono utili per confronti pratici nello stesso setup, senza sostituire una calibrazione strumentale.
 
 > 💬 *Esperienza GIR: Radio Polonia su 225 kHz rilevata a fondo scala h24 da più stazioni in Umbria, sia con antenne esterne che con la ferrite interna di portatili di fascia media.*
 >
-> 📖 *La potenza dichiarata di Radio Polonia su 225 kHz è 1800 kW — tra i trasmettitori LW più potenti d'Europa. Quando prevale la componente di superficie, il segnale può risultare relativamente stabile; l'eventuale contributo ionosferico e il rumore locale continuano però a influire sulla ricezione totale.*
+> 📖 *Polskie Radio documenta per il centro di **Solec Kujawski**, a **225 kHz**, una potenza nominale di **1200 kW** ([fonte](https://reportaz.polskieradio.pl/artykul/1448878%2CRadiostacja-w-Raszynie-sygnal-od-1931-roku)). È una caratteristica dell’impianto, non una verifica della potenza usata nel giorno dell’ascolto. Onda di superficie, contributi ionosferici e rumore locale determinano insieme il risultato ricevuto.*
 
 **"Catena 3" Algeria — 252 kHz**: trasmettitore di Tipaza (Algeria) da 750 kW in lingua francese. Il GIR ne segnala ricezioni forti anche durante temporali: sono osservazioni nelle condizioni locali descritte, non una garanzia di ricezione immune al rumore atmosferico.
 
@@ -54,7 +54,7 @@ Sotto i 530 kHz si incontrano servizi in bande diverse: LF (30–300 kHz), una p
 
 ## Un esperimento semplice
 
-Con un ricevitore che copra 225 kHz in AM e un'antenna adatta alle LW, si può tentare l'ascolto di Radio Polonia. Le esperienze del GIR ne fanno un punto di partenza per chi si trova nelle zone descritte. Provare in orari diversi, orientare l'eventuale ferrite e annotare segnale e rumore permette di confrontare i risultati della propria postazione. La ricezione non è garantita: un mancato ascolto non dimostra da solo che il ricevitore sia difettoso o non copra la banda.
+Con un ricevitore che copra 225 kHz in AM e un'antenna adatta alle LW, si può tentare l'ascolto di Polskie Radio Program 1 (Jedynka). Le esperienze del GIR ne fanno un punto di partenza per chi si trova nelle zone descritte. Provare in orari diversi, orientare l'eventuale ferrite e annotare segnale e rumore permette di confrontare i risultati della propria postazione. La ricezione non è garantita: un mancato ascolto non dimostra da solo che il ricevitore sia difettoso o non copra la banda.
 
 > 💬 *Esperienza GIR: confermato da più membri da location diverse in Italia centrale — Radio Polonia su 225 kHz ricevibile h24 anche con antenna ferrite interna di un portatile di fascia media.*
 >
