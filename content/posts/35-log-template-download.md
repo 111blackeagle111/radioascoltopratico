@@ -54,16 +54,16 @@ Questo template Excel è pronto all'uso: tre fogli, dropdown preimpostati, formu
       <td style="padding:5px 8px; border:1px solid #8EA9C1; text-align:right;">9510</td>
       <td style="padding:5px 8px; border:1px solid #8EA9C1; text-align:center;">SW</td>
       <td style="padding:5px 8px; border:1px solid #8EA9C1; text-align:center;">AM</td>
-      <td style="padding:5px 8px; border:1px solid #8EA9C1;">Radio City Bulgaria</td>
-      <td style="padding:5px 8px; border:1px solid #8EA9C1;">Bulgaria</td>
-      <td style="padding:5px 8px; border:1px solid #8EA9C1;">Bulgaro/Ingl.</td>
+      <td style="padding:5px 8px; border:1px solid #8EA9C1;">Non identificata</td>
+      <td style="padding:5px 8px; border:1px solid #8EA9C1;">Da verificare</td>
+      <td style="padding:5px 8px; border:1px solid #8EA9C1;">Da verificare</td>
       <td style="padding:5px 8px; border:1px solid #8EA9C1; text-align:center;">4</td>
       <td style="padding:5px 8px; border:1px solid #8EA9C1; text-align:center;">4</td>
       <td style="padding:5px 8px; border:1px solid #8EA9C1; text-align:center;">4</td>
       <td style="padding:5px 8px; border:1px solid #8EA9C1; text-align:center;">4</td>
       <td style="padding:5px 8px; border:1px solid #8EA9C1; text-align:center;">4</td>
       <td style="padding:5px 8px; border:1px solid #8EA9C1; text-align:center; font-weight:bold;">44444</td>
-      <td style="padding:5px 8px; border:1px solid #8EA9C1;">Musica pop, ID alle 20:45 UTC</td>
+      <td style="padding:5px 8px; border:1px solid #8EA9C1;">Esempio fittizio: musica pop; nessun ID annotato.</td>
       <td style="padding:5px 8px; border:1px solid #8EA9C1; text-align:center;">No</td>
     </tr>
     <tr style="background:#fff;">
@@ -130,7 +130,7 @@ Riferimento: [ITU-R SM.1135](https://www.itu.int/dms_pubrec/itu-r/rec/sm/R-REC-S
 
 ### Foglio 3 — Stazioni Preferite
 
-Lista precompilata con le stazioni di riferimento (Polskie Radio Program 1 / Jedynka, Vesti FM, Radio Rossii, KBS, Shannon Volmet, UVB-76…) + righe vuote per aggiungere le proprie.
+Lista precompilata con riferimenti di ascolto e righe vuote per le proprie stazioni. L’aggiornamento del **2 novembre 2026** distingue il palinsesto invernale RRI a 5955 kHz, l’impiego diurno di Shannon a 13264 kHz, il riferimento storico a Radio City su 9510 kHz e le identificazioni di 999/1413 kHz **da verificare**. Le note indicano validità e fonti; per i dettagli consulta le [schede delle frequenze](/posts/34-schede-frequenza-bande/). La riga di esempio del log e l’anteprima sono fittizie, senza identificazione attribuita a un’emittente reale.
 
 ---
 

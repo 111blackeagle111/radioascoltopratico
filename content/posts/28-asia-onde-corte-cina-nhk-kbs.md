@@ -1,7 +1,7 @@
 ---
 title: "Asia in Onde Corte: Radio Cina, NHK, KBS e le Voci dell'Estremo Oriente"
 date: 2026-03-12
-lastmod: 2026-11-01
+lastmod: 2026-11-02
 draft: false
 description: "Stazioni asiatiche in onde corte: Radio Cina CRI, NHK Giappone, KBS Corea, Radio India. Frequenze e orari ricevibili dall'Italia."
 tags:
@@ -55,7 +55,7 @@ Per identificarla, confrontare frequenza, orario e lingua con il palinsesto aggi
 
 ## All India Radio: un gigante spesso ignorato
 
-**All India Radio** è una delle emittenti più grandi del mondo per numero di trasmettitori e lingue usate. Trasmette verso l'Europa su diverse frequenze HF, in inglese e in hindi. Il segnale arriva spesso bene nelle ore serali.
+**Akashvani / All India Radio**: un esempio pianificato in [HFCC B26](https://new.hfcc.org/data/schedbybrc.php?seas=B26&broadc=AIR) è **11900 kHz, 19:30–20:30 UTC tutti i giorni, in francese**, da Bangalore, 250 kW, verso l’area CIRAF 27, dal **25 ottobre 2026 al 28 marzo 2027**. La registrazione non dimostra l’emissione effettiva o la ricezione in Italia e non giustifica una descrizione generale dei programmi verso l’Europa come inglesi o hindi. L’ascolto GIR riportato sotto rimane una testimonianza storica.
 
 > 💬 *Esperienza GIR: All India Radio ricevuta su antenna esterna da balcone — un esempio di come un'antenna modesta esterna batta comunque l'antenna interna per stazioni lontane come l'India.*
 

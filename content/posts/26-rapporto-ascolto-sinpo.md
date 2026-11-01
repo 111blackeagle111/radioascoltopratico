@@ -1,7 +1,7 @@
 ---
 title: "Come Scrivere un Rapporto di Ascolto: il Codice SINPO e il Modello GIR"
 date: 2026-03-12
-lastmod: 2026-11-01
+lastmod: 2026-11-02
 draft: false
 description: "Codice SINPO per rapporti di ascolto: forza segnale, interferenze, rumore, propagazione. Template per ottenere QSL dalle emittenti."
 tags:
@@ -72,18 +72,19 @@ Un rapporto di ascolto completo include:
 
 > 💬 *Esperienza GIR: alcune emittenti asiatiche hanno risposto con QSL fisiche di qualità anche ad anni di distanza dal rapporto originale. Radio Romania è stata segnalata come una delle più affidabili nel rispondere ai rapporti italiani.*
 
-## Un esempio di rapporto completo
+## Un esempio fittizio di compilazione
+
+I dati seguenti illustrano il formato: non documentano una ricezione reale. Sostituisci i campi tra parentesi quadre con quanto hai effettivamente ascoltato, inclusa l’identificazione dell’emittente.
 
 ```
 Data: 15 gennaio 2026
 Ora UTC: 20:35 – 21:00
 Frequenza: 9510 kHz
-Stazione: Radio City Bulgaria
+Stazione: [nome identificato all’ascolto]
 Modo: AM
 SINPO: 44444
-Programma: trasmissione musicale, musica pop internazionale 
-           e annunci in lingua bulgara e inglese. 
-           Identificazione alle 20:45 UTC: "Radio City, Bulgaria".
+Programma: [contenuti e dettagli effettivamente ascoltati]
+Identificazione: [ora UTC e trascrizione dell’ID ascoltato]
 Ricevitore: Tecsun PL-880
 Antenna: filo lungo 12m esterno, balcone primo piano
 QTH: Terni (TR), Umbria, Italia

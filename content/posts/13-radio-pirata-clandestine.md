@@ -1,7 +1,7 @@
 ---
 title: "Radio Pirata e Clandestine: le Stazioni che Non Dovrebbero Esserci"
 date: 2026-01-31
-lastmod: 2026-11-01
+lastmod: 2026-11-02
 draft: false
 description: "Radio pirata su onde medie e corte: emittenti non autorizzate, trasmissioni clandestine, guerre dell'etere e propaganda radiofonica."
 tags:
@@ -29,7 +29,7 @@ Oggi sopravvivono principalmente in due aree:
 >
 > 📖 *In Regione 1 la porzione broadcast MW è 526,5–1606,5 kHz, con canali da 531 a 1602 kHz a passi di 9 kHz. Un intervallo di ricerca più ampio sul ricevitore non cambia questa definizione. La frequenza ricevuta da sola non dimostra lo status autorizzativo dell’emittente. Vedi [bande e riferimenti]({{< relref "34-schede-frequenza-bande.md" >}}).*
 
-**Onde corte intorno ai 6 MHz (intervallo di ricerca)**: frequenze come 6140 kHz, 6423 kHz e dintorni ospitano spesso trasmissioni non autorizzate europee. 6140 kHz è nella banda broadcast dei 49 metri (5900–6200 kHz); 6423 kHz è fuori da tale intervallo. Le etichette informali usate dagli ascoltatori non definiscono un’allocazione.
+**Onde corte intorno ai 6 MHz (intervallo di ricerca)**: 6140 kHz è nella banda broadcast dei 49 metri (5900–6200 kHz), mentre 6423 kHz è fuori da tale intervallo. A 6140 kHz esiste una registrazione [HFCC B26 per Radio Onda ASBL](https://new.hfcc.org/data/schedbybrc.php?seas=B26&broadc=RON). Una ricezione non identificata e la sola frequenza non dimostrano che la trasmissione sia non autorizzata; anche la registrazione HFCC non certifica da sola lo status legale di un’emissione.
 
 > 💬 *Esperienza GIR: 6140 kHz e 6423 kHz monitorate direttamente con ricezione confermata di trasmissioni non identificabili come emittenti autorizzate note. Frequenze segnalate attive in orari serali europei (16–21 UTC).*
 >
@@ -39,13 +39,13 @@ Oggi sopravvivono principalmente in due aree:
 
 Le **radio clandestine** sono un'altra storia. Trasmettono verso paesi con cui sono in conflitto politico o militare, spesso finanziate da governi o organizzazioni politiche, con l'obiettivo di raggiungere popolazioni che i media ufficiali non possono o non vogliono raggiungere.
 
-Esempi attivi nel 2025–2026:
+Riferimenti e annunci, con stato verificato documentalmente al 2 novembre 2026 dove indicato:
 
-**Radio Shabname** — trasmette in farsi verso l'Iran su frequenze come 7465, 17450 e 9680 kHz. Orario indicativo 15:30–16:30 e 18:30–19:00 UTC. Contenuti di opposizione al regime iraniano.
+**Radio Shabname** — il [sito ufficiale](https://shabname.org/en), consultato il **2 novembre 2026**, annuncia programmi in farsi verso l’Iran su **7465 e 17540 kHz alle 15:30 UTC** (19:00 a Teheran) e su **9680 kHz alle 18:30 UTC** (22:00 a Teheran). Sono orari di inizio annunciati: durata, giorni e periodo di validità non sono specificati. La stessa pagina segnala la preparazione delle trasmissioni; **attività effettiva, sito e potenza sono da verificare**.
 
 **Stazioni in ucraino verso la Russia** (e viceversa) — con il conflitto in corso, l'etere è tornato teatro di guerra dell'informazione. Stazioni che trasmettono propaganda in ucraino, russo o inglese su frequenze HF, alcune identificabili, molte no.
 
-**Radio Liberty / Radio Free Asia** verso Cina e Corea del Nord — tecnicamente autorizzate e finanziate dal governo USA, ma per i paesi target sono a tutti gli effetti trasmissioni ostili e spesso disturbate (jammed).
+**Radio Svoboda (Radio Liberty)** e **Radio Free Asia (RFA)** vanno distinte: Svoboda pubblica un [programma in russo su 1386 kHz](https://www.svoboda.org/a/33794621.html) alle 18:30–21:30 UTC quotidiane dal 1º luglio 2026. RFA dichiara invece [attività onde corte limitata nel settembre 2026](https://www.rfa.org/english/about/releases/2026/09/29/rfa-builds-on-major-milestone/); frequenze e orari attuali dei singoli servizi sono **da verificare**.
 
 ## Il jamming: quando qualcuno non vuole che tu ascolti
 
@@ -53,9 +53,9 @@ Le stazioni sgradite ai governi vengono spesso disturbate con **jamming** — tr
 
 Il jamming è riconoscibile: un rumore bianco o un tono fisso che copre esattamente la frequenza di una stazione scomoda, che scompare quando quella stazione smette di trasmettere. Per l'ascoltatore è un indicatore indiretto che quella stazione dice qualcosa che qualcuno non vuole far sentire.
 
-## Radio Nova International e i relay legali
+## Relay e programmi ospitati a 6140 kHz
 
-Un caso interessante a metà strada è **Radio Nova International** su 6140 kHz — una stazione che effettua trasmissioni di test periodiche tramite trasmettitori in affitto (relay), con orari pubblicati e risposta alle QSL. Non è pirata nel senso tecnico, ma opera in una zona grigia del panorama radiofonico europeo. Graditi rapporti a qslnova@gmail.com.
+A **6140 kHz**, [HFCC B26](https://new.hfcc.org/data/schedbybrc.php?seas=B26&broadc=RON) registra **Radio Onda ASBL**, Junglinster, 1 kW, portoghese, tutti i giorni nella finestra 00:00–24:00 UTC, dal **25 ottobre 2026 al 27 marzo 2027**. Una finestra registrata non prova che il trasmettitore sia sempre acceso e non identifica tutti i programmi ospitati. Per **Radio Nova International e Radio Augusta**, i riferimenti precedenti restano storici: presenza attuale, orari e recapiti QSL sono **da verificare** al 2 novembre 2026.
 
 Analogamente, **Radio CH292** da Rohrbach in Germania offre slot di trasmissione a chiunque voglia andare in onda in HF — associazioni DX, gruppi sperimentali, emittenti nostalgia. È un relay legale che permette trasmissioni altrimenti impossibili senza una licenza da emittente.
 

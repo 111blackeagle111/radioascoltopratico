@@ -3,7 +3,7 @@ title: "Onde Corte Internazionali: Chi Trasmette Ancora"
 date: 2026-01-17
 lastmod: 2026-11-02
 draft: false
-description: "Emittenti ancora attive in onde corte nel 2025: BBC, RFI, VOA, Radio Cina, NHK. Stazioni e frequenze ricevibili dall'Italia."
+description: "Emittenti internazionali in onde corte: esempi stagionali, fonti dei palinsesti e dati ancora da verificare per l’ascolto dall’Italia."
 tags:
   - onde-corte
   - emittenti
@@ -28,7 +28,9 @@ Le motivazioni per continuare a trasmettere in HF nel 2025 sono più solide di q
 
 ## Le emittenti principali ancora attive
 
-**Radio Free Asia / Voice of America (VOA)**: trasmettono in decine di lingue asiatiche, dirette verso Cina, Corea del Nord, Vietnam, ecc. Potenze elevate, segnali spesso eccellenti dall'Italia specialmente nelle bande dei 15–17 MHz.
+**Voice of America (VOA)**: un esempio documentato è il servizio coreano a **17520 kHz, 00:00–06:00 UTC tutti i giorni**. La [guida VOA Korean](https://www.voakorea.com/p/5867.html) (09:00–15:00 in Corea) concorda con [HFCC B26](https://new.hfcc.org/data/schedbybrc.php?seas=B26&broadc=AGM): Tinang 1, 250 kW, dal **25 ottobre 2026 al 27 marzo 2027**. La destinazione è la Corea; la programmazione non garantisce ricezione in Italia.
+
+**Radio Free Asia (RFA)**: nel [comunicato del 29 settembre 2026](https://www.rfa.org/english/about/releases/2026/09/29/rfa-builds-on-major-milestone/) dichiara trasmissioni onde corte limitate e autofinanziate, senza aver ancora riottenuto accesso agli impianti e satelliti prima forniti da USAGM. Frequenze e orari dei singoli servizi restano **da verificare** su annunci datati; questo stato non equivale né a una cessazione totale né al ripristino di tutti i servizi precedenti.
 
 **Radio France Internationale (RFI)**: una delle più presenti in Europa. Trasmette in francese e in molte lingue africane. Frequenze spesso intorno a 11700–15300 kHz durante il pomeriggio europeo.
 
@@ -58,7 +60,7 @@ Le bande internazionali sono fisse per convenzione internazionale (ITU). Quelle 
 
 Un fenomeno interessante del mercato attuale è il **relay**: emittenti che non hanno trasmettitori propri affittano tempo d'antenna su trasmettitori commerciali per raggiungere determinate aree geografiche. Strutture come **WRMI** (Florida), **Channel 292** (Germania) e **Radio Spaceshuttle** offrono slot orari a chiunque voglia trasmettere in HF.
 
-Questo ha aperto la porta a esperimenti interessanti: associazioni di appassionati, stazioni "nostalgia" che trasmettono musica degli anni '60–'70, gruppi DX che organizzano trasmissioni speciali. Radio Nova International (6140 kHz) ne è un esempio — trasmissioni di test periodiche, graditi rapporti, risposta con QSL.
+Questo ha aperto la porta a esperimenti di associazioni, programmi musicali e trasmissioni speciali. A **6140 kHz**, [HFCC B26](https://new.hfcc.org/data/schedbybrc.php?seas=B26&broadc=RON) registra **Radio Onda ASBL**, Junglinster, 1 kW, portoghese, tutti i giorni nella finestra 00:00–24:00 UTC dal **25 ottobre 2026 al 27 marzo 2027**. È una registrazione pianificata, non la prova di attività H24. I precedenti riferimenti a programmi Radio Nova International e Radio Augusta non ne confermano il palinsesto corrente: programmi ospitati, orari e contatti QSL sono **da verificare**.
 
 ## Perché vale ancora la pena
 

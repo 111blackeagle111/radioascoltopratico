@@ -1,7 +1,7 @@
 ---
 title: "Onde Medie in Italia nel 2025: Stazioni, Frequenze e Orari"
 date: 2025-11-15
-lastmod: 2026-11-01
+lastmod: 2026-11-02
 draft: false
 description: "Onde medie ancora attive in Italia: frequenze di stazioni nazionali, europee e africane. Guida ai migliori orari per il DX notturno."
 tags:
@@ -33,14 +33,14 @@ Questo significa che la finestra utile per il DX in MW è dal tramonto all'alba.
 Questi sono riferimenti di ascolto e identificazioni storiche, non una certificazione dello stato odierno di ogni trasmettitore. Prima di pianificare una sessione verificare emittente, sito e orario aggiornati:
 
 - **225 kHz (LW)** — Polskie Radio Program 1 (Jedynka), da Solec Kujawski: potenza nominale documentata di **1200 kW**, non misura della potenza effettiva del giorno. [Fonte Polskie Radio](https://reportaz.polskieradio.pl/artykul/1448878%2CRadiostacja-w-Raszynie-sygnal-od-1931-roku).
-- **252 kHz (LW)** — "Catena 3" Algeria (Tipaza), 750 kW, ottima nelle ore notturne
+- **252 kHz (LW)** — riferimento storico a Chaîne 3, Tipaza (Algeria): servizio attuale, potenza e orari **da verificare** al 2 novembre 2026; la documentazione [TDA](https://www.tda.dz/diffusionRadio) consultata non li riconferma.
 - **531 kHz** — Radio Algeria in arabo
 - **630 kHz** — stazioni arabe, spesso ricevibili nelle prime ore della notte
 - **693 kHz** — BBC Radio 5 Live: identificazione documentata dalla [BBC](https://www.bbc.co.uk/sport/formula1/17238688); verificare separatamente l’operatività del sito trasmittente.
-- **999 kHz** — frequenza affollata: più stazioni si sovrappongono, causando il tipico "fading veloce" da battimento
+- **999 kHz** — frequenza segnalata dal GIR con sovrapposizioni e battimenti; identificazione attuale, sito, potenza e orari **da verificare** (controllo del 2 novembre 2026).
 - **1107 kHz** — varie emittenti europee
-- **1170/1171 kHz** — Radio Capodistria (Slovenia), un classico per gli ascoltatori italiani
-- **1413 kHz** — Radio Rossii (Russia), 500 kW, dalle 18 UTC alle 05 del mattino
+- **1170 kHz** — Radio Capodistria (Slovenia), secondo la pagina ufficiale [Frequenze](https://radiocapodistria.rtvslo.si/frequenze) consultata il 2 novembre 2026. Non è pubblicata un’assegnazione alternativa a 1171 kHz; potenza e orari MW restano da verificare.
+- **1413 kHz** — identificazione attuale, sito, potenza e orari **da verificare** al 2 novembre 2026. L’attribuzione storica a Radio Rossii nelle testimonianze GIR non costituisce un palinsesto corrente; vedi la [scheda Est Europa](/posts/16-russia-est-europa-mw-hf/).
 
 ## Il fading: lento, veloce e da battimento
 

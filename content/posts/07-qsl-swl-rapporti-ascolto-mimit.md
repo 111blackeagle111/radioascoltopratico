@@ -50,9 +50,9 @@ Il contenuto del programma è fondamentale: dimostra che hai davvero ricevuto qu
 
 Alcune stazioni sono particolarmente apprezzate per le loro QSL:
 
-- **Radio Nova International** (6140 kHz): stazione europea che effettua trasmissioni di test periodiche e risponde ai rapporti via email (qslnova@gmail.com)
+- **Radio Nova International**: i riferimenti a test e relay su 6140 kHz sono storici; programma attuale, orari e recapito QSL sono **da verificare**. [HFCC B26](https://new.hfcc.org/data/schedbybrc.php?seas=B26&broadc=RON) registra Radio Onda ASBL su questa frequenza, senza confermare i singoli programmi ospitati.
 - **WWVB** (60 kHz, Fort Collins Colorado): stazione di tempo e frequenza campione americana, rilascia QSL ufficiali
-- **Shannon Volmet** (13264 kHz): servizio meteo per aviatori, attivo h24, risponde ai rapporti
+- **Shannon VOLMET**: servizio AirNav Ireland in USB. L’[AIP del 29 ottobre 2026](https://www.airnav.ie/AIRAC/2026-10-29-AIRAC/html/eAIP/EI-GEN-3.5-en-IE.html) indica 5505 e 8957 kHz H24, 3413 kHz HN (propagazione notturna) e 13264 kHz HJ (diurna). Per i rapporti consultare il [modulo QSL AirNav](https://www.airnav.ie/contact/qsl-reception-report).
 - **KNLS** (Alaska): emittente religiosa con trasmissioni in russo e cinese, QSL confermate
 
 Le stazioni delle bande di emergenza, militari e di servizio (VOLMET, NAVTEX) rispondono con frequenza variabile — alcune con entusiasmo, altre ignorano i rapporti.
