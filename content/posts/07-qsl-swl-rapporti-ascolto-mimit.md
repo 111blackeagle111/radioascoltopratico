@@ -67,7 +67,7 @@ La sigla SWL ministeriale non si costruisce aggiungendo «SWL» a un nominativo 
 
 ## La maratona SWL
 
-Una tradizione consolidata nella comunità italiana è la **maratona SWL**: un periodo di ascolto intensivo in cui si registrano quante più stazioni possibile. Le regole dipendono dall'evento. La [bozza del nostro sito, versione 0.2 del 1 novembre 2026]({{< relref "38-regolamento-maratona-swl.md" >}}), prevede 24 ore, categorie A e B per ricevitori locali e categoria C WebSDR fuori classifica; ammette AM in MW, AM e SSB in SW e SSB e CW nelle bande HAM elencate. Per bande, log e punteggi fa riferimento il PDF della bozza.
+Una tradizione consolidata nella comunità italiana è la **maratona SWL**: un periodo di ascolto intensivo in cui si registrano quante più stazioni possibile. Le regole dipendono dall'evento. La [bozza del nostro sito, versione 0.3 del 1 novembre 2026]({{< relref "38-regolamento-maratona-swl.md" >}}), prevede 24 ore, categorie A e B per ricevitori locali e categoria C WebSDR fuori classifica; ammette AM in MW, AM e SSB in SW e SSB e CW nelle bande HAM elencate. Per bande, log e punteggi fa riferimento il PDF della bozza.
 
 Non è una gara nel senso competitivo — è, come dice bene chi la organizza, "un allenamento all'ascolto". Un modo per riscoprire la banda sistematicamente invece che per abitudine.
 

@@ -23,13 +23,13 @@ Le **radio pirata** trasmettono senza licenza per ragioni che raramente hanno a 
 
 Oggi sopravvivono principalmente in due aree:
 
-**Onde medie intorno ai 1700 kHz**: la fascia alta della banda AM, appena prima del limite ufficiale, è frequentata da emittenti non autorizzate, specialmente in Grecia e nell'Europa meridionale. Segnali spesso forti nelle ore notturne, contenuti variabili — musica folk, religiosa, o semplicemente test di trasmissione.
+**Intorno ai 1700 kHz**: questa zona è oltre la porzione broadcast MW della Regione 1; viene esplorata anche per segnalazioni di emittenti non autorizzate.
 
 > 💬 *Esperienza GIR: emittenti non autorizzate intorno ai 1700 kHz segnalate regolarmente da più membri, con segnali forti nelle ore notturne. Identificazione certa come pirata non sempre possibile — alcune potrebbero essere transponder o stazioni in zona grigia normativa.*
 >
-> 📖 *Il limite superiore della banda AM standard in Europa è 1611 kHz (CCIR). Le frequenze 1612–1705 kHz sono riservate ad usi speciali (beacon marittimi, ecc.). Trasmissioni radiofoniche su queste frequenze sono tecnicamente non autorizzate nella maggior parte dei paesi europei.*
+> 📖 *In Regione 1 la porzione broadcast MW è 526,5–1606,5 kHz, con canali da 531 a 1602 kHz a passi di 9 kHz. Un intervallo di ricerca più ampio sul ricevitore non cambia questa definizione. La frequenza ricevuta da sola non dimostra lo status autorizzativo dell’emittente. Vedi [bande e riferimenti]({{< relref "34-schede-frequenza-bande.md" >}}).*
 
-**Onde corte intorno ai 6 MHz (banda dei 48 metri)**: frequenze come 6140 kHz, 6423 kHz e dintorni ospitano spesso trasmissioni non autorizzate europee. La banda è storicamente affollata di emittenti legittime in declino, il che lascia spazio a chi vuole trasmettere senza troppa attenzione delle autorità.
+**Onde corte intorno ai 6 MHz (intervallo di ricerca)**: frequenze come 6140 kHz, 6423 kHz e dintorni ospitano spesso trasmissioni non autorizzate europee. 6140 kHz è nella banda broadcast dei 49 metri (5900–6200 kHz); 6423 kHz è fuori da tale intervallo. Le etichette informali usate dagli ascoltatori non definiscono un’allocazione.
 
 > 💬 *Esperienza GIR: 6140 kHz e 6423 kHz monitorate direttamente con ricezione confermata di trasmissioni non identificabili come emittenti autorizzate note. Frequenze segnalate attive in orari serali europei (16–21 UTC).*
 >
@@ -66,7 +66,7 @@ Le radio pirata non hanno schedule pubblicati ufficialmente, ma la community le 
 - **DXLD (DX Listening Digest)**: newsletter settimanale con segnalazioni di stazioni insolite
 - **Priyom.org**: non solo stazioni numeri, ma anche clandestine note
 - **HF Underground** (hfunderground.com): forum dedicato alle radio pirata europee e americane
-- Semplicemente: scorrere lentamente la banda dei 48 metri (6–6,2 MHz) nelle ore serali europee (16–22 UTC)
+- Semplicemente: scorrere lentamente l’intervallo 6–6,2 MHz, nella banda broadcast dei 49 metri nelle ore serali europee (16–22 UTC)
 
 ## Nota legale
 

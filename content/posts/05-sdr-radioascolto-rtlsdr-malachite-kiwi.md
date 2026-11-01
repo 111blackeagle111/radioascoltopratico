@@ -22,7 +22,7 @@ Un ricevitore tradizionale fa tutto in hardware: filtra, converte, demodula il s
 
 ## RTL-SDR: il punto di ingresso
 
-Il dongle **RTL-SDR** (basato sul chip Realtek RTL2832U abbinato a un tuner come il R820T2) è diventato il gateway per milioni di persone verso il mondo SDR. Costa 30–40€, si collega via USB al PC, e con software libero come **SDR#**, **GQRX** o **SDR++** permette di ricevere FM, AM, SSB, e molto altro.
+Il dongle **RTL-SDR** (basato sul chip Realtek RTL2832U abbinato a un tuner come il R820T2) è diventato il gateway per milioni di persone verso il mondo SDR. Costa 30–40€, si collega via USB al PC, e con programmi come **SDR#** (gratuito per Windows, con licenza del produttore), **Gqrx** o **SDR++** (software libero) permette di ricevere FM, AM, SSB, e molto altro.
 
 La dinamica è limitata: segnali forti possono saturare il frontend. Stabilità e copertura dipendono dal modello; i modelli RTL-SDR Blog V3 e V4 includono già un TCXO. Il **V3** usa il **direct sampling** per la fascia nominale da 500 kHz a circa 24 MHz: questa modalità non rende garantita la ricezione sotto 500 kHz. Le impostazioni vanno scelte seguendo la [scheda del V3](https://www.rtl-sdr.com/wp-content/uploads/2018/02/RTL-SDR-Blog-V3-Datasheet.pdf).
 

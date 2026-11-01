@@ -1,6 +1,7 @@
 ---
 title: "Modi Digitali in Ricezione: DRM, WSPR, FT8 e gli Altri"
 date: 2026-03-07
+lastmod: 2026-11-01
 draft: false
 description: "Modi digitali HF per ascoltatori: DRM broadcast digitale, WSPR propagazione, FT8. Come decodificare e ricevere senza trasmettere."
 tags:
@@ -19,15 +20,15 @@ La radio non è solo voce. Le bande HF ospitano un universo di segnali digitali:
 
 ## DRM: il digitale che non è decollato
 
-**DRM** (Digital Radio Mondiale) è lo standard di radiodiffusione digitale per le bande sotto i 30 MHz — pensato come successore dell'AM per le onde medie e corte. Audio in qualità quasi FM, trasmissione dati aggiuntiva, maggiore efficienza spettrale.
+**DRM** (Digital Radio Mondiale) è un sistema di radiodiffusione digitale che comprende sia le bande sotto 30 MHz (LF, MF e HF), sia l’estensione in VHF comunemente chiamata **DRM+**, con modo di robustezza E. Offre audio e servizi dati; qualità e robustezza dipendono dalla configurazione trasmessa e dal segnale ricevuto.
 
 Il problema: per ricevere DRM serve un ricevitore compatibile, e questi sono rimasti rari e costosi. La RAI aveva sperimentato trasmissioni DRM da Roma (S. Palomba) per le onde medie, poi ha abbandonato il progetto. Alcune emittenti internazionali trasmettono ancora in DRM (BBC, All India Radio, Deutsche Welle), ma la copertura di ricevitori compatibili nel mercato consumer non ha mai raggiunto la massa critica.
 
 > 💬 *Esperienza GIR: il DRM discusso come tecnologia "promessa e non mantenuta" — la sperimentazione RAI a S. Palomba citata direttamente come esempio di investimento abbandonato. Il kit N.E. per la ricezione DRM menzionato come prodotto uscito e poi scomparso dal mercato.*
 >
-> 📖 *Il DRM (Digital Radio Mondiale) è uno standard ISO/IEC ratificato (ISO 15551). Il fallimento commerciale non è tecnico ma di ecosistema: senza ricevitori consumer a basso costo, le emittenti non hanno incentivo a trasmettere in DRM, e senza trasmissioni i produttori non hanno incentivo a fare ricevitori — un classico problema di pollo e uovo.*
+> 📖 *Il riferimento è **ETSI ES 201 980**, non ISO 15551. La [specifica del sistema DRM](https://www.etsi.org/deliver/etsi_es/201900_201999/201980/04.02.01_60/es_201980v040201p.pdf) descrive i modi per le diverse bande e i requisiti di ricezione. Il supporto del nome DRM in un programma non garantisce la decodifica di ogni modo e codec.*
 
-Chi vuole provare il DRM oggi può usare un SDR: alcuni software come **DREAM** permettono di decodificare DRM ricevuto tramite SDR. La qualità audio quando il segnale è buono è notevolmente superiore all'AM.
+Per provare la ricezione con un SDR si può usare **DREAM**, verificando prima il percorso del segnale e i codec presenti nella specifica build. Il supporto AAC o xHE-AAC non va dedotto dal solo nome del programma: controllare pacchetto, librerie e formato trasmesso.
 
 ## WSPR: il bisbiglio che gira il mondo
 
@@ -45,7 +46,7 @@ Per un SWL, FT8 è interessante da ricevere: le bande radioamatoriali durante i 
 
 ## RTTY: il telex della radio
 
-**RTTY** (Radio Teletype) è uno dei modi digitali più antichi ancora in uso — un telex radio, con due toni FSK che codificano i caratteri ASCII. Si usa ancora in ambito militare, meteorologico e tra i radioamatori in alcuni contest.
+**RTTY** (Radio Teletype) è radiotelegrafia a stampa: normalmente due frequenze FSK rappresentano gli stati mark e space. Il codice non è necessariamente ASCII. Nel comune RTTY radioamatoriale si usa **ITA2 a 5 bit**, spesso chiamato Baudot, tipicamente a **45,45 baud** con **shift 170 Hz**. Nel [manuale fldigi](https://www.w1hkj.org/FldigiHelp/rtty_fsk_configuration_page.html), una configurazione di esempio è 5 bit, nessuna parità e 1,5 bit di stop. Velocità, shift e codice vanno adattati al segnale ricevuto: altri servizi possono usare parametri diversi.
 
 La US Navy trasmette ancora bollettini in RTTY su frequenze HF standard. Su 12.015 kHz, NSS (stazione navale USA) trasmette RTTY in vari orari — identificabile facilmente con fldigi.
 
@@ -69,10 +70,16 @@ I decoder CW automatici funzionano bene solo con trasmissioni automatiche — ti
 
 ## Software essenziale
 
-- **fldigi**: multimodale (RTTY, CW, PSK, NAVTEX e molto altro)
-- **WSJT-X**: WSPR, FT8, JT65, FT4
-- **DREAM**: decodifica DRM
-- **MultiPSK**: alternativa a fldigi con più modalità
-- **SDR#** + plugin decoder: per chi usa RTL-SDR o SDRplay
+Le piattaforme e le licenze cambiano da programma a programma. Controllare i requisiti della release e i driver del proprio ricevitore prima di installare.
 
-Tutti gratuiti. Tutti funzionano su Linux, Windows e macOS.
+| Programma e fonte | Piattaforme | Licenza e disponibilità | Uso |
+|---|---|---|---|
+| [fldigi](https://www.w1hkj.org/) | Linux, Windows, macOS | Software libero, GNU GPL; download gratuiti | RTTY, CW e numerosi altri modi |
+| [WSJT-X](https://wsjtx.github.io/wsjtx/index.html) | Linux, Windows, macOS | Software libero, GNU GPL; download gratuiti | WSPR, FT8, FT4 e altri modi supportati |
+| [DREAM](https://sourceforge.net/projects/drm/) | Progetto per Linux, Windows e macOS; disponibilità delle build da verificare | GNU GPL v2; verificare separatamente le dipendenze audio | DRM, con capacità dipendenti da build e codec |
+| [MultiPSK](http://f6cte.free.fr/index_anglais.htm) | Windows | Software proprietario: uso gratuito con limiti, alcune funzioni richiedono una [licenza a pagamento](http://f6cte.free.fr/Licence_En.htm) | Numerosi modi digitali, con limiti indicati dall’autore |
+| [SDR#](https://airspy.com/download/) | Windows | Gratuito, con licenza del produttore; non equivale a software libero | Ricezione SDR; decoder e compatibilità dei plugin da verificare |
+| [Gqrx](https://github.com/gqrx-sdr/gqrx) | Linux, macOS | Software libero, GNU GPL v3 | Ricezione SDR |
+| [SDR++](https://github.com/AlexandreRouma/SDRPlusPlus) | Windows, Linux, macOS | Software libero, GNU GPL v3 | Ricezione SDR multipiattaforma |
+
+La disponibilità di un eseguibile non garantisce compatibilità con ogni versione del sistema operativo. Per DREAM verificare in particolare che il codec audio della trasmissione sia disponibile nella build scelta.

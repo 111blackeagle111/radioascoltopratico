@@ -1,6 +1,7 @@
 ---
 title: "Russia e Est Europa: Cosa si Riceve dall'Italia in MW e HF"
 date: 2026-02-21
+lastmod: 2026-11-01
 draft: false
 description: "Stazioni russe e est-europee ricevibili dall'Italia: Radio Vesti 999 kHz, Radio Rossii, segnali militari HF e DUGA."
 tags:
@@ -56,7 +57,7 @@ Oltre alla Russia, l'Est Europa offre stazioni interessanti:
 
 **Radio Romania Internazionale**: una delle poche emittenti europee che trasmette ancora in italiano. Frequenze variabili in HF, consultare il sito ufficiale per lo schedule aggiornato.
 
-**Radio Bulgaria / Radio Stara Zagora**: presenza ridotta rispetto al passato ma ancora attiva su alcune frequenze HF.
+**Radio Bulgaria (BNR)** appartiene agli ascolti storici in onde corte: il servizio ha terminato le emissioni SW il **31 gennaio 2012** ed è proseguito online, come ricorda la [storia ufficiale BNR](https://old-news.bnr.bg/en/post/101422225/bnrs-programmes-in-foreign-languages-connecting-bulgarians-abroad-with-their-country-and-bringing-information-about-bulgaria-to-foreigners). Eventuali relay da impianti in Bulgaria vanno attribuiti al programma e all’operatore identificati, senza considerarli automaticamente Radio Bulgaria o Radio Stara Zagora.
 
 **Lituania — Radio Liberty 1386 kHz**: trasmissioni in russo verso la Russia e i paesi baltici. Ricevibile in Italia nelle ore notturne.
 

@@ -1,6 +1,7 @@
 ---
 title: "Come Ottenere una QSL: Guida Step by Step per SWL"
 date: 2026-03-12
+lastmod: 2026-11-01
 draft: false
 description: "Guida passo per passo per ottenere QSL: log accurato, indirizzo stazione, lettera in inglese, IRC internazionali. Template disponibile."
 tags:
@@ -62,7 +63,7 @@ Tono: educato, entusiasta ma conciso. Non serve scrivere tre pagine.
 
 **Email** è la via più rapida e sempre più usata. Allega il modulo compilato come PDF o immagine. Molte stazioni rispondono con eQSL in pochi giorni.
 
-**Posta ordinaria** è ancora viva per le stazioni che inviano QSL cartacee. Regola fondamentale: includi sempre un **SAE** (Self-Addressed Envelope) — una busta preindirizzata a te, affrancata. Senza SAE molte stazioni non rispondono, specialmente quelle piccole o con budget ridotto. Per stazioni fuori Europa considera l'IRC (International Reply Coupon) al posto dei francobolli.
+**Posta ordinaria**: seguire le istruzioni QSL dell’emittente prima di preparare gli allegati. **SAE** (Self-Addressed Envelope) è una busta preindirizzata al mittente; **SASE** (Self-Addressed Stamped Envelope) è anche affrancata. I francobolli devono essere validi nel paese dal quale partirà la risposta, non semplicemente in Italia. Un **IRC** può essere un’alternativa internazionale se disponibile e accettata, anche fra paesi europei: verificarne validità e condizioni presso l’operatore postale e nelle [informazioni UPU](https://www.upu.int/en/universal-postal-union/activities/philately-ircs/international-reply-coupons-ircs). Non esiste un allegato obbligatorio universale.
 
 > 💬 *Esperienza GIR: Radio Romania International risponde regolarmente via email a audiences@rri.ro. KBS World Radio Korea risponde tramite il form sul sito. Per le stazioni ex-sovietiche la posta ordinaria con SAE funziona ancora meglio dell'email.*
 

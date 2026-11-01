@@ -27,7 +27,7 @@ Il radioascolto ha un linguaggio proprio — codici Q, sigle tecniche, termini i
 
 **AM** — Amplitude Modulation. Modulazione in ampiezza — il modo usato da tutte le emittenti broadcast tradizionali in LW, MW e SW. La portante è sempre presente; l'informazione è nelle bande laterali.
 
-**Aurora** — Fenomeno ionosferico causato da particelle solari che interagisce con le bande HF, specialmente alle alte latitudini. Durante le aurore intense le bande HF si chiudono o mostrano fading rapido e distorsione caratteristica.
+**Aurora** — Emissione luminosa nell’alta atmosfera causata da particelle precipitate lungo il campo geomagnetico. Può accompagnare perturbazioni delle rotte radio polari. Non va confusa con il blackout HF diurno da raggi X di un flare; il solo fading non permette di diagnosticare una tempesta.
 
 ---
 
@@ -89,7 +89,7 @@ Il radioascolto ha un linguaggio proprio — codici Q, sigle tecniche, termini i
 
 ## G
 
-**Guadagno** — In un'antenna, il guadagno esprime la direttività rispetto a un'antenna di riferimento (isotropa o dipolo). Un'antenna con guadagno concentra l'energia in una direzione, a scapito delle altre.
+**Guadagno** — Il guadagno rispetto all'isotropa include direttività ed efficienza di radiazione: in valori lineari G = η × D. La direttività descrive la distribuzione angolare; le perdite riducono il guadagno. Il guadagno realizzato comprende anche il disadattamento al punto di alimentazione. Indicare sempre il riferimento, per esempio dBi o dBd.
 
 ---
 
@@ -141,7 +141,7 @@ Il radioascolto ha un linguaggio proprio — codici Q, sigle tecniche, termini i
 
 **Modo** — Il tipo di modulazione usato da una trasmissione: AM, FM, SSB, CW, DRM, RTTY, FT8 ecc.
 
-**MW** — Medium Wave. Onde medie, banda 530–1700 kHz. Le emittenti AM tradizionali. DX notturno per eccellenza.
+**MW** — Onde medie. Per il broadcast in Regione ITU 1, banda 526,5–1606,5 kHz e centri dei canali 531–1602 kHz a passi di 9 kHz. Le griglie e i limiti cambiano fra regioni; la gamma di sintonia di un ricevitore può essere più ampia.
 
 ---
 
@@ -191,7 +191,7 @@ Il radioascolto ha un linguaggio proprio — codici Q, sigle tecniche, termini i
 
 **Ricevitore SDR** — Software Defined Radio. Ricevitore in cui le funzioni tradizionalmente analogiche (filtraggio, demodulazione) sono realizzate via software su PC. Permette visualizzazione dello spettro (waterfall) e registrazione IQ.
 
-**ROS** — Rapporto d'Onda Stazionaria (SWR in inglese). Misura il disadattamento tra antenna e sistema di alimentazione. ROS 1:1 = adattamento perfetto; ROS > 2:1 indica perdite significative (in trasmissione più che in ricezione).
+**ROS** — Rapporto d’Onda Stazionaria (SWR). In una linea descrive il disadattamento: ROS = (1 + |Γ|)/(1 − |Γ|). Con linea ideale e ricevitore adattato, 200 Ω resistivi su 50 Ω danno ROS 4:1 e circa 1,94 dB di perdita. La fisica vale anche in ricezione; l’effetto sul rapporto segnale/rumore dipende dal peso del rumore esterno e di quello interno.
 
 **RTTY** — Radio Teletype. Modo digitale a due toni FSK, tra i più vecchi ancora in uso. Usato da stazioni navali (US Navy), meteorologiche e in alcuni contest radioamatoriali.
 
