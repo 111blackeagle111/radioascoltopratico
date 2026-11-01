@@ -1,6 +1,7 @@
 ---
 title: "Ricevitori Vintage: Grundig, Hammarlund e i Classici che Resistono al Tempo"
 date: 2026-03-12
+lastmod: 2026-11-01
 draft: false
 description: "Ricevitori vintage per il radioascolto: Grundig Satellit, Tecsun S-2000, Hammarlund. Caratteristiche e confronto con moderni DSP."
 tags:
@@ -44,9 +45,11 @@ La discussione diventa più seria quando si parla di **ricevitori da banco vinta
 
 **Apparati militari**: i ricevitori progettati per uso militare (Racal, Collins, Rohde & Schwarz) sono costruiti con standard di durata e stabilità irraggiungibili per il consumer. Pesanti, voluminosi, costosi da manutenere — ma tecnicamente superiori a quasi tutto il consumer degli stessi anni.
 
-> 💬 *Esperienza GIR: la preferenza espressa per i ricevitori da banco vintage ("Hammarlund, Siemens e robe simili che sono super") rispetto ai Tecsun di fascia alta, per chi ha lo spazio e la disponibilità. Con il budget di un Tecsun S-2000 si può trovare un IC-7000 o un R5000 usato — apparecchi di tutt'altra classe tecnica.*
+> 💬 *Esperienza GIR: la preferenza espressa per i ricevitori da banco vintage ("Hammarlund, Siemens e robe simili che sono super") rispetto ai Tecsun di fascia alta, per chi ha lo spazio e la disponibilità.*
 >
 > 📖 *Il limite oggettivo dei ricevitori vintage è la deriva di frequenza: molti apparecchi analogici dell'epoca richiedono un periodo di riscaldamento prima di stabilizzarsi sulla frequenza impostata, e la precisione in frequenza è inferiore ai moderni display digitali con riferimento al quarzo.*
+
+Tra gli apparecchi citati nel confronto figurano il **ricetrasmettitore Icom IC-7000** e il **ricevitore Kenwood R-5000**: sono categorie diverse, come documentano la [scheda Icom](https://www.icom.co.jp/lineup/products/IC-7000/) e il [manuale Kenwood R-5000](https://www.rigpix.com/kenwood/r5000_manual.pdf). Il confronto di spesa con un Tecsun S-2000 richiede di verificare prezzi, condizioni e accessori dei singoli esemplari usati; non si può dare per scontato che il budget sia equivalente.
 
 ## L'AR-2000 e i ricevitori scanning
 
