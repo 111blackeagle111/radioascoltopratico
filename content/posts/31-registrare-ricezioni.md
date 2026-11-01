@@ -1,6 +1,7 @@
 ---
 title: "Registrare le Ricezioni: Strumenti, Metodi e il Problema del Mini Registratore"
 date: 2026-03-12
+lastmod: 2026-11-02
 draft: false
 description: "Registrare le ricezioni radio: registratori digitali Sony, Olympus, smartphone, RTL-SDR. Metodi per archiviare ascolti interessanti."
 tags:
@@ -47,7 +48,7 @@ In pratica, trovare il modello giusto non è banale.
 Non ha senso registrare tutto — lo spazio finisce e i file si accumulano inutilmente. Una strategia pratica:
 
 1. **Registrazione selettiva**: avvia la registrazione quando senti qualcosa di interessante o quando stai seguendo una stazione che vuoi documentare
-2. **Nome file con metadati**: rinominare subito il file con frequenza, data e stazione identificata — es. `9510kHz_2026-01-15_RadioCity.mp3`
+2. **Nome file con metadati**: rinominare subito il file con frequenza, data e stazione identificata. Se manca l’ID, indicarlo esplicitamente: esempio fittizio `9510kHz_2026-01-15_non-identificata.mp3`.
 3. **Cartella per anno/mese**: organizzare le registrazioni in una gerarchia di cartelle per non perdere traccia
 4. **Breve nota testuale**: un file di testo nella stessa cartella con i dati SINPO e il contenuto del programma — veloce da compilare durante o subito dopo l'ascolto
 

@@ -243,7 +243,7 @@ Il radioascolto ha un linguaggio proprio — codici Q, sigle tecniche, termini i
 
 **VLF** — Very Low Frequency. Banda **3–30 kHz**, distinta dalle LF (30–300 kHz), secondo la [nomenclatura ITU](https://www.itu.int/rec/dologin_pub.asp?id=T-REC-B.15-198811-S%21%21PDF-E&lang=e&type=items). Include trasmissioni navali militari.
 
-**VOLMET** — Voice Meteorological broadcast. Bollettini meteo aeronautici trasmessi h24 in voce su frequenze HF standard. Shannon Volmet su 13264 kHz è il punto di riferimento europeo.
+**VOLMET** — Bollettini meteorologici aeronautici in voce, con frequenze e orari propri di ciascun servizio. Per Shannon, AirNav Ireland indica in USB 5505/8957 kHz H24, 3413 kHz HN (propagazione notturna) e 13264 kHz HJ (diurna): [AIP del 29 ottobre 2026](https://www.airnav.ie/AIRAC/2026-10-29-AIRAC/html/eAIP/EI-GEN-3.5-en-IE.html). HJ e HN non indicano fasce UTC fisse.
 
 ---
 

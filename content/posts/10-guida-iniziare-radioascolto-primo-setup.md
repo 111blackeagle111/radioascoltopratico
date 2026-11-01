@@ -51,7 +51,7 @@ Questo è tutto. Con questi due elementi si possono ricevere emittenti da Africa
 
 **Onde corte 49 metri (5900–6200 kHz)**: sera e notte. Piena di emittenti internazionali. Un buon banco di prova per capire come cambia la propagazione.
 
-**Onde corte 19 metri (15100–15800 kHz)**: pomeriggio e sera. BBC, RFI, Radio China International, VOA. Segnali spesso forti.
+**Onde corte 19 metri (15100–15800 kHz)**: una banda da esplorare nel pomeriggio e nelle condizioni favorevoli del percorso. Scegli emittente, lingua e orario da uno schedule stagionale; consulta gli [esempi documentati per banda](/posts/34-schede-frequenza-bande/).
 
 **41 metri broadcast (7200–7450 kHz, Regione 1)**: ascolti serali di emittenti internazionali. La banda radioamatoriale dei **40 metri, 7000–7200 kHz**, è distinta: per cercare conversazioni in SSB si può esplorare 7060–7200 kHz in LSB. Vedi [bande e riferimenti]({{< relref "34-schede-frequenza-bande.md" >}}).
 

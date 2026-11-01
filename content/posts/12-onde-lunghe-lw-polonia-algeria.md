@@ -1,7 +1,7 @@
 ---
 title: "Onde Lunghe (LW): Polonia, Algeria e Servizi tra LF e MF"
 date: 2026-01-24
-lastmod: 2026-11-01
+lastmod: 2026-11-02
 draft: false
 description: "Onde lunghe (LW): Polskie Radio Program 1 a 225 kHz, Algeria 252 kHz e servizi LF/MF. Onda di superficie, contributi ionosferici e ascolti del GIR."
 tags:
@@ -31,7 +31,7 @@ Il rovescio della medaglia è che costruire trasmettitori LW efficaci richiede a
 >
 > 📖 *Polskie Radio documenta per il centro di **Solec Kujawski**, a **225 kHz**, una potenza nominale di **1200 kW** ([fonte](https://reportaz.polskieradio.pl/artykul/1448878%2CRadiostacja-w-Raszynie-sygnal-od-1931-roku)). È una caratteristica dell’impianto, non una verifica della potenza usata nel giorno dell’ascolto. Onda di superficie, contributi ionosferici e rumore locale determinano insieme il risultato ricevuto.*
 
-**"Catena 3" Algeria — 252 kHz**: trasmettitore di Tipaza (Algeria) da 750 kW in lingua francese. Il GIR ne segnala ricezioni forti anche durante temporali: sono osservazioni nelle condizioni locali descritte, non una garanzia di ricezione immune al rumore atmosferico.
+**Chaîne 3 / Tipaza, Algeria — 252 kHz** è un riferimento storico degli ascolti GIR. Al controllo del **2 novembre 2026**, servizio attuale, potenza e orario sono **da verificare**: la documentazione [TDA](https://www.tda.dz/diffusionRadio) consultata non offre una scheda che li riconfermi. Le ricezioni forti segnalate dal gruppo durante temporali descrivono condizioni locali, non una garanzia di ricezione immune al rumore atmosferico.
 
 > 💬 *Esperienza GIR: Algeria 252 kHz ricevuta con segnale forte anche durante temporali attivi — confermata la stabilità della propagazione per onda di superficie rispetto alle perturbazioni atmosferiche tipiche delle MW.*
 >

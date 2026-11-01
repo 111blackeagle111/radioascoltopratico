@@ -1,9 +1,9 @@
 ---
 title: "Russia e Est Europa: Cosa si Riceve dall'Italia in MW e HF"
 date: 2026-02-21
-lastmod: 2026-11-01
+lastmod: 2026-11-02
 draft: false
-description: "Stazioni russe e est-europee ricevibili dall'Italia: Radio Vesti 999 kHz, Radio Rossii, segnali militari HF e DUGA."
+description: "Ascolti dall’Est Europa: riferimenti MW da verificare, Radio Svoboda a 1386 kHz, segnali HF e testimonianze GIR."
 tags:
   - russia
   - est-europa
@@ -17,19 +17,13 @@ tags:
 
 L'Italia è geograficamente ben posizionata per ricevere le trasmissioni provenienti dall'Est Europa e dalla Russia. Con propagazione favorevole, le stazioni russe in onde medie arrivano con segnali fortissimi, e in HF la Russia è presente su molte frequenze con trasmissioni di vario tipo — radiofoniche, militari, enigmatiche.
 
-## Le stazioni MW russe ricevibili in Italia
+## 999 e 1413 kHz: identificazioni attuali da verificare
 
-**Vesti FM / Radio Vesti — 999 kHz**: trasmette con 1000 kW (un megawatt) dalle 11 alle 15 UTC. Un segnale di questa potenza arriva in tutta Europa con facilità. La frequenza 999 kHz è però affollata — altre stazioni europee si sovrappongono, causando il classico fading veloce da battimento nelle ore di copertura parziale.
-
-**Radio Rossii — 1413 kHz**: 500 kW dalle 18 UTC alle 05 del mattino. Nelle ore notturne è una delle stazioni più forti ricevibili in Italia su questa frequenza.
+Le attribuzioni a Vesti FM su 999 kHz e Radio Rossii su 1413 kHz appartengono alle testimonianze storiche del gruppo. Nel controllo del **2 novembre 2026** non è stato reperito un palinsesto primario attuale del gestore; il sito [PRTC](https://prtc.idknet.com/) non era raggiungibile. **Identificazione, sito trasmittente, potenza e orari di entrambe le frequenze restano da verificare.** Non si può dedurre il paese del trasmettitore dalla lingua o dalla nazionalità del programma.
 
 > 💬 *Esperienza GIR: entrambe le stazioni ricevute con segnale forte dall'Italia centrale — Vesti 999 kHz confermata anche con ricevitore portatile e stilo da 50 cm. Radio Rossii 1413 kHz segnalata con segnale "bomba" nelle ore serali.*
->
-> 📖 *Le potenze dichiarate (999 kHz: 1000 kW; 1413 kHz: 500 kW) sono tra le più alte in Europa per le onde medie. A queste potenze la propagazione per onda di cielo raggiunge tutta l'Europa meridionale con facilità nelle ore notturne.*
->
-> 🔧 *Nota pratica: il fading veloce su 999 kHz nelle ore di transizione (alba/tramonto) è causato dal battimento tra il segnale russo e altre stazioni europee sulla stessa frequenza — un fenomeno normale in MW affollate, non un problema del ricevitore.*
 
-Entrambe le stazioni trasmettono musica, notizie e programmi culturali russi. Per chi vuole esercitarsi nella comprensione del russo, o semplicemente curiosare su cosa trasmette la radio pubblica russa, sono stazioni facilmente accessibili.
+Questa testimonianza conserva gli abbinamenti annotati dal GIR, senza certificarli come attuali. I battimenti fra portanti di stazioni sovrapposte possono produrre variazioni rapide del segnale; non bastano a identificare le emittenti.
 
 ## La presenza russa in HF
 
@@ -59,9 +53,9 @@ Oltre alla Russia, l'Est Europa offre stazioni interessanti:
 
 **Radio Bulgaria (BNR)** appartiene agli ascolti storici in onde corte: il servizio ha terminato le emissioni SW il **31 gennaio 2012** ed è proseguito online, come ricorda la [storia ufficiale BNR](https://old-news.bnr.bg/en/post/101422225/bnrs-programmes-in-foreign-languages-connecting-bulgarians-abroad-with-their-country-and-bringing-information-about-bulgaria-to-foreigners). Eventuali relay da impianti in Bulgaria vanno attribuiti al programma e all’operatore identificati, senza considerarli automaticamente Radio Bulgaria o Radio Stara Zagora.
 
-**Lituania — Radio Liberty 1386 kHz**: trasmissioni in russo verso la Russia e i paesi baltici. Ricevibile in Italia nelle ore notturne.
+**Radio Svoboda (Radio Liberty) — 1386 kHz**: programma in russo tutti i giorni **18:30–21:30 UTC**, secondo l’[annuncio del 2 luglio 2026](https://www.svoboda.org/a/33794621.html) valido dal 1º luglio (21:30–00:30 ora di Mosca). È la finestra del programma, distinta dal palinsesto completo del canale e dalla diretta web. Sito trasmittente e potenza restano **da verificare**.
 
-**ERT Grecia — 1512 kHz**: non Est Europa in senso stretto, ma geograficamente vicina. Contatti: kosmos@ert.gr per i rapporti di ascolto.
+**ERT — 1512 kHz, Souda/Chania (Grecia)**: il [comunicato ERT del 27 maggio 2025](https://www.ertnews.gr/eidiseis/anavathmisi-eksoplismou-sto-kentro-ekpompis-mesaion-kymaton-soudas-xanion-apo-tin-ert/) documenta l’impianto onde medie. Orari correnti e recapito QSL specifico sono **da verificare** al 2 novembre 2026; il comunicato non è un palinsesto attuale.
 
 ## CW in russo e giapponese
 
