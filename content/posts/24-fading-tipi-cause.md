@@ -1,6 +1,7 @@
 ---
 title: "Fading: Tipi, Cause e Come Riconoscerli all'Ascolto"
 date: 2026-03-12
+lastmod: 2026-11-01
 draft: false
 description: "Fading radio: lento vs veloce, battimento tra stazioni, selective fading. Come identificare cause ionosferiche e di interferenza."
 tags:
@@ -20,13 +21,13 @@ Chi ascolta le onde medie o le onde corte conosce bene il fading: quella variazi
 
 La prima distinzione che si nota all'ascolto è la **velocità** del fading.
 
-**Fading lento** (QSB lento): variazioni di intensità nell'arco di decine di secondi o minuti. Tipico della propagazione notturna stabile su strato F. Il segnale sale e scende gradualmente, spesso in modo prevedibile. Fastidioso ma gestibile — si aspetta che risalga.
+**Fading lento** (QSB lento): variazioni di intensità nell'arco di decine di secondi o minuti. Il segnale sale e scende gradualmente, ma questa velocità non identifica da sola la regione ionosferica coinvolta né la lunghezza del percorso. Nell'ascolto può essere utile attendere che il livello risalga.
 
 **Fading veloce**: variazioni rapide, nell'ordine di secondi o frazioni di secondo. Molto più fastidioso perché interrompe la comprensione del parlato. Può avere cause diverse.
 
 > 💬 *Esperienza GIR: il fading veloce in onde medie segnalato in più serate di ascolto — in alcuni casi si è risolto nel corso della serata man mano che le condizioni ionosferiche si stabilizzavano. In auto alle 4 del mattino lo stesso ascoltatore ha trovato fading lento o quasi nullo sulla stessa banda.*
 >
-> 📖 *La velocità del fading è correlata alla stabilità dello strato riflettente. Nelle ore notturne pre-alba, con strato F stabile e poco mosso, il fading è lento. Nelle ore di transizione (alba, tramonto) e con ionosfera perturbata, i movimenti del plasma ionosferico causano variazioni più rapide.*
+> 📖 *Il fading può derivare dalla variazione di ampiezza e fase dei segnali arrivati lungo percorsi diversi. Per le MW, la [ITU-R P.1147-4](https://www.itu.int/dms_pubrec/itu-r/rec/p/R-REC-P.1147-4-200708-I%21%21PDF-E.pdf) considera predominante la riflessione nella regione E, con possibili contributi della F in condizioni particolari. Non basta osservare un fading lento prima dell'alba per concludere che lo strato F sia stabile.*
 
 ## Fading da battimento
 
@@ -54,6 +55,6 @@ Nelle trasmissioni via satellite o con percorsi di propagazione molto lunghi e i
 
 ## Come usare il fading a proprio vantaggio
 
-Il fading non è solo un problema — è informazione. Un segnale con fading lento e regolare indica propagazione stabile e percorso lungo. Un segnale senza fading apprezzabile indica propagazione per onda di superficie (stazioni locali o LW) o condizioni ionosferiche eccezionalmente stabili.
+Il fading fornisce indizi sulle variazioni del canale, ma non basta a stabilire distanza e percorso. Anche l'assenza di fading apprezzabile, durante un intervallo di osservazione limitato, non dimostra da sola che il segnale arrivi per onda di superficie. Per interpretarlo servono frequenza, orario, posizione delle stazioni e condizioni di propagazione.
 
 Imparare a "leggere" il fading durante una sessione di ascolto aiuta a capire quando vale la pena spostarsi su frequenze diverse e quando aspettare che le condizioni migliorino.

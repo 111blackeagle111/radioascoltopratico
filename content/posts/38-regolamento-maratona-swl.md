@@ -1,6 +1,7 @@
 ---
 title: "Regolamento Maratona SWL: Bozza e File Scaricabile"
 date: 2026-03-12
+lastmod: 2026-11-01
 draft: false
 description: "Regolamento Maratona SWL: regole di gara, bande HF, periodo contest, log e verifica. File PDF scaricabile per organizzatori."
 tags:
@@ -12,7 +13,9 @@ tags:
 
 ---
 
-La Maratona SWL è una gara di radioascolto — chi riesce a loggare più stazioni diverse in un arco di tempo definito, su bande e modi prestabiliti. Non si trasmette: si ascolta, si identifica, si annota. Questa è la bozza di regolamento, potete usarla come riferimento.
+La Maratona SWL è una gara di radioascolto: si ascolta, si identifica e si annota, senza trasmettere. Il PDF qui pubblicato è la **bozza di riferimento, versione 0.1 del 1 novembre 2026**. Non è un regolamento definitivo e non annuncia una data di gara. Le presentazioni negli altri articoli si riferiscono a questa versione; prima di partecipare a un'edizione occorrerà consultarne il regolamento definitivo.
+
+La bozza prevede categorie A e B per ricevitori locali e una categoria C WebSDR fuori classifica; ammette AM in MW, AM e SSB in SW, SSB e CW nelle bande HAM elencate. Il PDF specifica i dettagli di bande, categorie, punteggio e log.
 
 ---
 
@@ -32,6 +35,6 @@ La Maratona SWL è una gara di radioascolto — chi riesce a loggare più stazio
     📥 Scarica il Regolamento (.pdf)
   </a>
   <p style="font-size:0.8em; color:#666; margin-top:8px;">
-    Formato PDF stampabile — bozza, soggetta ad aggiornamenti
+    Formato PDF stampabile — bozza v0.1 del 1 novembre 2026, soggetta ad aggiornamenti
   </p>
 </div>

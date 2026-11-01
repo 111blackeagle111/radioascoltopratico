@@ -1,6 +1,7 @@
 ---
 title: "Antenne per Chi Abita in Condominio: Soluzioni Reali per Spazi Impossibili"
 date: 2026-03-12
+lastmod: 2026-11-01
 draft: false
 description: "Antenne per appartamento in condominio: filo dal balcone, loop magnetica compatta, verticale corta. Soluzioni pratiche senza tetto."
 tags:
@@ -38,7 +39,7 @@ Non è elegante. Non è ottimizzata. Ma è esterna — e questo conta più di qu
 
 **Loop magnetica sul balcone**: la loop è compatta (diametro 60–100 cm), non richiede spazio orizzontale, e la sua natura direzionale permette di orientarla per minimizzare il rumore dell'edificio. Sul balcone funziona meglio che all'interno perché è fisicamente più lontana dalle sorgenti di disturbo interne.
 
-**Antenna verticale compatta**: stili da 1–2 metri (tipo AOR SA7000 o simili) si montano su balcone con staffa. La limitazione è la dimensione fisica — più corta è l'antenna rispetto alla lunghezza d'onda, più inefficiente è. Con amplificatore integrato si compensa parzialmente.
+**Antenna verticale compatta**: la **AOR SA7000**, alta circa 1,8 m, è un esempio **passivo a due stili**, senza amplificatore né alimentazione, secondo la [scheda AOR](https://www.aorja.com/antennas/pdf/sa7000_catalog_a.pdf). Si può valutare un montaggio con staffa compatibile con il balcone; l'ampia copertura dichiarata non assicura prestazioni uniformi sulle bande basse. Le whip attive con amplificatore sono una categoria distinta.
 
 **Dipolo sul balcone**: se il balcone è abbastanza lungo o si può tenersi a due balconi adiacenti (o a un albero vicino), un piccolo dipolo per le bande HF alte (10–15 MHz) occupa pochi metri e funziona bene.
 

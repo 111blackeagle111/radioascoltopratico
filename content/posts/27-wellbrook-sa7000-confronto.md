@@ -1,8 +1,9 @@
 ---
-title: "Antenne Attive a Confronto: Wellbrook ALA 1530 vs AOR SA7000"
+title: "Antenne a Confronto: Wellbrook ALA 1530 Attiva e AOR SA7000 Passiva"
 date: 2026-03-12
+lastmod: 2026-11-01
 draft: false
-description: "Antenne attive HF: Wellbrook ALA 1530 loop magnetica vs AOR SA7000 verticale. Prestazioni reali e confronto d'uso in Italia."
+description: "Confronto tra la loop attiva Wellbrook ALA 1530 e la verticale passiva AOR SA7000. Caratteristiche tecniche ed esperienze di ascolto in Italia."
 tags:
   - antenne
   - wellbrook
@@ -14,7 +15,7 @@ tags:
 
 ---
 
-Nel panorama delle antenne riceventi broadband per HF e MW, due modelli tornano frequentemente nelle discussioni degli appassionati europei: la **Wellbrook ALA 1530** e la **AOR SA7000**. Entrambe sono antenne attive, entrambe promettono copertura wideband, entrambe si trovano spesso nei setup di chi vuole un'antenna esterna compatta. Ma le esperienze pratiche raccontano storie diverse.
+Tra le antenne riceventi a larga banda citate dagli appassionati europei ricorrono la **Wellbrook ALA 1530** e la **AOR SA7000**. Hanno architetture diverse: la prima è una **loop attiva**, la seconda un'**antenna passiva a due stili**. Il confronto seguente distingue le caratteristiche costruttive dalle esperienze di ricezione del GIR.
 
 ## Wellbrook ALA 1530: la loop che non delude
 
@@ -26,13 +27,13 @@ L'amplificatore integrato compensa la naturale insensibilità di una loop piccol
 
 ## AOR SA7000: le promesse e la realtà
 
-La **AOR SA7000** è un'antenna verticale attiva con copertura dichiarata da 100 kHz a 2000 MHz — un range ambizioso che la posiziona come antenna tuttofare per chi vuole coprire dalle onde lunghe alle UHF con una sola installazione.
+La **AOR SA7000** è un'antenna **passiva a due stili**, con copertura dichiarata **30 kHz–2 GHz** e altezza di circa **1,8 m**. Funziona senza amplificatore integrato e senza alimentazione, secondo la [scheda AOR](https://www.aorja.com/antennas/pdf/sa7000_catalog_a.pdf).
 
-Il profilo tecnico reale, tuttavia, è risultato più modesto di quanto le specifiche dichiarate e le recensioni americane suggerissero. La SA7000 è fondamentalmente uno stilo corto con amplificatore: funziona, ma nelle bande basse (LW, MW, HF) l'efficienza è sensibilmente inferiore a un'antenna dedicata come la Wellbrook.
+I due elementi servono le gamme basse e quelle VHF/UHF. L'ampia copertura dichiarata non implica sensibilità uniforme né prestazioni equivalenti a quelle di un'antenna dedicata su ogni frequenza. I risultati del confronto locale con la Wellbrook restano osservazioni sul setup e sull'ambiente descritti, senza attribuire alla SA7000 effetti di un amplificatore che non possiede.
 
 > 💬 *Esperienza GIR: la SA7000 descritta esplicitamente come antenna "che non rende come vorrei" dal membro che la usa. Acquistata dopo confronto con colleghi americani che ne avevano dato prove positive — ma la differenza di noise floor, tipologia di abitazione e condizioni locali tra USA e Italia ha reso il risultato deludente. Prima collocata sul tetto, poi spostata sul balcone — senza miglioramenti sostanziali.*
 >
-> 📖 *Il guadagno dichiarato di un'antenna attiva come la SA7000 è spesso espresso in termini di "equivalente a un'antenna passiva di X metri" o in dBi — ma questi valori dipendono fortemente dalla frequenza. Sulle bande basse, uno stilo corto amplificato ha rendimento intrinsecamente inferiore a una loop magnetica ben progettata. Confrontare le specifiche alle frequenze di interesse, non solo le cifre di picco.*
+> 📖 *Una loop attiva e una verticale passiva non si confrontano in base al solo guadagno di un amplificatore. Contano risposta in frequenza, diagramma di ricezione, posizione, cavo, rumore locale e ricevitore. Per la SA7000 vanno usati i dati della scheda del costruttore, senza dedurre un guadagno attivo dalla sola estensione della copertura.*
 >
 > 🔧 *Nota pratica: le recensioni americane di antenne attive vanno prese con cautela. Il noise floor ambientale negli USA è spesso più basso che nelle città europee dense, e alcune antenne che funzionano bene in ambiente rurale americano mostrano i loro limiti in un contesto urbano italiano con alta densità di sorgenti RFI.*
 

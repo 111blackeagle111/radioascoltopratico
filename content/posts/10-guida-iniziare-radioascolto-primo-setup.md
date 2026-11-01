@@ -1,6 +1,7 @@
 ---
 title: "Iniziare con il Radioascolto: il Primo Setup SWL"
 date: 2026-01-03
+lastmod: 2026-11-01
 draft: false
 description: "Come iniziare il radioascolto con meno di 150€: ricevitore Tecsun, antenna esterna e i primi ascolti di stazioni internazionali."
 tags:
@@ -26,7 +27,7 @@ La domanda da porsi non è "quale ricevitore compro" ma "cosa voglio ascoltare".
 
 ## Il setup minimo funzionante
 
-**Ricevitore**: Tecsun PL-660 (~90€) o Tecsun PL-880 (~150€). Entrambi hanno ingresso BNC per antenna esterna, coprono LW/MW/SW e FM, supportano SSB. Il PL-660 è più economico e solido; l'880 ha migliore selettività e DSP in media frequenza.
+**Ricevitore**: Tecsun PL-660 (~90€) o Tecsun PL-880 (~150€). Entrambi coprono LW/MW/SW e FM e supportano SSB, ma il connettore per antenna esterna è un **jack da 3,5 mm**, non un BNC; un eventuale BNC richiede un adattatore. Sul **PL-660** l'ingresso esterno serve **FM e SW**, mentre MW/LW usano la ferrite interna. Non dedurre quindi le bande accessibili dal jack dalla sola copertura della radio: consultare il [manuale PL-660](https://www.tecsunradios.com.au/store/wp-content/uploads/2015/12/PL-660-MANUAL.pdf) e l'[indicazione Tecsun sui connettori PL-660/PL-880](https://www.tecsunradios.com.au/store/product/bnc-to-3-5mm-mono-adaptor/).
 
 **Antenna**: 10–15 metri di filo di rame, un'estremità collegata al jack antenna del ricevitore (tramite adattatore o clip a coccodrillo), l'altra tesa fuori dalla finestra o sul balcone nel modo più alto e libero possibile. Costo: meno di 5€. Prestazioni: enormemente superiori all'antenna telescopica integrata.
 

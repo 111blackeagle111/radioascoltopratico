@@ -1,8 +1,9 @@
 ---
-title: "Il Perseus: Perché è Ancora il Riferimento dopo Vent'anni"
+title: "Il Perseus Originale: un Riferimento dopo Quasi Vent’anni"
 date: 2026-03-12
+lastmod: 2026-11-01
 draft: false
-description: "Ricevitore Perseus SDR italiano: 20 anni di riferimento HF. Frontend analogico, ADC 14-bit, registrazione IQ. Perché batte i moderni."
+description: "Perseus originale Microtelecom: frontend analogico, ADC a 14 bit e 80 MS/s, uscita I/Q e registrazione. Caratteristiche e testimonianze di ascolto."
 tags:
   - ricevitori
   - sdr
@@ -15,17 +16,17 @@ tags:
 
 ---
 
-Nel 2006 la Microtelecom italiana ha messo sul mercato il Perseus. Venti anni dopo, in una discussione del GIR, qualcuno cita il Kenwood R1000 come ricevitore mitico e aggiunge: *"non c'è SDR che lo batte... (vabbeh, Perseus!)"*. La parentesi dice tutto: il Perseus è ancora il termine di paragone con cui si misura tutto il resto.
+La scheda del Perseus originale Microtelecom ne annunciava la disponibilità per **settembre 2007**. A quasi vent'anni di distanza, in una discussione del GIR, qualcuno cita il Kenwood R1000 come ricevitore mitico e aggiunge: *"non c'è SDR che lo batte... (vabbeh, Perseus!)"*. La parentesi dice tutto: per questi ascoltatori il Perseus resta un termine di paragone.
 
-Come è possibile che un ricevitore SDR di vent'anni fa resista al confronto con hardware moderno che costa un terzo?
+Come è possibile che un ricevitore SDR progettato quasi vent'anni fa resista al confronto con hardware moderno che costa un terzo?
 
 ## Cos'è il Perseus
 
-Il **Perseus** è un ricevitore SDR HF — copre da 10 kHz a 40 MHz — prodotto da **Microtelecom**, azienda italiana con sede a Milano. Non è un ricevitore standalone: richiede un PC Windows con software dedicato (Perseus Software, tuttora aggiornato). L'hardware è una scatola metallica compatta che si collega via USB.
+Questo articolo riguarda il **Perseus originale**, non i modelli successivi. La [scheda Microtelecom](https://www.hoka.it/product/perseus_pdf/spec.pdf) riporta l'indirizzo del produttore a **Pavia di Udine** e distingue la gamma con preselezione fino a **30 MHz** dalla copertura wideband fino a **40 MHz**. Non è un ricevitore standalone: si collega via USB a un PC con software compatibile. Funzioni e larghezze di banda disponibili vanno verificate nella versione software utilizzata.
 
 Prezzo attuale: circa 900–1000€ nuovo. Usato sui 500–700€ quando si trova.
 
-> 📖 *Il Perseus usa un ADC (convertitore analogico-digitale) a 14 bit con frequenza di campionamento fino a 2 MHz. Questo permette di visualizzare e registrare fino a 2 MHz di banda spettrale simultaneamente — una finestra di 2 MHz "congelata" sull'etere, riascoltabile in qualsiasi momento.*
+> 📖 *Il Perseus originale usa un **ADC a 14 bit e 80 MS/s**, come documentato nella [scheda tecnica](https://www.hoka.it/product/perseus_pdf/spec.pdf). Dopo la conversione, l'elaborazione digitale seleziona e decima il segnale, producendo un flusso I/Q a velocità inferiore. Frequenza di campionamento dell'ADC, frequenza dei campioni I/Q e banda utile ricevuta sono grandezze distinte: un valore di 2 MS/s in uscita non descrive l'ADC e non equivale automaticamente a 2 MHz interamente utilizzabili.*
 
 ## Il punto di forza tecnico: il frontend analogico
 
@@ -51,13 +52,13 @@ In condizioni di banda vuota e segnali deboli, la differenza è piccola. In cond
 
 ## Il database EIBI integrato
 
-Un dettaglio che pochi conoscono: il software Perseus si interfaccia direttamente con il database EIBI. Cliccando su un segnale nel waterfall, il software mostra automaticamente le emittenti schedulate su quella frequenza in quell'orario. È un'integrazione che molti software SDR hanno copiato dopo, ma che Perseus aveva già vent'anni fa.
+Il software Perseus offre l'integrazione con il database EIBI per associare frequenze e orari alle emittenti schedulate. La disponibilità e le modalità di questa funzione dipendono dalla versione software; il database va mantenuto aggiornato.
 
 > 💬 *Esperienza GIR: la connessione Perseus-EIBI citata esplicitamente come caratteristica di eccellenza — "il famoso Ricevitore Perseus è connesso a questo Database!" — da chi lo usa attivamente.*
 
 ## La registrazione IQ: l'etere in una scatola
 
-Una delle funzionalità più potenti del Perseus è la **registrazione IQ**: salvare su disco non l'audio demodulato, ma il segnale grezzo di tutta la banda osservata. Una registrazione IQ di 2 MHz di banda occupa molto spazio (circa 30–50 MB al minuto), ma permette di riascoltare quella finestra spettrale esattamente come era in diretta — cambiando frequenza, modo, larghezza di banda, a posteriori.
+La **registrazione I/Q** salva il segnale prima della demodulazione, permettendo di riascoltare la finestra acquisita e cambiare frequenza, modo e filtro. Lo spazio dipende dalla frequenza dei campioni I/Q e dal formato: **byte/s = campioni complessi/s × (bit I + bit Q) / 8**. Come esempio non compresso, a **2 MS/s** con **16 bit per I e 16 bit per Q** servono circa **480 MB al minuto**; con 24 bit per componente circa **720 MB al minuto**, esclusi intestazioni e metadati. Sono esempi di calcolo, non un formato unico garantito per tutte le versioni del software Perseus: occorre verificare quello effettivamente registrato.
 
 Questo è straordinario per chi vuole documentare eventi di propagazione, ricezioni rare, o semplicemente non vuole perdere nulla durante una sessione notturna.
 
@@ -78,4 +79,4 @@ Questo è straordinario per chi vuole documentare eventi di propagazione, ricezi
 
 ## L'eredità
 
-Il Perseus ha dimostrato che un'azienda italiana poteva progettare e vendere nel mondo un ricevitore SDR di riferimento. Ha anticipato di anni l'approccio "large bandwidth IQ recording" che oggi è standard in tutti gli SDR seri. E vent'anni dopo è ancora lì, nella parentesi ironica di chi cerca un termine di paragone assoluto.
+Il Perseus ha mostrato che un'azienda italiana poteva progettare e vendere nel mondo un ricevitore SDR apprezzato per il frontend e la registrazione I/Q. A quasi vent'anni dall'introduzione del modello originale, rimane un riferimento nelle testimonianze del gruppo.

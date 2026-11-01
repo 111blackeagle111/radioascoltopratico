@@ -1,8 +1,9 @@
 ---
 title: "La Maratona SWL: Cos'è, Come Funziona e Come Partecipare"
 date: 2026-02-28
+lastmod: 2026-11-01
 draft: false
-description: "Maratona SWL: gara di radioascolto HF per ascoltatori. Allenamento all'ascolto sistematico, log e regolamento europeo."
+description: "Maratona SWL: ascolto sistematico, log e categorie. Presentazione della bozza di regolamento del sito, con PDF scaricabile."
 tags:
   - maratona
   - contest
@@ -20,23 +21,23 @@ Nel mondo dei radioamatori il "contest" è una gara di collegamento: chi fa più
 
 La maratona non è una competizione nel senso aggressivo del termine. È, come viene definita da chi la organizza, "un allenamento all'ascolto" — un'occasione per esplorare le bande sistematicamente invece che per abitudine, per scoprire stazioni nuove, per confrontarsi con altri ascoltatori su cosa si riesce a ricevere dalla propria location.
 
-Il format tipico prevede un periodo fisso (24 ore, un weekend, o una settimana) durante il quale si ascoltano stazioni radioamatoriali in SSB sulle bande HF. Ogni stazione ricevuta, identificata con nominativo, viene annotata nel log con frequenza, ora UTC e rapporto SINPO.
+Durata, bande e modi variano secondo l'evento. La bozza pubblicata su questo sito prevede 24 ore e comprende sia emittenti broadcast sia ascolti radioamatoriali; le stazioni identificate si annotano nel log con frequenza, ora UTC e rapporto SINPO.
 
 ## Le regole fondamentali
 
-Le regole variano da evento a evento, ma alcune sono quasi universali:
+Qui riassumiamo la [bozza del sito, versione 0.1 del 1 novembre 2026]({{< relref "38-regolamento-maratona-swl.md" >}}). Il PDF è il riferimento per queste regole; resta una bozza e non annuncia un'edizione della gara.
 
-**Solo radio fisiche**: niente KiwiSDR, niente ricevitori remoti via internet. L'ascolto deve essere fatto con hardware in possesso dell'ascoltatore, nella propria location. La filosofia è che il merito dell'ascolto sia dell'operatore, non della location remota.
+**Categorie di ricezione**: la categoria **A** è per ricevitori standalone, senza SDR né PC; la **B** per SDR con PC. La categoria **C** è dedicata ai **WebSDR, fuori classifica**. La preferenza per l'ascolto dalla propria postazione riguarda quindi le categorie in classifica.
 
 > 💬 *Esperienza GIR: la scelta di escludere i ricevitori remoti dalla Maratona SWL è una posizione deliberata — l'obiettivo è "allenamento all'ascolto" nella propria location, non raccolta di log tramite nodi ottimali altrui.*
 >
-> 📖 *Non esiste una norma tecnica che impedisca l'uso di ricevitori remoti per il radioascolto. La restrizione è una scelta regolamentare dell'evento, analoga a quella dei contest radioamatoriali che impongono l'uso della propria stazione.*
+> 📖 *La testimonianza spiega la scelta di riservare la classifica alle postazioni locali. La bozza PDF ammette comunque una categoria C WebSDR fuori classifica: non esiste una norma tecnica che vieti i ricevitori remoti e ogni evento deve esplicitare le proprie regole.*
 
-**Nessun modo digitale**: FT8, RTTY, CW e modi digitali in genere sono esclusi. Solo SSB (voce). Questo perché i modi digitali sono decodificati dal software e non richiedono abilità di ascolto — perdono il senso della maratona come "allenamento".
+**Bande e modi**: la bozza ammette **AM in MW**, **AM e SSB in SW**, **SSB e CW nelle bande HAM 80, 40, 20, 15 e 10 metri**. Il CW è dunque ammesso; FT8 e RTTY non figurano tra i modi elencati. Non si deve dedurre l'ammissibilità di un modo dal fatto che possa essere decodificato con software.
 
 **No conferme obbligatorie**: non è necessario avere QSL o eQSL per ogni stazione loggata. La maratona si basa sulla fiducia dell'ascoltatore.
 
-**Solo SWL**: in alcune maratone partecipano solo ascoltatori senza licenza o che operano esclusivamente in ricezione — non radioamatori che alternano ricezione e trasmissione.
+**Partecipanti**: la bozza è rivolta a SWL e BCL italiani; non richiede iscrizione a un'associazione o autorizzazione a trasmettere. L'attività di gara è esclusivamente di ricezione.
 
 ## Il SSBSWL Contest francese
 

@@ -1,6 +1,7 @@
 ---
 title: "Ricevitori Portatili: Tecsun, Eton, Sangean e gli Altri"
 date: 2025-11-22
+lastmod: 2026-11-01
 draft: false
 description: "Confronto ricevitori portatili per radioascolto: Tecsun, Eton, Sangean. Quale scegliere per MW, HF e onde corte internazionali."
 tags:
@@ -26,7 +27,7 @@ Questo non significa che siano tutti identici: il frontend analogico (filtri, mi
 **Tecsun** è il marchio cinese diventato riferimento per i radioascoltatori seri. La gamma è ampia:
 
 - **PL-380, PL-398**: entry level con DSP Si4734, ottimi per iniziare, sotto i 50€
-- **PL-660**: ricevitore solido, con ingresso antenna esterno su BNC, buona selettività SSB, intorno ai 100€
+- **PL-660**: ricevitore solido, con ingresso antenna esterna **FM/SW su jack da 3,5 mm**, buona selettività SSB, intorno ai 100€. Per MW e LW usa la ferrite interna; si veda il [manuale Tecsun](https://www.tecsunradios.com.au/store/wp-content/uploads/2015/12/PL-660-MANUAL.pdf)
 - **PL-880**: considerato da molti il punto di equilibrio ideale tra prestazioni e costo (intorno ai 150€). Ha DSP in media frequenza, buona sensibilità e un audio soddisfacente. Le opinioni nel mondo SWL sono quasi unanimemente positive
 - **PL-990x**: versione aggiornata con display migliorato, qualche critica sull'audio rispetto all'880
 - **S-2000 / SS-2000**: top di gamma con stadi DSP multipli e prestazioni da "mostro". Ha un costo importante ma lo merita, specialmente per chi fa DX serio in onde medie e corte
@@ -59,7 +60,7 @@ Il **Belka DSP** è un micro-ricevitore russo dalle dimensioni di un accendino, 
 
 ## Cosa scegliere
 
-Per chi inizia: **Tecsun PL-660** o **PL-880**. Coprono MW/LW/SW con ingresso per antenna esterna, costano meno di 150€ e durano anni.
+Per chi inizia: **Tecsun PL-660** o **PL-880**. Coprono MW/LW/SW, costano meno di 150€ e durano anni. La copertura del ricevitore non coincide però con quella dell'ingresso esterno: sul PL-660 il jack serve FM e SW, mentre MW e LW utilizzano la ferrite interna.
 
 Per chi vuole il massimo in portabile: **Tecsun S-2000** o **Eton Elite Satellit 750** usato.
 

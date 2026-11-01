@@ -1,6 +1,7 @@
 ---
 title: "SWL o BCL? Capire le Differenze e Trovare la Propria Identità nel Radioascolto"
 date: 2026-03-12
+lastmod: 2026-11-01
 draft: false
 description: "SWL vs BCL: differenze tra ascoltatore di onde corte e broadcast listener. Comunità, nominativo MIMIT e pratica del radioascolto."
 tags:
@@ -20,11 +21,11 @@ Nel mondo del radioascolto si usano due sigle che spesso si sovrappongono e si c
 
 **SWL** significa letteralmente "ascoltatore di onde corte" (dall'inglese *Short Wave Listener*). In senso stretto, uno SWL ascolta le bande HF — tipicamente 3–30 MHz — con interesse particolare per le comunicazioni radioamatoriali. L'attività principale è ascoltare QSO tra radioamatori, annotarli nel log, e inviare rapporti di ricezione alle stazioni ascoltate per ricevere la QSL di conferma.
 
-Lo SWL ha un numero identificativo — in Italia rilasciato dal MIMIT — che compare nei rapporti di ascolto esattamente come il nominativo di un radioamatore. Non trasmette, ma è riconosciuto formalmente come operatore nell'ecosistema radioamatoriale.
+Uno SWL può richiedere al MIMIT un attestato con sigla identificativa da riportare nei rapporti di ascolto. È **facoltativo**: in Italia il solo ascolto sulle gamme radioamatoriali è libero, ai sensi dell'[articolo 134, comma 4](https://www.mimit.gov.it/images/stories/documenti/allegati/artt_da_134_a_145_del_CdC.pdf). La sigla SWL non è un nominativo di trasmissione e non abilita a trasmettere.
 
 > 💬 *Esperienza GIR: la distinzione tra SWL e BCL è emersa esplicitamente in una discussione di inizio 2026, chiarendo che i due termini indicano attività distinte con pratiche e obiettivi diversi — spesso confusi anche da chi li usa da anni.*
 >
-> 📖 *La definizione formale di SWL nell'ambito ARI prevede l'iscrizione al registro e l'uso di un nominativo/numero identificativo nei rapporti. Il termine è usato anche in senso informale per indicare qualsiasi ascoltatore di onde corte, ma in contesto associativo ha un significato preciso.*
+> 📖 *I requisiti di un'associazione, diploma o contest vanno letti nel relativo regolamento e distinti dagli obblighi di legge. L'assenza di una sigla ministeriale non impedisce di essere un ascoltatore SWL né rende obbligatoria l'iscrizione a un'associazione.*
 
 ## BCL: Broadcasting Listener
 
@@ -41,8 +42,8 @@ Nella pratica molti ascoltatori fanno entrambe le cose, e la distinzione è più
 La distinzione diventa rilevante in contesti specifici:
 
 - **Contest e maratone**: alcune sono riservate agli SWL (bande radioamatoriali, SSB), altre ai BCL (emittenti broadcast, AM)
-- **QSL**: gli SWL inviano rapporti alle stazioni radioamatoriali con il loro numero identificativo; i BCL inviano rapporti alle emittenti
-- **Riconoscimento associativo**: ARI riconosce formalmente gli SWL con numero di registro; l'attività BCL è meno formalizzata
+- **QSL**: gli SWL inviano rapporti alle stazioni radioamatoriali indicando la sigla identificativa, se disponibile; i BCL inviano rapporti alle emittenti
+- **Riconoscimento associativo**: associazioni e diplomi possono prevedere proprie modalità di identificazione; queste non rendono obbligatorio l'attestato ministeriale per il solo ascolto
 
 ## La questione identitaria nella community italiana
 

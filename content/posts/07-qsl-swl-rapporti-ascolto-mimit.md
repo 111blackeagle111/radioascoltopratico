@@ -1,6 +1,7 @@
 ---
 title: "La QSL per gli SWL: Rapporti di Ascolto, eQSL e l'Iter MIMIT"
 date: 2025-12-13
+lastmod: 2026-11-01
 draft: false
 description: "Come ottenere una QSL come ascoltatore SWL: rapporti SINPO, identificazione stazioni, eQSL e nominativo MIMIT italiano."
 tags:
@@ -56,17 +57,17 @@ Alcune stazioni sono particolarmente apprezzate per le loro QSL:
 
 Le stazioni delle bande di emergenza, militari e di servizio (VOLMET, NAVTEX) rispondono con frequenza variabile — alcune con entusiasmo, altre ignorano i rapporti.
 
-## Il nominativo SWL in Italia: il MIMIT
+## Attestato e sigla SWL in Italia: il MIMIT
 
-In Italia, gli SWL che vogliono un nominativo ufficiale devono rivolgersi al **MIMIT** (Ministero delle Imprese e del Made in Italy), ex MISE. Il processo è digitalizzato: si compila il modulo sul portale ministeriale, si paga il contributo (circa 50€ tramite PagoPA) e si attende.
+In Italia il solo ascolto sulle gamme radioamatoriali è libero, come previsto dall'[articolo 134, comma 4, del Codice delle comunicazioni elettroniche](https://www.mimit.gov.it/images/stories/documenti/allegati/artt_da_134_a_145_del_CdC.pdf). L'attestato SWL è **facoltativo** e non abilita a trasmettere. Chi desidera richiederlo può seguire il [manuale del portale ministeriale](https://appradioamatori.invitalia.it/documents/Manuale_utente_Iscrizione_elenco_SWL.pdf); per documenti e importi occorre consultare le istruzioni vigenti della procedura.
 
 L'iter burocratico è notoriamente lento: il portale è digitale nell'invio ma i documenti vengono poi gestiti in modo tradizionale dagli uffici regionali. I tempi possono essere di mesi. Chi ha problemi o non riceve risposta può contattare direttamente l'Ispettorato Radioamatori competente per territorio — spesso si trovano funzionari disponibili che accelerano la pratica.
 
-Il nominativo SWL ha la struttura del prefisso italiano (IK0, IZ0, IU0 ecc.) seguito da un suffisso SWL. Non abilita alla trasmissione ma è un riconoscimento ufficiale dell'attività di ascolto e permette di partecipare ad attività organizzate che richiedono l'identificazione.
+La sigla SWL ministeriale non si costruisce aggiungendo «SWL» a un nominativo radioamatoriale come IK0, IZ0 o IU0. Il [documento dell'Ispettorato Lombardia](https://ispettorati.mise.gov.it/images/ispettorati/lombardia/radioamatori/SWL.pdf) illustra la struttura **I–protocollo–anno–provincia**, con l'esempio **I-00111-22-MI**. Nei rapporti va riportata esattamente la sigla del proprio attestato; in sua assenza ci si identifica con nome e recapito.
 
 ## La maratona SWL
 
-Una tradizione consolidata nella comunità italiana è la **maratona SWL**: un periodo di ascolto intensivo (tipicamente 24 ore) in cui si registrano quante più stazioni possibile. Le regole sono chiare: solo radio fisiche in possesso dell'ascoltatore (no KiwiSDR, no remote), nessun modo digitale (no FT8, no RTTY), solo demodulazione AM, SSB, CW. Il log viene compilato con frequenza, stazione, ora e brevissima nota sul contenuto.
+Una tradizione consolidata nella comunità italiana è la **maratona SWL**: un periodo di ascolto intensivo in cui si registrano quante più stazioni possibile. Le regole dipendono dall'evento. La [bozza del nostro sito, versione 0.1 del 1 novembre 2026]({{< relref "38-regolamento-maratona-swl.md" >}}), prevede 24 ore, categorie A e B per ricevitori locali e categoria C WebSDR fuori classifica; ammette AM in MW, AM e SSB in SW e SSB e CW nelle bande HAM elencate. Per bande, log e punteggi fa riferimento il PDF della bozza.
 
 Non è una gara nel senso competitivo — è, come dice bene chi la organizza, "un allenamento all'ascolto". Un modo per riscoprire la banda sistematicamente invece che per abitudine.
 

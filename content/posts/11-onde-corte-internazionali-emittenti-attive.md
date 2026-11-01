@@ -1,6 +1,7 @@
 ---
 title: "Onde Corte Internazionali: Chi Trasmette Ancora"
 date: 2026-01-17
+lastmod: 2026-11-01
 draft: false
 description: "Emittenti ancora attive in onde corte nel 2025: BBC, RFI, VOA, Radio Cina, NHK. Stazioni e frequenze ricevibili dall'Italia."
 tags:
@@ -31,7 +32,7 @@ Le motivazioni per continuare a trasmettere in HF nel 2025 sono più solide di q
 
 **Radio France Internationale (RFI)**: una delle più presenti in Europa. Trasmette in francese e in molte lingue africane. Frequenze spesso intorno a 11.700–15.300 MHz durante il pomeriggio europeo.
 
-**NHK World Radio Japan**: trasmette in giapponese e in inglese. Dall'Italia si riceve bene su 15.130 kHz e frequenze vicine nelle prime ore della sera UTC.
+**NHK World Radio Japan**: frequenze, lingue e destinazioni cambiano con la stagione. Per il B26, valido dal 25 ottobre 2026 al 28 marzo 2027, consultare lo [schedule ufficiale NHK](https://www3.nhk.or.jp/nhkworld/ja/information/brochure/pdf/radio_frequency_schedule.pdf) e l'[esempio aggiornato nell’articolo sulle emittenti asiatiche]({{< relref "28-asia-onde-corte-cina-nhk-kbs.md" >}}). Un ascolto passato a 15130 kHz nelle prime ore della sera non stabilisce il palinsesto attuale né garantisce la ricezione dall'Italia.
 
 **Radio China International (CRI)**: trasmissioni in italiano disponibili su varie frequenze. Curioso ascoltare le notizie cinesi in italiano — utile anche per confrontare diverse prospettive su stessi eventi.
 

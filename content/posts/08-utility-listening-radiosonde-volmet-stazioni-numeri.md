@@ -1,6 +1,7 @@
 ---
 title: "Utility Listening: Radiosonde, VOLMET, Stazioni Numeri"
 date: 2025-12-20
+lastmod: 2026-11-01
 draft: false
 description: "Utility listening: radiosonde meteorologiche, VOLMET aeronautico, stazioni numeri enigmatiche. I servizi radio nascosti nell'etere."
 tags:
@@ -35,7 +36,7 @@ Altre frequenze VOLMET europee: 5.505 kHz, 8.957 kHz, 11.253 kHz (variano per or
 
 Il **NAVTEX** è un sistema di telex radio automatico che trasmette avvisi ai naviganti: condizioni meteo marine, avvisi di navigazione, informazioni SAR (Search and Rescue). Opera principalmente su 518 kHz (in inglese) e 490 kHz (in lingue nazionali).
 
-Per decodificarlo bastano un ricevitore (anche RTL-SDR in direct sampling) e software come **MultiPSK** o **fldigi**. I messaggi appaiono in testo chiaro. È un ottimo esempio di utility facile da iniziare.
+Per decodificarlo servono un ricevitore che copra la frequenza scelta, un'uscita audio adatta e software come **MultiPSK** o **fldigi**. Un RTL-SDR Blog V3 può usare il direct sampling a 518 kHz; il V4 usa l'upconverter interno con driver compatibili. Entrambi dichiarano un limite inferiore di 500 kHz: i 490 kHz sono sotto specifica e richiedono un ricevitore con copertura adeguata o una conversione esterna appropriata. Si vedano le [specifiche V4](https://www.rtl-sdr.com/wp-content/uploads/2024/12/RTLSDR_V4_Datasheet_V_1_0.pdf) e la [guida agli SDR]({{< relref "05-sdr-radioascolto-rtlsdr-malachite-kiwi.md" >}}).
 
 ## UVB-76: "La Zumbadora"
 
@@ -49,10 +50,10 @@ Nel febbraio 2026, la stazione ha mostrato un'insolita impennata di attività, g
 
 Le **stazioni numeri** (number stations) trasmettono sequenze di numeri o lettere letti da voci umane (o sintetizzate), senza identificazione. Sono un fenomeno documentato dalla Prima Guerra Mondiale, probabilmente usate per comunicare con agenti sul campo tramite cifrari one-time-pad: il ricevente ha un libro codice e può decifrare il messaggio; senza il libro, il messaggio è indecifrabile.
 
-Alcune stazioni attive o recenti:
+Esempi storici e segnalazioni di ascolto, da distinguere dagli schedule delle stazioni attive:
 
-- **E10**: stazione in CW (codice Morse), presumibilmente tedesca o legata ai servizi di sicurezza tedeschi
-- **S06s**: voce femminile in spagnolo, lettere e numeri in fonetico NATO
+- **E10**: secondo l'archivio di monitoraggio [Priyom](https://priyom.org/number-stations/english/e10), trasmetteva in **voce inglese**, era attribuita a Israele e risulta inattiva, con ultime trasmissioni riportate nel marzo 2011. È un esempio storico, non una stazione da cercare in CW oggi
+- **S06s**: voce femminile in **russo**, attribuita dai monitor di [Priyom all'operatore ucraino S06s/E17z](https://priyom.org/number-stations/operators/ukrainian-sz). Alla verifica del 1 novembre 2026 è [catalogata come inattiva](https://priyom.org/number-stations/slavic). S06 è una stazione distinta. Le attribuzioni degli operatori sono ricostruzioni dei monitor, non identificazioni ufficiali dei servizi coinvolti
 - **10123 kHz**: stazione in CW con caratteri cirillici rilevata nel 2026 da ascoltatori italiani
 
 Il database **ENIGMA 2000** cataloga le stazioni numeri conosciute con frequenze, schedule e classificazioni.

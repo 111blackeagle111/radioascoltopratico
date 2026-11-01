@@ -1,6 +1,7 @@
 ---
-title: "Onde Lunghe (LW): Polonia, Algeria e le Frequenze sotto i 530 kHz"
+title: "Onde Lunghe (LW): Polonia, Algeria e Servizi tra LF e MF"
 date: 2026-01-24
+lastmod: 2026-11-01
 draft: false
 description: "Onde lunghe (LW): Radio Polonia 225 kHz, Algeria 252 kHz e stazioni LW europee. Propagazione stabile giorno e notte."
 tags:
@@ -14,7 +15,7 @@ tags:
 
 ---
 
-Le onde lunghe (LW, Long Wave) occupano la banda compresa tra 30 e 530 kHz. Sono le frequenze più basse dello spettro radiofonico, quelle con lunghezze d'onda di centinaia di metri. Quasi ignorate dalla maggior parte degli ascoltatori moderni, nascondono invece alcune delle ricezioni più spettacolari che si possano fare in Europa.
+Le onde lunghe corrispondono alla banda **LF da 30 a 300 kHz**, con lunghezze d'onda da circa 10 a 1 km, secondo la [nomenclatura ITU](https://www.itu.int/rec/dologin_pub.asp?id=T-REC-B.15-198811-S%21%21PDF-E&lang=e&type=items). La porzione di radiodiffusione LW nella Regione 1 è **148,5–283,5 kHz**, come riportato nella [specifica ETSI DRM](https://www.etsi.org/deliver/etsi_es/201900_201999/201980/02.02.01_60/es_201980v020201p.pdf). L'eventuale indicazione «LW» fino a circa 530 kHz sul ricevitore è una suddivisione del suo comando di sintonia, non il limite della banda LF.
 
 ## Perché le onde lunghe sono speciali
 
@@ -40,16 +41,16 @@ Il rovescio della medaglia è che costruire trasmettitori LW efficaci richiede a
 
 Quasi tutti i ricevitori portatili di fascia media coprono le LW — verificare che la banda parta almeno da 150 kHz. Il Tecsun PL-660, PL-880 e la maggior parte dei Sangean coprono fino a 100–150 kHz. L'antenna interna a ferrite funziona sorprendentemente bene sulle LW grazie alle grandi lunghezze d'onda — anche un loop piccolo "vede" una frazione significativa dell'onda.
 
-Per chi usa SDR, la ricezione LW richiede la modalità **direct sampling** (RTL-SDR v3/v4) oppure un upconverter. Gli SDR dedicati all'HF come SDRplay e Elad coprono nativamente fino a poche decine di kHz.
+Per ascoltare le LW con un SDR bisogna verificare il limite inferiore del modello. Il **RTL-SDR Blog V3** usa il direct sampling nelle frequenze basse, mentre il **V4** usa un upconverter interno e driver specifici. Entrambi dichiarano un limite inferiore di **500 kHz**, quindi non garantiscono la banda LW: servono un ricevitore che la copra o un upconverter esterno adatto. Riferimenti: [scheda V3](https://www.rtl-sdr.com/wp-content/uploads/2018/02/RTL-SDR-Blog-V3-Datasheet.pdf) e [scheda V4](https://www.rtl-sdr.com/wp-content/uploads/2024/12/RTLSDR_V4_Datasheet_V_1_0.pdf).
 
 ## Cosa si trova sotto i 530 kHz
 
-Oltre alle stazioni radiofoniche, la banda LW ospita traffico interessante per l'utility listener:
+Sotto i 530 kHz si incontrano servizi in bande diverse: LF (30–300 kHz), una parte delle MF (da 300 kHz) e, più in basso, VLF (3–30 kHz). Non sono tutti servizi LW:
 
-- **NAVTEX** (518 kHz, 490 kHz): bollettini marittimi in SITOR-B, decodificabili con fldigi
-- **NDB** (Non-Directional Beacon): fari radiofonici per la navigazione aerea, tra 190 e 530 kHz, identificabili dal loro segnale in CW con il codice ICAO dell'aeroporto
+- **NAVTEX** (518 kHz, 490 kHz): servizi in **MF**, con bollettini marittimi in SITOR-B decodificabili con fldigi
+- **NDB** (Non-Directional Beacon): radiofari di navigazione presenti tra LF e MF, spesso cercati tra 190 e 530 kHz, identificabili mediante il proprio indicativo in Morse
 - **Stazioni di tempo e frequenza**: DCF77 (77,5 kHz, Germania), MSF (60 kHz, UK), TDF (162 kHz, Francia) — segnali di riferimento per orologi radiocontrollati, ricevibili chiaramente in tutta Italia
-- **VLF militari**: sotto i 30 kHz trasmettono stazioni navali militari (NATO) con potenze enormi, ricevibili anche sotterranea
+- **VLF**: banda **3–30 kHz**, distinta dalle LF; ospita anche trasmissioni navali militari
 
 ## Un esperimento semplice
 

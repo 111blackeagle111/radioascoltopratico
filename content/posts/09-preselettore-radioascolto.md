@@ -1,6 +1,7 @@
 ---
 title: "Il Preselettore: il Componente che Tutti Dovrebbero Avere"
 date: 2026-01-10
+lastmod: 2026-11-01
 draft: false
 description: "Il preselettore per radioascolto: filtro passa-banda che migliora la ricezione eliminando segnali forti e RFI locale."
 tags:
@@ -35,10 +36,11 @@ Il risultato pratico varia molto a seconda del contesto: in un ambiente radio-pu
 
 **Preselettori per MW**: dedicati alla banda 500–1700 kHz, tipicamente con un nucleo toroidale e un condensatore variabile. La costruzione fai-da-te è relativamente semplice e molto documentata online.
 
-## Costruire un preselettore per onde medie
+## Dimensionare un preselettore per onde medie
 
-Un preselettore passivo per MW si costruisce con:
-- Un nucleo toroidale (tipo T68-2 o T50-2, materiale rosso per HF — vedi nota sui materiali nell'articolo sulle loop)
+Per progettare un preselettore passivo per MW servono uno schema di accoppiamento e componenti dimensionati sulla banda desiderata:
+
+- Una bobina con induttanza e Q adeguati: nucleo, geometria e avvolgimento vanno scelti insieme, non solo in base al colore del materiale
 - Un condensatore variabile (vedi nota sotto)
 - Un contenitore metallico per lo schermo (necessario: senza schermatura cattura segnali per conto proprio)
 - Due connettori: ingresso dall'antenna, uscita verso il ricevitore
@@ -47,9 +49,9 @@ Un preselettore passivo per MW si costruisce con:
 >
 > 📖 *La teoria standard prevede il condensatore a doppia sezione solo per configurazioni a doppio accordo (più selettive) o per isolare galvanicamente ingresso e uscita. Per un preselettore di base, una sezione singola è sufficiente.*
 >
-> 🔧 *Nota sul numero di spire: circa 60–80 spire su T68-2 con un variabile da 10–365 pF coprono indicativamente tutta la banda MW, ma il valore esatto dipende dalla capacità parassite del circuito e dal condensatore specifico usato. La calibrazione finale è sempre empirica — un antenna analyzer o anche solo un ricevitore sintonizzato sulla frequenza di test è sufficiente per ottimizzare.*
+> 🔧 *Verifica del dimensionamento: il [T68-2 Micrometals](https://datasheets.micrometals.com/T68-2-DataSheet.pdf) ha AL nominale di **5,7 nH/spira²**. Con L = AL × N², 60–80 spire danno circa **20,5–36,5 µH**. Dalla relazione f = 1/(2π√LC), a 365 pF la risonanza minima è circa **1,84–1,38 MHz**: questa combinazione non copre tutta la MW. Per 531 kHz con 365 pF servono idealmente circa **246 µH**, prima di capacità parassite e carico. Aumentare semplicemente le spire non garantisce Q, fattibilità o copertura: occorrono schema completo e misure di risonanza, banda passante e perdita d'inserzione.*
 
-Il risultato è un filtro che si sintonizza ruotando il condensatore variabile in parallelo con il ricevitore, migliorando spesso la ricezione in modo immediatamente percepibile — specialmente nelle ore notturne quando la banda è affollata.
+Questi calcoli sono un criterio di progetto, non un circuito collaudato da replicare. Una volta verificato il filtro realizzato, il suo accordo si regola insieme alla sintonia del ricevitore per selezionare la zona di banda desiderata.
 
 ## Il preselettore come strumento didattico
 
