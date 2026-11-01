@@ -1,7 +1,7 @@
 ---
 title: "Onde Corte Internazionali: Chi Trasmette Ancora"
 date: 2026-01-17
-lastmod: 2026-11-01
+lastmod: 2026-11-02
 draft: false
 description: "Emittenti ancora attive in onde corte nel 2025: BBC, RFI, VOA, Radio Cina, NHK. Stazioni e frequenze ricevibili dall'Italia."
 tags:
@@ -30,7 +30,7 @@ Le motivazioni per continuare a trasmettere in HF nel 2025 sono più solide di q
 
 **Radio Free Asia / Voice of America (VOA)**: trasmettono in decine di lingue asiatiche, dirette verso Cina, Corea del Nord, Vietnam, ecc. Potenze elevate, segnali spesso eccellenti dall'Italia specialmente nelle bande dei 15–17 MHz.
 
-**Radio France Internationale (RFI)**: una delle più presenti in Europa. Trasmette in francese e in molte lingue africane. Frequenze spesso intorno a 11.700–15.300 MHz durante il pomeriggio europeo.
+**Radio France Internationale (RFI)**: una delle più presenti in Europa. Trasmette in francese e in molte lingue africane. Frequenze spesso intorno a 11700–15300 kHz durante il pomeriggio europeo.
 
 **NHK World Radio Japan**: frequenze, lingue e destinazioni cambiano con la stagione. Per il B26, valido dal 25 ottobre 2026 al 28 marzo 2027, consultare lo [schedule ufficiale NHK](https://www3.nhk.or.jp/nhkworld/ja/information/brochure/pdf/radio_frequency_schedule.pdf) e l'[esempio aggiornato nell’articolo sulle emittenti asiatiche]({{< relref "28-asia-onde-corte-cina-nhk-kbs.md" >}}). Un ascolto passato a 15130 kHz nelle prime ore della sera non stabilisce il palinsesto attuale né garantisce la ricezione dall'Italia.
 

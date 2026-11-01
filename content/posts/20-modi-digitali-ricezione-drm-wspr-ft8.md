@@ -1,7 +1,7 @@
 ---
 title: "Modi Digitali in Ricezione: DRM, WSPR, FT8 e gli Altri"
 date: 2026-03-07
-lastmod: 2026-11-01
+lastmod: 2026-11-02
 draft: false
 description: "Modi digitali HF per ascoltatori: DRM broadcast digitale, WSPR propagazione, FT8. Come decodificare e ricevere senza trasmettere."
 tags:
@@ -42,13 +42,13 @@ Software: **WSJT-X** (multipiattaforma, gratuito). Hardware: qualsiasi SDR o ric
 
 **FT8** è un altro modo della famiglia WSJT-X, ancora più popolare di WSPR. È progettato per fare QSO completi (scambio nominativo, rapporto, conferma) in meno di 2 minuti, con segnali molto deboli. Ha letteralmente rivoluzionato l'attività radioamatoriale: stazioni con antenne e potenze modeste possono collegare tutto il mondo.
 
-Per un SWL, FT8 è interessante da ricevere: le bande radioamatoriali durante i periodi di attività FT8 (praticamente sempre, specialmente 14.074 MHz per i 20 metri) mostrano un pattern caratteristico sul waterfall SDR — colonne verticali che appaiono sincronizzate ogni 15 secondi. WSJT-X in modalità ricezione decodifica e mostra tutti i segnali ricevuti con nominativo, locator e rapporto.
+Per un SWL, FT8 è interessante da ricevere: le bande radioamatoriali durante i periodi di attività FT8 (praticamente sempre, specialmente 14074 kHz per i 20 metri) mostrano un pattern caratteristico sul waterfall SDR — colonne verticali che appaiono sincronizzate ogni 15 secondi. WSJT-X in modalità ricezione decodifica e mostra tutti i segnali ricevuti con nominativo, locator e rapporto.
 
 ## RTTY: il telex della radio
 
 **RTTY** (Radio Teletype) è radiotelegrafia a stampa: normalmente due frequenze FSK rappresentano gli stati mark e space. Il codice non è necessariamente ASCII. Nel comune RTTY radioamatoriale si usa **ITA2 a 5 bit**, spesso chiamato Baudot, tipicamente a **45,45 baud** con **shift 170 Hz**. Nel [manuale fldigi](https://www.w1hkj.org/FldigiHelp/rtty_fsk_configuration_page.html), una configurazione di esempio è 5 bit, nessuna parità e 1,5 bit di stop. Velocità, shift e codice vanno adattati al segnale ricevuto: altri servizi possono usare parametri diversi.
 
-La US Navy trasmette ancora bollettini in RTTY su frequenze HF standard. Su 12.015 kHz, NSS (stazione navale USA) trasmette RTTY in vari orari — identificabile facilmente con fldigi.
+La US Navy trasmette ancora bollettini in RTTY su frequenze HF standard. Su 12015 kHz, NSS (stazione navale USA) trasmette RTTY in vari orari — identificabile facilmente con fldigi.
 
 ## NAVTEX e bollettini marittimi
 

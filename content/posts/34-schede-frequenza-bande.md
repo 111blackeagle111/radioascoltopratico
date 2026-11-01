@@ -1,7 +1,7 @@
 ---
 title: "Schede Frequenza per Banda: Cosa si Trova, Orari e Stazioni Tipiche"
 date: 2026-03-12
-lastmod: 2026-11-01
+lastmod: 2026-11-02
 draft: false
 description: "Guida alle bande radio: LW, MW, HF. Cosa ascoltare per banda, orari migliori, stazioni di riferimento e propagazione caratteristica."
 tags:
@@ -38,6 +38,8 @@ Una scheda rapida per banda, con limiti riferiti alla Regione ITU 1 quando indic
 
 > 💬 *Esperienza GIR: Radio Polonia 225 kHz e Algeria 252 kHz confermate a fondo scala da più location in Umbria — le due stazioni LW più affidabili dall'Italia centrale.*
 
+Le ricezioni citate descrivono le postazioni e le condizioni del gruppo: il livello del segnale può cambiare con luogo, antenna, rumore e orario.
+
 ### Servizi in MF sotto la banda broadcast MW
 
 NAVTEX a **490 e 518 kHz** è in **MF**, non in LW. I bollettini vengono trasmessi secondo gli orari assegnati alle stazioni, non come programma continuo. Anche la ricerca dei radiofari NDB tra 190 e 530 kHz attraversa il confine tra LF e MF a 300 kHz.
@@ -50,7 +52,7 @@ I centri dei canali sono **531–1602 kHz**, con passo **9 kHz**. La ricerca olt
 
 **Propagazione**: di giorno prevale spesso l'onda di superficie; di notte il minore assorbimento ionosferico favorisce il DX per onda di cielo. La [ITU-R P.1147-4](https://www.itu.int/dms_pubrec/itu-r/rec/p/R-REC-P.1147-4-200708-I%21%21PDF-E.pdf) considera predominante la regione **E** per le MW, con possibili contributi della F in condizioni particolari.
 
-**Quando**: tramonto–alba. Finestra ottimale 22:00–05:00 UTC in inverno.
+**Quando**: provare dal tramonto all’alba; 22:00–05:00 UTC in inverno è una finestra orientativa, da adattare al percorso e agli orari della stazione.
 
 **Cosa si trova**: emittenti nazionali europee, stazioni nordafricane e mediorientali, stazioni russe con potenze enormi, emittenti pirata intorno ai 1600–1700 kHz.
 
@@ -175,9 +177,9 @@ Intervalli pratici per cercare QSO in SSB, scelti entro i segmenti compatibili d
 
 | Banda | Frequenza | USB/LSB | Condizioni |
 |-------|-----------|---------|------------|
-| 40m | 7060–7200 kHz | LSB | Sera/notte, ottima per Europa |
-| 20m | 14125–14350 kHz | USB | Pomeriggio, ottima propagazione intercontinentale |
-| 15m | 21151–21450 kHz | USB | Giorno, dipende dall'attività solare |
-| 10m | 28320–29100 kHz | USB | Aperture sporadiche, eccezionale nel massimo solare |
+| 40 m | 7060–7200 kHz | LSB | Sera/notte, ottima per Europa |
+| 20 m | 14125–14350 kHz | USB | Pomeriggio, ottima propagazione intercontinentale |
+| 15 m | 21151–21450 kHz | USB | Giorno, dipende dall'attività solare |
+| 10 m | 28320–29100 kHz | USB | Aperture sporadiche, eccezionale nel massimo solare |
 
-> 🔧 *Nota pratica: per la Maratona SWL le bande di riferimento sono 40m e 20m — le più affollate e produttive in qualsiasi condizione. Il 15m e 10m dipendono troppo dall'attività solare per essere affidabili in qualsiasi stagione.*
+> 🔧 *Nota pratica: per la Maratona SWL le bande di riferimento sono 40 m e 20 m — spesso utili per trovare attività. Anche qui gli ascolti dipendono da orario e percorso; i 15 m e i 10 m possono offrire buone aperture quando le condizioni ionosferiche lo consentono.*
