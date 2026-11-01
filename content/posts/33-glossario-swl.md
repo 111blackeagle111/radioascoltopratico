@@ -1,6 +1,7 @@
 ---
 title: "Glossario SWL: da SINPO a QSB, da Strato F a Noise Floor"
 date: 2026-03-12
+lastmod: 2026-11-01
 draft: false
 description: "Glossario radioascolto: SINPO, QSL, QSB, noise floor, propagazione, fading. Termini tecnici e codici Q spiegati per principianti."
 tags:
@@ -232,7 +233,7 @@ Il radioascolto ha un linguaggio proprio — codici Q, sigle tecniche, termini i
 
 **USB** — Upper Side Band. Banda laterale superiore — il modo SSB usato nelle bande sopra i 10 MHz (20m, 15m, 10m) e in tutta la HF aeronautica e marittima.
 
-**UTC** — Coordinated Universal Time. Il tempo universale coordinato — il riferimento per tutti i log e gli schedule radio. In Italia: UTC = ora solare (inverno); UTC = ora legale − 2h (estate).
+**UTC** — Coordinated Universal Time. Il tempo universale coordinato — il riferimento per tutti i log e gli schedule radio. In Italia: in inverno (ora solare CET), **UTC = ora italiana − 1h**; in estate (ora legale CEST), **UTC = ora italiana − 2h**.
 
 **Utility** — Trasmissioni HF non broadcast: comunicazioni marittime, aeronautiche, militari, meteorologiche, stazioni numeri. Un territorio vasto e affascinante per chi va oltre le emittenti.
 

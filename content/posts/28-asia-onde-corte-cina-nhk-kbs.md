@@ -1,6 +1,7 @@
 ---
 title: "Asia in Onde Corte: Radio Cina, NHK, KBS e le Voci dell'Estremo Oriente"
 date: 2026-03-12
+lastmod: 2026-11-01
 draft: false
 description: "Stazioni asiatiche in onde corte: Radio Cina CRI, NHK Giappone, KBS Corea, Radio India. Frequenze e orari ricevibili dall'Italia."
 tags:
@@ -22,24 +23,27 @@ L'Asia è il continente più attivo sulle onde corte internazionali. Mentre le e
 
 **Radio China International** è probabilmente l'emittente più ricevibile in Europa. Trasmette con potenze enormi su decine di frequenze simultane, in decine di lingue, praticamente h24. La copertura è talmente pervasiva che è diventata quasi un punto di riferimento negativo tra gli ascoltatori esperti: "quella frequenza è Radio Cina" è spesso detto con una punta di ironia, perché CRI tende a occupare le migliori finestre di propagazione con i suoi segnali forti.
 
-**Frequenze indicative per l'Europa** (verificare EIBI per schedule aggiornati):
-- 6020 kHz: sera europea, spesso forte fino alle 20:00 UTC
-- 17490, 17570 kHz: pomeriggio, bande alte
-- 9600, 9765 kHz: sera
+**Un esempio per l'ascolto serale: 6020 kHz.** Il [piano HFCC di CRI per la stagione B26](https://new.hfcc.org/data/schedbybrc.php?seas=B26&broadc=CRI), con validità dal 25 ottobre 2026 al 28 marzo 2027, riporta queste trasmissioni da Shijiazhuang:
 
-> 💬 *Esperienza GIR: CRI definita ironicamente come "Radio Maria" dell'HF per la sua presenza ubiqua — "la senti a radio spenta". Su 6020 kHz fino alle 20:00 UTC, poi cedeva il posto a KBS Corea e alla RDKC (Radio della Corea del Nord).*
+- 19:00–20:00 UTC: albanese, verso l'Europa sudorientale.
+- 20:00–21:00 UTC: polacco, verso l'Europa centrosettentrionale.
+- 21:00–23:00 UTC: spagnolo, verso l'Africa nordoccidentale.
+
+**Prima dell'ascolto:** frequenze e orari possono cambiare con la stagione. Verificare il palinsesto dell'emittente e confrontarlo con [HFCC](https://new.hfcc.org/) o [EiBi](https://www.eibispace.de/), controllando lingua, destinazione e periodo di validità. Una trasmissione destinata a un'altra area può essere ricevibile anche in Italia, ma la ricezione non è garantita. Questi elenchi descrivono trasmissioni programmate, non un monitoraggio del segnale in tempo reale.
+
+> 💬 *Esperienza GIR: CRI definita ironicamente come "Radio Maria" dell'HF per la sua presenza ubiqua — "la senti a radio spenta".*
 
 ## NHK World Radio: il Giappone nell'etere
 
-**NHK World Radio** trasmette in giapponese e in inglese (NHK World Radio Japan) su frequenze HF con segnali generalmente buoni per l'Europa nelle ore pomeridiane e serali.
+**NHK WORLD-JAPAN** trasmette programmi in giapponese e in altre lingue sulle onde corte. Per tentare l'ascolto dall'Italia occorre distinguere la destinazione dichiarata del servizio dalla possibilità di ricevere segnali diretti altrove: frequenza, orario, lingua e condizioni di propagazione vanno considerati insieme.
 
-**Banda 19 metri (15100–15800 kHz)** è il territorio privilegiato di NHK per l'Europa: la finestra tipica è 19–21 UTC con frequenze intorno a 15130–15590 kHz. Il segnale è solitamente pulito e stabile — NHK è nota per la qualità tecnica delle trasmissioni.
+Nel [palinsesto ufficiale NHK per la stagione B26](https://www3.nhk.or.jp/nhkworld/ja/information/brochure/pdf/radio_frequency_schedule.pdf), valido dal 25 ottobre 2026 al 28 marzo 2027, il servizio in inglese su onde corte è indicato su **11920 kHz**, da Yamata verso l'Asia sudorientale: **14:00–14:29 UTC dal lunedì al venerdì e 14:00–14:11 UTC il sabato e la domenica**. È una trasmissione destinata all'Asia sudorientale; la sua presenza in palinsesto non garantisce la ricezione in Italia.
 
-> 💬 *Esperienza GIR: NHK Giappone ricevuta su 15130 kHz alla UTC 20–21 con buon segnale dalla banda 19m. Le trasmissioni in giapponese hanno un carattere sonoro distintivo — il parlato giapponese è immediatamente riconoscibile anche senza capire la lingua.*
+Il documento NHK viene aggiornato al cambio di stagione: controllarne sempre l'intestazione e le date di validità. Per i programmi in giapponese o in altre lingue, consultare le rispettive righe del palinsesto invece di estendere a tutti i servizi una singola frequenza o fascia oraria.
 
 ## KBS World Radio: la Corea del Sud
 
-**KBS World Radio** (Korean Broadcasting System) trasmette in italiano tra le poche emittenti asiatiche a mantenere un servizio in lingua italiana. Vale la pena ascoltarla e inviare un rapporto — risponde con QSL.
+**KBS World Radio** (Korean Broadcasting System) trasmette programmi internazionali in diverse lingue. Il servizio in italiano è terminato il **31 ottobre 1994**, come riporta la [cronologia ufficiale KBS](https://world.kbs.co.kr/service/about_kbsworld.htm?lang=e). Per l'ascolto attuale occorre scegliere una delle lingue disponibili e verificarne frequenze e orari sul sito dell'emittente.
 
 Il GIR ha avuto contatti diretti con KBS nel passato. Trasmissioni su frequenze variabili in HF — consultare il sito KBS World per lo schedule aggiornato.
 
@@ -47,9 +51,7 @@ Il GIR ha avuto contatti diretti con KBS nel passato. Trasmissioni su frequenze 
 
 La **Radio della Repubblica Democratica di Corea** — la radio di stato nordcoreana — trasmette in varie lingue su frequenze HF. Riceverla dall'Italia è un'esperienza particolare: si ascolta la propaganda di uno dei paesi più chiusi del mondo, direttamente dall'etere, senza filtri.
 
-Trasmissioni tipiche intorno ai 6–7 MHz la sera. L'identificazione è facile: musica di fanfara militare, voci declamatorie, contenuti di esaltazione del regime.
-
-> 💬 *Esperienza GIR: RDKC segnalata come ricevibile su 6020 kHz dopo le 20:00 UTC, quando CRI lascia quella frequenza. La sovrapposizione/successione tra CRI e RDKC sulla stessa frequenza è un dettaglio caratteristico di quella finestra di ascolto serale.*
+Per identificarla, confrontare frequenza, orario e lingua con il palinsesto aggiornato e attendere l'annuncio dell'emittente. Lo stile dei programmi o il cambio di lingua su una frequenza non bastano a stabilire l'identità della stazione. In particolare, non va data per scontata una successione tra CRI, KBS e la radio nordcoreana sui 6020 kHz.
 
 ## All India Radio: un gigante spesso ignorato
 
