@@ -1,5 +1,5 @@
 baseURL = "https://www.radioascoltopratico.org/"
-languageCode = "it-IT"
+locale = "it-IT"
 title = "Radioascolto Pratico"
 theme = "ananke"
 
