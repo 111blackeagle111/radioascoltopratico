@@ -49,12 +49,12 @@ Sotto i 530 kHz si incontrano servizi in bande diverse: LF (30–300 kHz), una p
 
 - **NAVTEX** (518 kHz, 490 kHz): servizi in **MF**, con bollettini marittimi in SITOR-B decodificabili con fldigi
 - **NDB** (Non-Directional Beacon): radiofari di navigazione presenti tra LF e MF, spesso cercati tra 190 e 530 kHz, identificabili mediante il proprio indicativo in Morse
-- **Stazioni di tempo e frequenza**: DCF77 (77,5 kHz, Germania), MSF (60 kHz, UK), TDF (162 kHz, Francia) — segnali di riferimento per orologi radiocontrollati, ricevibili chiaramente in tutta Italia
+- **Stazioni di tempo e frequenza**: DCF77 (77,5 kHz, Germania), MSF (60 kHz, UK), TDF (162 kHz, Francia) — segnali di riferimento per orologi radiocontrollati; la ricezione dipende da località, antenna e rumore
 - **VLF**: banda **3–30 kHz**, distinta dalle LF; ospita anche trasmissioni navali militari
 
 ## Un esperimento semplice
 
-Sintonizzare 225 kHz con qualsiasi ricevitore che copra le LW e aspettare. Radio Polonia arriva quasi sempre — di giorno, di notte, con qualsiasi antenna. È probabilmente la stazione più facilmente ricevibile in assoluto da tutta l'Europa centrale e mediterranea. Un ottimo punto di partenza per chi non ha mai esplorato questa banda.
+Con un ricevitore che copra 225 kHz in AM e un'antenna adatta alle LW, si può tentare l'ascolto di Radio Polonia. Le esperienze del GIR ne fanno un punto di partenza per chi si trova nelle zone descritte. Provare in orari diversi, orientare l'eventuale ferrite e annotare segnale e rumore permette di confrontare i risultati della propria postazione. La ricezione non è garantita: un mancato ascolto non dimostra da solo che il ricevitore sia difettoso o non copra la banda.
 
 > 💬 *Esperienza GIR: confermato da più membri da location diverse in Italia centrale — Radio Polonia su 225 kHz ricevibile h24 anche con antenna ferrite interna di un portatile di fascia media.*
 >
