@@ -1,6 +1,7 @@
 ---
 title: "Antenne Esterne per l'HF: Dipoli, End-Fed e il Mistero dell'Impedenza"
 date: 2025-11-08
+lastmod: 2026-11-01
 draft: false
 description: "Antenne HF esterne: dipoli, end-fed e adattamento di impedenza con balun. La guida tecnica per costruire antenne riceventi performanti."
 tags:
@@ -33,7 +34,7 @@ Un errore comune è pensare che senza balun l'antenna "non funzioni". In realtà
 
 ## Il dipolo in canna da pesca
 
-Una soluzione pratica molto diffusa è il dipolo realizzato usando una canna da pesca in fibra di vetro come supporto. La lunghezza del dipolo dipende dalla frequenza: per i 14 MHz (banda dei 20 metri) si parla di circa 10 metri per braccio, per i 7 MHz circa 20 metri. Una canna da 10 metri supporta agevolmente il braccio verticale, con il secondo braccio che scende obliquamente — configurazione detta "inverted-V".
+Una soluzione pratica è il dipolo sostenuto al centro da una canna da pesca in fibra di vetro. Per un dipolo a mezz'onda, la lunghezza totale iniziale è circa **143/f(MHz) metri**: a 14 MHz circa **10,2 m totali, 5,1 m per braccio**; a 7 MHz circa **20,4 m totali, 10,2 m per braccio**. Sono valori da rifinire in funzione di filo, altezza e ambiente, come spiega la [guida ARRL ai dipoli](https://www.arrl.org/single-band-dipoles). Nella configurazione a **V invertita**, entrambi i bracci scendono obliquamente dal vertice centrale: la canna sostiene il punto di alimentazione, non un braccio verticale.
 
 Per il radioascolto puro, dove non si trasmette, le specifiche di adattamento sono meno critiche che in trasmissione: un ROS di 3:1 non danneggia nulla e la perdita di segnale è minima. Questo dà una certa libertà costruttiva.
 

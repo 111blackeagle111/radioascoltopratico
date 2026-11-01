@@ -1,6 +1,7 @@
 ---
 title: "Capire la Propagazione HF: Ionosfera, Skip e Aurora"
 date: 2025-12-06
+lastmod: 2026-11-01
 draft: false
 description: "Propagazione HF spiegata: strati ionosferici, skip, zone cieche e aurore. Quando e perché le onde corte funzionano o mancano."
 tags:
@@ -23,15 +24,15 @@ In soldoni: la ionosfera funziona come uno specchio curvo che rimanda le onde ra
 
 ## Lo strato D: il censore diurno
 
-Lo **strato D** (60–90 km) è il più basso. Di giorno, ionizzato dal sole, assorbe le onde medie e le basse frequenze HF prima che raggiungano gli strati superiori. Ecco perché di giorno le onde medie non fanno DX: il segnale viene letteralmente mangiato dallo strato D prima di potersi riflettere.
+Lo **strato D** (circa 60–90 km) contribuisce all'assorbimento delle onde medie e delle frequenze HF più basse durante il giorno. Questo limita soprattutto la propagazione ionosferica delle MW; la ricezione per onda di superficie rimane possibile e la sua portata dipende anche da frequenza e conducibilità del terreno.
 
-Di notte, senza irraggiamento solare, lo strato D scompare rapidamente. Le onde medie possono allora propagarsi a grande distanza grazie alla riflessione ionosferica notturna.
+Di notte l'ionizzazione e l'assorbimento nella regione D diminuiscono sensibilmente, favorendo la propagazione ionosferica delle onde medie a grande distanza.
 
 > 💬 *Dalla nostra esperienza pratica: nelle ore notturne si ricevono stazioni a distanze impossibili durante il giorno — l'effetto è immediato e percepibile anche con ricevitori modesti.*
 >
-> 📖 *La teoria standard precisa che di notte la riflessione delle onde medie avviene principalmente sullo **strato F** (200–400 km di quota), non sullo strato E che di notte è molto debole o assente. Lo strato E è invece responsabile della propagazione "sporadica" (Es) che interessa principalmente le VHF e le basse frequenze HF, non le MW.*
+> 📖 *Per la propagazione tra 150 e 1700 kHz, la [raccomandazione ITU-R P.1147-4](https://www.itu.int/dms_pubrec/itu-r/rec/p/R-REC-P.1147-4-200708-I%21%21PDF-E.pdf) considera predominante la riflessione nella **regione E**. La regione F può contribuire in condizioni particolari, soprattutto verso l'estremo superiore della banda e su alcuni percorsi. Non va confusa la normale propagazione MW attraverso la regione E con lo sporadico E delle bande più alte.*
 >
-> 🔧 *Nota: la distinzione è rilevante per capire perché le condizioni MW notturne variano — lo strato F è influenzato dall'attività solare e geomagnetica, il che spiega perché certe notti la banda è eccezionale e altre deludente.*
+> 🔧 *Nota: assorbimento, geometria del percorso e contributi ionosferici diversi fanno variare le condizioni MW da una notte all'altra. La sola velocità del fading non identifica lo strato coinvolto.*
 
 ## Skip: la zona cieca
 

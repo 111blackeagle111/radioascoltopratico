@@ -1,6 +1,7 @@
 ---
 title: "Radio Pirata e Clandestine: le Stazioni che Non Dovrebbero Esserci"
 date: 2026-01-31
+lastmod: 2026-11-01
 draft: false
 description: "Radio pirata su onde medie e corte: emittenti non autorizzate, trasmissioni clandestine, guerre dell'etere e propaganda radiofonica."
 tags:
@@ -69,4 +70,4 @@ Le radio pirata non hanno schedule pubblicati ufficialmente, ma la community le 
 
 ## Nota legale
 
-Ascoltare è legale ovunque. Trasmettere senza licenza non lo è. Questo articolo riguarda esclusivamente l'ascolto.
+La legalità dell'ascolto dipende dal paese e dal servizio ricevuto: non è corretto affermare che qualsiasi ricezione sia legale ovunque. In Italia il [solo ascolto sulle gamme radioamatoriali è libero](https://www.mimit.gov.it/images/stories/documenti/allegati/artt_da_134_a_145_del_CdC.pdf); questa disposizione non è un'autorizzazione generale a intercettare comunicazioni riservate. Per esempio, [Ofcom distingue nel Regno Unito la ricezione destinata al pubblico dall'intercettazione non autorizzata](https://www.ofcom.org.uk/spectrum/radio-equipment/radio-spectrum-and-the-law?language=en). Per ascolti all'estero e servizi diversi dalla radiodiffusione occorre verificare le norme locali. Questo articolo riguarda l'ascolto e non autorizza la trasmissione.

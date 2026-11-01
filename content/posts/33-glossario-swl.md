@@ -77,7 +77,7 @@ Il radioascolto ha un linguaggio proprio — codici Q, sigle tecniche, termini i
 
 **Fading** — Variazione di intensità del segnale causata da fluttuazioni ionosferiche o battimento tra percorsi multipli. Il QSB (vedi) è il codice Q corrispondente.
 
-**Ferrite** — Materiale ceramico magnetico usato nei nuclei di induttori e trasformatori RF. Il "mix" della ferrite determina la frequenza ottimale di utilizzo (es. mix 31 per MW, mix 43 per HF).
+**Ferrite** — Materiale magnetico usato in antenne, induttori, trasformatori e nuclei di soppressione RF. Materiale e geometria vanno scelti per l'applicazione: non vale una regola generale «mix 31 per MW». [Fair-Rite indica il materiale 61 per barre d'antenna da 0,2 a 5 MHz](https://fair-rite.com/product/antennarfid-rods-3061990861/); le curve dei nuclei per soppressione non sono intercambiabili con quelle di un circuito accordato.
 
 **Figura di rumore** — Noise Figure (NF). Misura quanto rumore aggiunge un amplificatore o ricevitore al segnale in ingresso. Si esprime in dB — più bassa è, meglio è.
 
@@ -131,7 +131,7 @@ Il radioascolto ha un linguaggio proprio — codici Q, sigle tecniche, termini i
 
 **LSB** — Lower Side Band. Banda laterale inferiore — il modo SSB usato nelle bande sotto i 10 MHz (40m, 80m, 160m) per convenzione radioamatoriale.
 
-**LW** — Long Wave. Onde lunghe, banda 30–530 kHz. Propagazione per onda di superficie, stabile h24. Radio Polonia (225 kHz) e Algeria (252 kHz) sono le stazioni più forti ricevibili in Italia.
+**LW** — Long Wave, onde lunghe: banda **LF 30–300 kHz**, con radiodiffusione nella Regione 1 tra **148,5 e 283,5 kHz**. Non include NAVTEX a 490/518 kHz, che è in MF. Riferimenti: [nomenclatura ITU](https://www.itu.int/rec/dologin_pub.asp?id=T-REC-B.15-198811-S%21%21PDF-E&lang=e&type=items) e [bande broadcast ETSI](https://www.etsi.org/deliver/etsi_es/201900_201999/201980/02.02.01_60/es_201980v020201p.pdf).
 
 ---
 
@@ -149,7 +149,7 @@ Il radioascolto ha un linguaggio proprio — codici Q, sigle tecniche, termini i
 
 **NAVTEX** — Navigational Telex. Sistema di bollettini marittimi digitali su 518 kHz (internazionale) e 490 kHz. Decodificabile con fldigi.
 
-**NDB** — Non-Directional Beacon. Faro radiofonico per la navigazione aerea, tra 190 e 530 kHz. Identificabile dal segnale CW con il codice ICAO dell'aeroporto.
+**NDB** — Non-Directional Beacon. Radiofaro di navigazione presente tra LF e MF, spesso cercato tra 190 e 530 kHz, riconoscibile dal proprio indicativo in Morse.
 
 **Noise floor** — Il livello minimo di rumore presente nel sistema ricevente. Più basso è il noise floor, più deboli sono i segnali ricevibili. In ambiente urbano il noise floor è alzato dalla RFI.
 
@@ -211,7 +211,7 @@ Il radioascolto ha un linguaggio proprio — codici Q, sigle tecniche, termini i
 
 **Strato D** — Strato ionosferico basso (60–90 km) che assorbe le onde medie di giorno. Si dissolve dopo il tramonto — per questo il DX in MW è notturno.
 
-**Strato E** — Strato ionosferico a circa 100 km. Riflette le onde corte nelle bande alte. Lo "sporadico E" (Es) causa propagazione eccezionale e imprevedibile in estate.
+**Strato E** — Regione ionosferica intorno a 100 km di quota, predominante nella propagazione per onda di cielo MW secondo la [ITU-R P.1147-4](https://www.itu.int/dms_pubrec/itu-r/rec/p/R-REC-P.1147-4-200708-I%21%21PDF-E.pdf). Lo sporadico E (Es) è un fenomeno distinto, rilevante anche per aperture sulle bande HF alte e VHF.
 
 **Strato F** — Strato ionosferico alto (150–400 km), il principale responsabile della propagazione HF a lunga distanza. Di notte si consolida in un singolo strato F; di giorno si divide in F1 e F2.
 
@@ -241,7 +241,7 @@ Il radioascolto ha un linguaggio proprio — codici Q, sigle tecniche, termini i
 
 ## V
 
-**VLF** — Very Low Frequency. Banda sotto i 30 kHz. Usata da stazioni navali militari con potenze enormi. Ricevibile con antenne molto semplici.
+**VLF** — Very Low Frequency. Banda **3–30 kHz**, distinta dalle LF (30–300 kHz), secondo la [nomenclatura ITU](https://www.itu.int/rec/dologin_pub.asp?id=T-REC-B.15-198811-S%21%21PDF-E&lang=e&type=items). Include trasmissioni navali militari.
 
 **VOLMET** — Voice Meteorological broadcast. Bollettini meteo aeronautici trasmessi h24 in voce su frequenze HF standard. Shannon Volmet su 13264 kHz è il punto di riferimento europeo.
 

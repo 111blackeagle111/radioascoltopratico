@@ -1,6 +1,7 @@
 ---
 title: "La Loop Magnetica per le Onde Medie: dalla Miniloop alla BILOOP"
 date: 2025-11-01
+lastmod: 2026-11-01
 draft: false
 description: "Loop magnetiche per onde medie: dalla miniloop portatile alla BILOOP amplificata. Come costruire e ricevere DX con antenne direzionali."
 tags:
@@ -45,11 +46,11 @@ Il contenitore ideale è in legno o plastica: i metalli schermerebbero il campo 
 
 ## Dove trovare i nuclei di ferrite
 
-Per la loop interna si usano nuclei toroidali in ferrite con permeabilità adatta alle onde medie.
+Per un'antenna su ferrite contano sia il materiale sia la geometria: una barra d'antenna, un toroide per un circuito accordato e un nucleo per sopprimere correnti di modo comune hanno impieghi diversi. La scelta va riferita allo schema effettivo della loop.
 
 > 💬 *Dalla nostra esperienza pratica: anche nuclei recuperati da vecchie radio AM o alimentatori possono funzionare bene per le MW — l'importante è verificare empiricamente la risposta in frequenza prima di costruire il circuito definitivo.*
 >
-> 📖 *La teoria standard indica che per la banda 300 kHz–3 MHz il materiale più indicato è il mix 31 (alta permeabilità, basse perdite in MW) o il mix 77. Il mix 61, spesso citato, è ottimale per frequenze più alte (10–200 MHz) e non è il più adatto per le onde medie.*
+> 📖 *Non esiste una corrispondenza universale «mix 31 = onde medie». Per le proprie barre d'antenna, [Fair-Rite indica il materiale 61 nella fascia 0,2–5 MHz](https://fair-rite.com/product/antennarfid-rods-3061990861/). Le curve di impedenza dei nuclei per soppressione non descrivono le perdite e il Q di una bobina accordata: verificare materiale, forma e applicazione nella documentazione del produttore.*
 >
 > 🔧 *Nota: il metodo empirico — misurare la risposta con un antenna analyzer o un VNA — rimane il modo più affidabile per validare qualsiasi nucleo, indipendentemente dal datasheet.*
 

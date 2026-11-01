@@ -1,6 +1,7 @@
 ---
 title: "SDR per il Radioascolto: RTL-SDR, Malachite, Belka e i KiwiSDR"
 date: 2025-11-29
+lastmod: 2026-11-01
 draft: false
 description: "Software Defined Radio per il radioascolto: RTL-SDR, Malachite, SDRplay RSP. Ricevitori SDR autonomi e remoti per HF."
 tags:
@@ -23,9 +24,9 @@ Un ricevitore tradizionale fa tutto in hardware: filtra, converte, demodula il s
 
 Il dongle **RTL-SDR** (basato sul chip Realtek RTL2832U abbinato a un tuner come il R820T2) è diventato il gateway per milioni di persone verso il mondo SDR. Costa 30–40€, si collega via USB al PC, e con software libero come **SDR#**, **GQRX** o **SDR++** permette di ricevere FM, AM, SSB, e molto altro.
 
-I limiti sono reali: la dinamica non è eccellente (segnali forti vicini possono saturare il frontend), la stabilità del clock lascia a desiderare (risolvibile con un oscillatore TCXO), e la copertura sotto i 500 kHz richiede la modalità "direct sampling" con prestazioni ridotte.
+La dinamica è limitata: segnali forti possono saturare il frontend. Stabilità e copertura dipendono dal modello; i modelli RTL-SDR Blog V3 e V4 includono già un TCXO. Il **V3** usa il **direct sampling** per la fascia nominale da 500 kHz a circa 24 MHz: questa modalità non rende garantita la ricezione sotto 500 kHz. Le impostazioni vanno scelte seguendo la [scheda del V3](https://www.rtl-sdr.com/wp-content/uploads/2018/02/RTL-SDR-Blog-V3-Datasheet.pdf).
 
-La versione **RTL-SDR v4** (2023) ha migliorato significativamente il frontend rispetto alle generazioni precedenti, con migliore reiezione delle immagini e supporto diretto per HF senza adattatori.
+Il **RTL-SDR Blog V4** usa invece un **upconverter interno** per le frequenze basse e richiede driver compatibili con il V4: non va configurato come il V3 in direct sampling. Il limite inferiore dichiarato è **500 kHz**, quindi la ricezione LW sotto tale limite non è una prestazione nominale. Riferimento: [scheda del V4](https://www.rtl-sdr.com/wp-content/uploads/2024/12/RTLSDR_V4_Datasheet_V_1_0.pdf).
 
 ## SDRplay RSP1B e RSP2
 

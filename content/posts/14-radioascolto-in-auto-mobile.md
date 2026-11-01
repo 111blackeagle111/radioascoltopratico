@@ -1,6 +1,7 @@
 ---
 title: "Radioascolto in Auto: Setup Mobile e le Ore Piccole in MW"
 date: 2026-02-07
+lastmod: 2026-11-01
 draft: false
 description: "Radioascolto mobile in auto: setup pratico con antenna dell'autoradio, le ore pre-alba per il migliore DX in onde medie."
 tags:
@@ -20,7 +21,7 @@ Uno degli ambienti di ascolto più sottovalutati è l'automobile. Lontana dai di
 
 Il principale nemico del radioascolto in ambienti urbani è il rumore elettrico: alimentatori switching, LED, inverter fotovoltaici, caricabatterie. L'auto, specialmente ferma con il motore spento, è relativamente pulita da questi disturbi. L'impianto elettrico a 12V è stabile, e l'alternatore (quando il motore è acceso) introduce un po' di rumore ma nulla di paragonabile all'inferno elettromagnetico di un appartamento moderno.
 
-L'antenna dell'autoradio — uno stilo da 30–70 cm — non è ottimale per le MW ma è già esterna, già connessa, e basta un adattatore dal connettore ISO/DIN all'ingresso del ricevitore portatile per usarla.
+L'antenna dell'autoradio è già esterna, ma un adattatore ISO/DIN risolve solo il collegamento meccanico. Bisogna verificare la banda accettata dall'ingresso del ricevitore e, se l'antenna dell'auto è attiva, la sua alimentazione: collegarla al jack di un portatile non assicura la ricezione MW.
 
 ## Le ore d'oro: alle 4 di mattina
 
@@ -30,13 +31,13 @@ Chi fa ascolto in auto in queste ore — magari durante un viaggio di lavoro o s
 
 > 💬 *Esperienza GIR: ricezione MW in auto alle 04:00 confermata con fading lento o quasi assente — condizioni notevolmente migliori rispetto all'ascolto serale o diurno dalla stessa area geografica.*
 >
-> 📖 *Lo strato D, responsabile dell'assorbimento delle MW di giorno, si dissolve dopo il tramonto e ricostituisce con l'alba. Le ore pre-alba rappresentano il minimo di assorbimento ionosferico. Il fading lento è caratteristico della propagazione stabile su strato F; il fading veloce è tipico di propagazione multi-percorso o condizioni instabili.*
+> 📖 *Dopo il tramonto diminuisce l'assorbimento nella regione D. Per le MW la [ITU-R P.1147-4](https://www.itu.int/dms_pubrec/itu-r/rec/p/R-REC-P.1147-4-200708-I%21%21PDF-E.pdf) considera predominante la regione E, con possibili contributi della F in condizioni particolari. Il fading dipende anche dall'interferenza tra percorsi: lento o veloce non identifica da solo lo strato riflettente.*
 
 ## Setup pratico
 
-**Ricevitore**: qualsiasi portatile con ingresso antenna esterna. Il Tecsun PL-660 ha un jack da 3,5 mm per antenna esterna MW/SW e un connettore coassiale per FM. Basta un cavo adattatore.
+**Ricevitore**: per usare direttamente l'antenna dell'auto in MW serve un ingresso esterno attivo su quella banda. Il **Tecsun PL-660** ha un solo jack antenna da 3,5 mm per **FM/SW**; in **MW/LW usa la ferrite interna**, secondo il [manuale](https://www.tecsunradios.com.au/store/wp-content/uploads/2015/12/PL-660-MANUAL.pdf). Un cavo adattatore non cambia questo percorso RF.
 
-**Antenna**: l'antenna dell'autoradio tramite adattatore ISO → jack 3,5 mm (reperibile online per pochi euro). In alternativa, un filo da 2–3 metri appoggiato sul tetto o sul cruscotto migliora sensibilmente la ricezione anche senza connessione formale all'ingresso.
+**Antenna**: per le MW si può usare l'autoradio oppure, da fermi, un portatile con la sua ferrite interna e una loop accordata accoppiata induttivamente. L'antenna dell'auto può essere collegata a un altro ricevitore solo dopo aver verificato ingresso, banda e alimentazione dell'eventuale amplificatore d'antenna.
 
 **Alimentazione**: il ricevitore a batterie è sufficiente per ore. Chi vuole alimentazione continua può usare un caricabatterie da accendisigari, ma attenzione: gli alimentatori switching economici introducono rumore. Meglio usare un caricabatterie di qualità o alimentare direttamente dalle pile.
 
