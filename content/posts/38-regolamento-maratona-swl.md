@@ -13,7 +13,7 @@ tags:
 
 ---
 
-La Maratona SWL è una gara di radioascolto: si ascolta, si identifica e si annota, senza trasmettere. Il PDF qui pubblicato è la **bozza di riferimento, versione 0.1 del 1 novembre 2026**. Non è un regolamento definitivo e non annuncia una data di gara. Le presentazioni negli altri articoli si riferiscono a questa versione; prima di partecipare a un'edizione occorrerà consultarne il regolamento definitivo.
+La Maratona SWL è una gara di radioascolto: si ascolta, si identifica e si annota, senza trasmettere. Il PDF qui pubblicato è la **bozza di riferimento, versione 0.2 del 1 novembre 2026**. Non è un regolamento definitivo e non annuncia una data di gara. Le presentazioni negli altri articoli si riferiscono a questa versione; prima di partecipare a un'edizione occorrerà consultarne il regolamento definitivo.
 
 La bozza prevede categorie A e B per ricevitori locali e una categoria C WebSDR fuori classifica; ammette AM in MW, AM e SSB in SW, SSB e CW nelle bande HAM elencate. Il PDF specifica i dettagli di bande, categorie, punteggio e log.
 
@@ -35,6 +35,8 @@ La bozza prevede categorie A e B per ricevitori locali e una categoria C WebSDR 
     📥 Scarica il Regolamento (.pdf)
   </a>
   <p style="font-size:0.8em; color:#666; margin-top:8px;">
-    Formato PDF stampabile — bozza v0.1 del 1 novembre 2026, soggetta ad aggiornamenti
+    Formato PDF stampabile — bozza v0.2 del 1 novembre 2026, soggetta ad aggiornamenti
   </p>
 </div>
+
+La versione 0.2 elimina NAVTEX dagli esempi delle ricezioni utility a punteggio: il servizio non rientra nei modi ammessi dalla bozza. Bande, modi e punteggi delle altre ricezioni restano quelli indicati nel PDF.

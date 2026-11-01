@@ -3,7 +3,7 @@ title: "Onde Lunghe (LW): Polonia, Algeria e Servizi tra LF e MF"
 date: 2026-01-24
 lastmod: 2026-11-01
 draft: false
-description: "Onde lunghe (LW): Radio Polonia 225 kHz, Algeria 252 kHz e stazioni LW europee. Propagazione stabile giorno e notte."
+description: "Onde lunghe (LW): Radio Polonia 225 kHz, Algeria 252 kHz e servizi LF/MF. Onda di superficie, contributi ionosferici e ascolti del GIR."
 tags:
   - onde-lunghe
   - lw
@@ -19,23 +19,23 @@ Le onde lunghe corrispondono alla banda **LF da 30 a 300 kHz**, con lunghezze d'
 
 ## Perché le onde lunghe sono speciali
 
-A differenze delle onde medie e corte, le onde lunghe si propagano principalmente come **onda di superficie**: seguono la curvatura terrestre invece di rimbalzare sulla ionosfera. Questo significa che la propagazione è stabile, costante, e praticamente indipendente dall'ora del giorno e dalle condizioni ionosferiche. Una stazione LW potente si sente quasi ugualmente bene di giorno e di notte, d'estate e d'inverno.
+Nelle onde lunghe la **componente di superficie** può offrire una ricezione relativamente stabile: segue la superficie terrestre e non richiede una riflessione ionosferica. La sua intensità dipende però da frequenza, distanza e conducibilità del terreno. Il segnale ricevuto può comprendere anche una **componente ionosferica**, che varia con ora, stagione e condizioni del percorso. L'interferenza tra le componenti può produrre fading: non si può quindi garantire la stessa ricezione di giorno e di notte o in ogni stagione. La [raccomandazione ITU-R P.1147-4](https://www.itu.int/dms_pubrec/itu-r/rec/p/R-REC-P.1147-4-200708-I%21%21PDF-E.pdf) tratta proprio la propagazione per onda di cielo tra 150 e 1700 kHz, includendo le frequenze broadcast LW qui considerate.
 
 Il rovescio della medaglia è che costruire trasmettitori LW efficaci richiede antenne enormi e potenze elevatissime — centinaia di kilowatt. Per questo motivo il numero di stazioni LW attive è sempre stato limitato, e si è ridotto ulteriormente con la transizione al digitale e all'FM.
 
 ## Le stazioni ancora attive dall'Italia
 
-**Radio Polonia — 225 kHz**: il segnale più forte e costante ricevibile in Italia in banda LW. Trasmette h24 con potenza tale da arrivare letteralmente "a fondo scala" sul S-meter di qualsiasi ricevitore con un'antenna decente. È la stazione di riferimento per calibrare antenne e ricevitori in questa banda. Ricevibile anche con la sola ferrite interna di un buon portatile.
+**Radio Polonia — 225 kHz**: una stazione di riferimento per gli ascolti LW del GIR, ricevuta anche con la ferrite interna di portatili. Le segnalazioni di un livello elevato e costante descrivono le postazioni osservate: non garantiscono lo stesso risultato in tutta Italia o con qualsiasi ricevitore. Possono servire per confronti pratici nello stesso setup, senza sostituire una calibrazione strumentale.
 
 > 💬 *Esperienza GIR: Radio Polonia su 225 kHz rilevata a fondo scala h24 da più stazioni in Umbria, sia con antenne esterne che con la ferrite interna di portatili di fascia media.*
 >
-> 📖 *La potenza dichiarata di Radio Polonia su 225 kHz è 1800 kW — tra i trasmettitori LW più potenti d'Europa. La propagazione per onda di superficie garantisce copertura stabile indipendente dalla ionosfera.*
+> 📖 *La potenza dichiarata di Radio Polonia su 225 kHz è 1800 kW — tra i trasmettitori LW più potenti d'Europa. Quando prevale la componente di superficie, il segnale può risultare relativamente stabile; l'eventuale contributo ionosferico e il rumore locale continuano però a influire sulla ricezione totale.*
 
-**"Catena 3" Algeria — 252 kHz**: trasmettitore di Tipaza (Algeria) da 750 kW in lingua francese. Segnale eccellente nelle ore notturne, spesso fortissimo anche con temporali in corso — la propagazione per onda di superficie è robusta rispetto ai disturbi atmosferici che affliggono le MW.
+**"Catena 3" Algeria — 252 kHz**: trasmettitore di Tipaza (Algeria) da 750 kW in lingua francese. Il GIR ne segnala ricezioni forti anche durante temporali: sono osservazioni nelle condizioni locali descritte, non una garanzia di ricezione immune al rumore atmosferico.
 
 > 💬 *Esperienza GIR: Algeria 252 kHz ricevuta con segnale forte anche durante temporali attivi — confermata la stabilità della propagazione per onda di superficie rispetto alle perturbazioni atmosferiche tipiche delle MW.*
 >
-> 📖 *La robustezza dell'onda di superficie ai temporali è un dato teorico consolidato: i fulminii generano disturbi impulsivi concentrati soprattutto nelle frequenze più basse (VLF/LF), ma la componente di superficie delle LW non dipende dalla riflessione ionosferica e non è soggetta ai disturbi di propagazione che affliggono le frequenze più alte.* Frequenza storica, già usata da RTL Lussemburgo fino agli anni '90.
+> 📖 *Occorre distinguere propagazione e rumore: la componente di superficie non richiede riflessione ionosferica, ma questo non impedisce alle scariche atmosferiche di introdurre disturbi nel ricevitore. Un segnale forte può rimanere ascoltabile durante un temporale senza dimostrare un'immunità della banda LW ai fulmini. La testimonianza descrive il risultato dell'ascolto; da sola non separa le componenti di propagazione ricevute.*
 
 ## Cosa serve per ricevere le LW
 

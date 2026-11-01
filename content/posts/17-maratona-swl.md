@@ -25,7 +25,7 @@ Durata, bande e modi variano secondo l'evento. La bozza pubblicata su questo sit
 
 ## Le regole fondamentali
 
-Qui riassumiamo la [bozza del sito, versione 0.1 del 1 novembre 2026]({{< relref "38-regolamento-maratona-swl.md" >}}). Il PDF è il riferimento per queste regole; resta una bozza e non annuncia un'edizione della gara.
+Qui riassumiamo la [bozza del sito, versione 0.2 del 1 novembre 2026]({{< relref "38-regolamento-maratona-swl.md" >}}). Il PDF è il riferimento per queste regole; resta una bozza e non annuncia un'edizione della gara.
 
 **Categorie di ricezione**: la categoria **A** è per ricevitori standalone, senza SDR né PC; la **B** per SDR con PC. La categoria **C** è dedicata ai **WebSDR, fuori classifica**. La preferenza per l'ascolto dalla propria postazione riguarda quindi le categorie in classifica.
 
