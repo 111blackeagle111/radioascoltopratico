@@ -21,7 +21,7 @@ Il radioascolto non richiede investimenti importanti per iniziare. Con 100–150
 La domanda da porsi non è "quale ricevitore compro" ma "cosa voglio ascoltare". Le risposte cambiano significativamente il setup ottimale:
 
 - **Emittenti internazionali in onde corte** (BBC, RFI, VOA, Radio Cina): bastano un portatile decente e un filo fuori dalla finestra
-- **DX in onde medie** (stazioni lontane in AM): serve una loop magnetica e possibilmente un ricevitore con buon filtro AM
+- **DX in onde medie** (stazioni lontane in AM): si può iniziare con un portatile dotato di ferrite interna, provando orientamenti, posizioni e orari diversi. Una loop esterna adatta alla banda è un’opzione da valutare se migliora il rapporto segnale/rumore nella propria postazione; un buon filtro AM aiuta a separare stazioni vicine in frequenza.
 - **Comunicazioni aeronautiche e navali**: frequenze VHF/UHF, meglio un RTL-SDR
 - **Tutto quanto**: un ricevitore HF con ingresso antenna esterno + RTL-SDR per le VHF/UHF
 
