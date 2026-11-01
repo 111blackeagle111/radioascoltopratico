@@ -1,6 +1,7 @@
 ---
 title: "Checklist DX Camp: Cosa Portare, Equipment e Logistica"
 date: 2026-03-12
+lastmod: 2026-11-01
 draft: false
 description: "Checklist DX Camp completa: ricevitori, antenne, cavi, batterie, alimentazione, registrazione. Niente di dimenticato in campagna."
 tags:
@@ -45,7 +46,8 @@ Organizzare un DX camp richiede pianificazione. Dimenticare il cavo coassiale gi
 </div>
 <div style="border:1px solid #ddd; border-top:none; padding:8px 14px; background:#f9f9f9;">
   ☐ Batterie AA/AAA di scorta &nbsp; ☐ Powerbank 10.000+ mAh<br/>
-  ☐ Batteria LiFePO4 12V (se SDR) &nbsp; ☐ Pannello solare (opzionale)
+  ☐ Batteria esterna con tensione e polarità adatte al dispositivo; cavi e fusibile<br/>
+  ☐ Pannello solare (opzionale, con regolatore compatibile)
 </div>
 
 <div style="background:#2E75B6; color:#fff; padding:10px 14px; font-weight:bold; margin-top:8px;">
