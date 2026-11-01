@@ -1,7 +1,7 @@
 ---
 title: "Log Ricezioni SWL/BCL: Scarica il Template Excel"
 date: 2026-03-12
-lastmod: 2026-11-01
+lastmod: 2026-11-02
 draft: false
 description: "Template Excel pronto per il log delle ricezioni SWL/BCL: campi SINPO, dropdown, formula automatica. Scarica e inizia a tracciare."
 tags:
@@ -51,7 +51,7 @@ Questo template Excel è pronto all'uso: tre fogli, dropdown preimpostati, formu
     <tr style="background:#D9E1F2;">
       <td style="padding:5px 8px; border:1px solid #8EA9C1; color:#888; font-style:italic;">← esempio</td>
       <td style="padding:5px 8px; border:1px solid #8EA9C1; text-align:center;">20:35</td>
-      <td style="padding:5px 8px; border:1px solid #8EA9C1; text-align:right;">9.510</td>
+      <td style="padding:5px 8px; border:1px solid #8EA9C1; text-align:right;">9510</td>
       <td style="padding:5px 8px; border:1px solid #8EA9C1; text-align:center;">SW</td>
       <td style="padding:5px 8px; border:1px solid #8EA9C1; text-align:center;">AM</td>
       <td style="padding:5px 8px; border:1px solid #8EA9C1;">Radio City Bulgaria</td>

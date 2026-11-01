@@ -1,7 +1,7 @@
 ---
 title: "Storia della Radio e delle QSL: da Fessenden a Oggi"
 date: 2026-03-07
-lastmod: 2026-11-01
+lastmod: 2026-11-02
 draft: false
 description: "Storia della radio e delle QSL card: dalla prima trasmissione di Fessenden 1906 alla collezione moderna di conferme di ascolto."
 tags:
@@ -33,7 +33,7 @@ Sopravvivono però alcune emittenti che ancora valorizzano il rapporto con gli a
 
 ## Radio Romania: la prima stazione di molti
 
-Per una generazione di ascoltatori italiani, Radio Romania Internazionale è stata la prima stazione straniera ricevuta. Trasmetteva in italiano in onde corte con segnale forte e qualità audio decente, ed era facilmente identificabile. La sigla musicale — note di floreale — è rimasta impressa nella memoria di chi la ascoltava la sera con una piccola radio a transistor nel buio della camera da letto.
+Per una generazione di ascoltatori italiani, Radio Romania Internazionale è stata la prima stazione straniera ricevuta. Trasmetteva in italiano in onde corte con segnale forte e qualità audio decente, ed era facilmente identificabile. La sigla musicale è rimasta impressa nella memoria di chi la ascoltava la sera con una piccola radio a transistor nel buio della camera da letto.
 
 Quella prima ricezione — identificare una stazione straniera, capire che stava parlando dall'altra parte d'Europa, magari mandare un rapporto e ricevere una QSL — ha innescato la passione per il radioascolto in centinaia di persone. È un percorso che si può ancora fare oggi con Radio Romania, che trasmette ancora in italiano.
 

@@ -1,7 +1,7 @@
 ---
 title: "Checklist DX Camp: Cosa Portare, Equipment e Logistica"
 date: 2026-03-12
-lastmod: 2026-11-01
+lastmod: 2026-11-02
 draft: false
 description: "Checklist DX Camp completa: ricevitori, antenne, cavi, batterie, alimentazione, registrazione. Niente di dimenticato in campagna."
 tags:
@@ -36,9 +36,9 @@ Organizzare un DX camp richiede pianificazione. Dimenticare il cavo coassiale gi
   📶 ANTENNE
 </div>
 <div style="border:1px solid #ddd; border-top:none; padding:8px 14px; background:#f9f9f9;">
-  ☐ Filo long-wire 20–30m &nbsp; ☐ Asta telescopica / palo<br/>
-  ☐ Loop magnetica (se la si usa) &nbsp; ☐ Cavo coassiale 5–10m<br/>
-  ☐ Adattatori BNC/PL/jack &nbsp; ☐ Isolatori &nbsp; ☐ Corda 10m &nbsp; ☐ Pinze e nastro
+  ☐ Filo per antenna, 20–30 m &nbsp; ☐ Asta telescopica / palo<br/>
+  ☐ Loop magnetica (se la si usa) &nbsp; ☐ Cavo coassiale 5–10 m<br/>
+  ☐ Adattatori BNC/PL/jack &nbsp; ☐ Isolatori &nbsp; ☐ Corda 10 m &nbsp; ☐ Pinze e nastro
 </div>
 
 <div style="background:#2E75B6; color:#fff; padding:10px 14px; font-weight:bold; margin-top:8px;">
@@ -98,4 +98,4 @@ Organizzare un DX camp richiede pianificazione. Dimenticare il cavo coassiale gi
 
 ## Note operative
 
-Arrivare con almeno un'ora di luce per installare le antenne. Un filo long-wire teso tra due alberi richiede tempo, e farlo al buio è frustrante. Concordare con gli altri partecipanti quali bande e frequenze monitorare — evita di duplicare gli ascolti e massimizza la copertura del gruppo. Documentare le ricezioni con audio quando possibile: quello che sembra ovvio sul momento diventa prezioso nel log a distanza di settimane.
+Arrivare con almeno un'ora di luce per installare le antenne. Un filo per antenna teso tra due alberi richiede tempo, e farlo al buio è frustrante. Concordare con gli altri partecipanti quali bande e frequenze monitorare — evita di duplicare gli ascolti e massimizza la copertura del gruppo. Documentare le ricezioni con audio quando possibile: quello che sembra ovvio sul momento diventa prezioso nel log a distanza di settimane.

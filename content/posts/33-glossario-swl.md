@@ -1,7 +1,7 @@
 ---
 title: "Glossario SWL: da SINPO a QSB, da Strato F a Noise Floor"
 date: 2026-03-12
-lastmod: 2026-11-01
+lastmod: 2026-11-02
 draft: false
 description: "Glossario radioascolto: SINPO, QSL, QSB, noise floor, propagazione, fading. Termini tecnici e codici Q spiegati per principianti."
 tags:
@@ -33,13 +33,13 @@ Il radioascolto ha un linguaggio proprio — codici Q, sigle tecniche, termini i
 
 ## B
 
-**Balun** — BALanced-UNbalanced. Trasformatore che adatta un'alimentazione sbilanciata (coassiale) a una bilanciata (dipolo). Spesso ha anche funzione di trasformazione di impedenza (es. balun 4:1 = da 200Ω a 50Ω).
+**Balun** — BALanced-UNbalanced. Trasformatore che adatta un'alimentazione sbilanciata (coassiale) a una bilanciata (dipolo). Spesso ha anche funzione di trasformazione di impedenza (es. balun 4:1 = da 200 Ω a 50 Ω).
 
 **Banda laterale** — Le componenti spettrali di un segnale AM ai lati della portante. L'SSB usa una sola banda laterale (superiore USB o inferiore LSB) eliminando portante e banda laterale opposta.
 
 **BCL** — Broadcasting Listener. Chi ascolta le emittenti radiofoniche broadcast (MW, SW, LW). Distinto dallo SWL che ascolta principalmente le bande radioamatoriali.
 
-**BFO** — Beat Frequency Oscillator. Oscillatore interno al ricevitore che permette di demodulare CW e SSB su ricevitori nati per l'AM. Genera un tono che si mescola con la portante.
+**BFO** — Beat Frequency Oscillator. Oscillatore che fornisce un segnale di riferimento alla demodulazione. In CW il battimento con il segnale ricevuto produce un tono audio; in SSB sostituisce il riferimento della portante soppressa, consentendo di recuperare la voce. Vedi l’[esempio circuitale di Greg Latta, AA8V](https://www.frostburg.edu/personal/latta/ee/6x2rcvr/schematic/bfo/bfo.html).
 
 ---
 
@@ -47,7 +47,7 @@ Il radioascolto ha un linguaggio proprio — codici Q, sigle tecniche, termini i
 
 **Codice Q** — Sistema di abbreviazioni a tre lettere (QSO, QSB, QRM…) nato per la telegrafia e ancora usato in radio. Ogni codice ha un significato preciso.
 
-**Coassiale** — Cavo con conduttore centrale e schermatura esterna coassiale. Lo standard per collegare antenne a ricevitori. L'impedenza tipica è 50Ω (uso radio) o 75Ω (uso TV/satellitare).
+**Coassiale** — Cavo con conduttore centrale e schermatura esterna coassiale. Lo standard per collegare antenne a ricevitori. L'impedenza tipica è 50 Ω (uso radio) o 75 Ω (uso TV/satellitare).
 
 **CW** — Continuous Wave. Il codice Morse trasmesso in radio. Tecnicamente è una portante non modulata accesa e spenta secondo il ritmo del Morse.
 
@@ -59,7 +59,7 @@ Il radioascolto ha un linguaggio proprio — codici Q, sigle tecniche, termini i
 
 **DSP** — Digital Signal Processing. Elaborazione digitale del segnale. I ricevitori moderni usano DSP per filtraggio, demodulazione, noise reduction. Permette filtri molto più selettivi dei filtri analogici.
 
-**DX** — Da "distance" in codice Q. Indica stazioni lontane o comunicazioni a grande distanza. "Fare DX" = cacciare stazioni lontane.
+**DX** — Abbreviazione radioamatoriale per distanza o stazioni lontane; non è un codice Q. “Fare DX” significa cercare ascolti o collegamenti a grande distanza. Vedi il [glossario ARRL](https://www.arrl.org/files/file/Education/HRLM%20Online%20Glossary.pdf).
 
 **DX Camp** — Attività di radioascolto organizzata in campo aperto, lontano dai disturbi urbani. Vedi articolo dedicato.
 
@@ -95,13 +95,13 @@ Il radioascolto ha un linguaggio proprio — codici Q, sigle tecniche, termini i
 
 ## H
 
-**HF** — High Frequency. Banda da 3 a 30 MHz — le "onde corte". Include tutte le bande radioamatoriali da 80m a 10m e le bande broadcast internazionali.
+**HF** — High Frequency. Banda da 3 a 30 MHz — le "onde corte". Include tutte le bande radioamatoriali da 80 m a 10 m e le bande broadcast internazionali.
 
 ---
 
 ## I
 
-**Impedenza** — Resistenza complessa di un'antenna o circuito alla corrente alternata RF. Lo standard per i sistemi radio moderni è 50Ω. Un'impedenza diversa causa disadattamento e riflessioni.
+**Impedenza** — Resistenza complessa di un'antenna o circuito alla corrente alternata RF. Lo standard per i sistemi radio moderni è 50 Ω. Un'impedenza diversa causa disadattamento e riflessioni.
 
 **Intermodulazione** — Generazione di segnali spuri da parte del frontend del ricevitore in presenza di segnali forti. I prodotti di intermodulazione appaiono come segnali "fantasma" a frequenze che non esistono nell'etere. L'IP3 misura la resistenza all'intermodulazione.
 
@@ -125,11 +125,11 @@ Il radioascolto ha un linguaggio proprio — codici Q, sigle tecniche, termini i
 
 ## L
 
-**Long-wire** — Antenna semplice costituita da un lungo filo (10–40m o più) con un'estremità collegata al ricevitore. Non è ottimizzata per nessuna banda specifica ma funziona su tutto lo spettro HF con buoni risultati pratici.
+**Long-wire** — Antenna a filo lunga rispetto alla lunghezza d'onda di lavoro, spesso una o più lunghezze d'onda. Non basta una misura in metri per classificarla: lo stesso filo può essere elettricamente corto su una banda e lungo su un'altra. Un filo scelto per lo spazio disponibile, senza accordarlo a una banda specifica, è più precisamente un filo di lunghezza non risonante (random wire), pur potendo presentare risonanze su altre frequenze. Per il rapporto fra lunghezza e direttività, vedi il [Field Antenna Handbook, sezione Long Wire](https://www.navy-radio.com/manuals/antenna-mcrp622d.pdf#page=97).
 
 **Loop magnetica** — Antenna costituita da un anello conduttore di piccole dimensioni rispetto alla lunghezza d'onda. Captazione magnetica del campo (non elettrica) — più selettiva spazialmente, utile per ridurre i disturbi locali.
 
-**LSB** — Lower Side Band. Banda laterale inferiore — il modo SSB usato nelle bande sotto i 10 MHz (40m, 80m, 160m) per convenzione radioamatoriale.
+**LSB** — Lower Side Band. Banda laterale inferiore — il modo SSB usato nelle bande sotto i 10 MHz (40 m, 80 m, 160 m) per convenzione radioamatoriale.
 
 **LW** — Long Wave, onde lunghe: banda **LF 30–300 kHz**, con radiodiffusione nella Regione 1 tra **148,5 e 283,5 kHz**. Non include NAVTEX a 490/518 kHz, che è in MF. Riferimenti: [nomenclatura ITU](https://www.itu.int/rec/dologin_pub.asp?id=T-REC-B.15-198811-S%21%21PDF-E&lang=e&type=items) e [bande broadcast ETSI](https://www.etsi.org/deliver/etsi_es/201900_201999/201980/02.02.01_60/es_201980v020201p.pdf).
 
@@ -187,9 +187,9 @@ Il radioascolto ha un linguaggio proprio — codici Q, sigle tecniche, termini i
 
 ## R
 
-**RFI** — Radio Frequency Interference. Disturbi elettromagnetici generati da dispositivi elettrici (LED, switching, inverter). Il principale problema del radioascolto in ambiente urbano moderno.
+**RFI** — Radio Frequency Interference. Interferenze a radiofrequenza che degradano la ricezione. Possono provenire sia da trasmettitori sia da emissioni indesiderate di dispositivi come LED, alimentatori a commutazione e inverter. L’[articolo sulla RFI]({{< relref "15-rfi-rumore-elettrico.md" >}}) si concentra sulle sorgenti domestiche e sulla loro individuazione.
 
-**Ricevitore SDR** — Software Defined Radio. Ricevitore in cui le funzioni tradizionalmente analogiche (filtraggio, demodulazione) sono realizzate via software su PC. Permette visualizzazione dello spettro (waterfall) e registrazione IQ.
+**Ricevitore SDR** — Software Defined Radio. Ricevitore in cui alcune o tutte le funzioni di elaborazione radio sono definite da software o firmware su dispositivi programmabili. Questi possono essere interni all’apparato: un PC esterno non è obbligatorio. Spettro, waterfall e registrazione I/Q dipendono dal modello e dal software. Riferimento: [Wireless Innovation Forum](https://winnforum.org/introduction-to-software-definied-radio-winnforum-sdr-101/).
 
 **ROS** — Rapporto d’Onda Stazionaria (SWR). In una linea descrive il disadattamento: ROS = (1 + |Γ|)/(1 − |Γ|). Con linea ideale e ricevitore adattato, 200 Ω resistivi su 50 Ω danno ROS 4:1 e circa 1,94 dB di perdita. La fisica vale anche in ricezione; l’effetto sul rapporto segnale/rumore dipende dal peso del rumore esterno e di quello interno.
 
@@ -199,13 +199,13 @@ Il radioascolto ha un linguaggio proprio — codici Q, sigle tecniche, termini i
 
 ## S
 
-**S-meter** — Indicatore della forza del segnale. La scala S va da S1 (appena percettibile) a S9 (forte); sopra S9 si usa S9+10dB, S9+20dB ecc.
+**S-meter** — Indicatore della forza del segnale. La scala S va da S1 (appena percettibile) a S9 (forte); sopra S9 si usa S9+10 dB, S9+20 dB ecc.
 
 **SDR** — Software Defined Radio. Vedi "Ricevitore SDR".
 
 **SINPO** — Codice a 5 cifre per descrivere la qualità di un segnale: Signal strength, Interference, Noise, Propagation, Overall merit. Ogni parametro da 1 a 5.
 
-**Skip** — Zona di silenzio tra il limite dell'onda di superficie e il punto di atterraggio dell'onda di cielo. Stazioni che si trovano nello skip non si sentono.
+**Skip** — Propagazione per onda di cielo attraverso la ionosfera. Un percorso dalla Terra alla ionosfera e di nuovo a terra è un salto (hop); possono esserci più salti. La zona di skip è invece l’eventuale area fra la copertura dell’onda di superficie e il primo ritorno utile dell’onda di cielo, dove la ricezione può essere debole o assente. I confini cambiano con frequenza e condizioni ionosferiche. Vedi il [glossario ARRL](https://www.arrl.org/files/file/Education/HRLM%20Online%20Glossary.pdf).
 
 **SSB** — Single Side Band. Banda laterale unica — modo di trasmissione più efficiente dell'AM. Usato dai radioamatori in HF. Richiede il BFO o il modo SSB del ricevitore per essere demodulato.
 
@@ -229,9 +229,9 @@ Il radioascolto ha un linguaggio proprio — codici Q, sigle tecniche, termini i
 
 ## U
 
-**Unun** — UNbalanced-UNbalanced. Trasformatore di impedenza che mantiene l'alimentazione sbilanciata. Usato per le antenne end-fed e verticali con impedenza diversa da 50Ω.
+**Unun** — UNbalanced-UNbalanced. Trasformatore di impedenza che mantiene l'alimentazione sbilanciata. Usato per le antenne end-fed e verticali con impedenza diversa da 50 Ω.
 
-**USB** — Upper Side Band. Banda laterale superiore — il modo SSB usato nelle bande sopra i 10 MHz (20m, 15m, 10m) e in tutta la HF aeronautica e marittima.
+**USB** — Upper Side Band. Banda laterale superiore — il modo SSB usato nelle bande sopra i 10 MHz (20 m, 15 m, 10 m) e in tutta la HF aeronautica e marittima.
 
 **UTC** — Coordinated Universal Time. Il tempo universale coordinato — il riferimento per tutti i log e gli schedule radio. In Italia: in inverno (ora solare CET), **UTC = ora italiana − 1h**; in estate (ora legale CEST), **UTC = ora italiana − 2h**.
 
@@ -251,7 +251,7 @@ Il radioascolto ha un linguaggio proprio — codici Q, sigle tecniche, termini i
 
 **Waterfall** — Visualizzazione dello spettro nel tempo su un ricevitore SDR. L'asse orizzontale è la frequenza, quello verticale il tempo, il colore l'intensità del segnale. Permette di vedere i segnali prima ancora di sentirli.
 
-**WSPR** — Weak Signal Propagation Reporter. Modo digitale per mappare la propagazione HF mondiale con potenze minime (1–5W). I dati di ricezione vengono caricati su wsprnet.org.
+**WSPR** — Weak Signal Propagation Reporter. Modo digitale per mappare la propagazione HF mondiale con potenze minime (1–5 W). I dati di ricezione vengono caricati su wsprnet.org.
 
 **WRTH** — World Radio TV Handbook. Pubblicazione annuale con schedule completi di tutte le emittenti mondiali. La "bibbia" del radioascolto.
 

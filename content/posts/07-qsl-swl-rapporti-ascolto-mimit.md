@@ -1,7 +1,7 @@
 ---
 title: "La QSL per gli SWL: Rapporti di Ascolto, eQSL e l'Iter MIMIT"
 date: 2025-12-13
-lastmod: 2026-11-01
+lastmod: 2026-11-02
 draft: false
 description: "Come ottenere una QSL come ascoltatore SWL: rapporti SINPO, identificazione stazioni, eQSL e nominativo MIMIT italiano."
 tags:
@@ -52,7 +52,7 @@ Alcune stazioni sono particolarmente apprezzate per le loro QSL:
 
 - **Radio Nova International** (6140 kHz): stazione europea che effettua trasmissioni di test periodiche e risponde ai rapporti via email (qslnova@gmail.com)
 - **WWVB** (60 kHz, Fort Collins Colorado): stazione di tempo e frequenza campione americana, rilascia QSL ufficiali
-- **Shannon Volmet** (13.264 kHz): servizio meteo per aviatori, attivo h24, risponde ai rapporti
+- **Shannon Volmet** (13264 kHz): servizio meteo per aviatori, attivo h24, risponde ai rapporti
 - **KNLS** (Alaska): emittente religiosa con trasmissioni in russo e cinese, QSL confermate
 
 Le stazioni delle bande di emergenza, militari e di servizio (VOLMET, NAVTEX) rispondono con frequenza variabile — alcune con entusiasmo, altre ignorano i rapporti.

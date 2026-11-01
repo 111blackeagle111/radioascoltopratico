@@ -1,7 +1,7 @@
 ---
 title: "Capire la Propagazione HF: Ionosfera, Skip e Aurora"
 date: 2025-12-06
-lastmod: 2026-11-01
+lastmod: 2026-11-02
 draft: false
 description: "Propagazione HF spiegata: strati ionosferici, skip, zone cieche e aurore. Quando e perché le onde corte funzionano o mancano."
 tags:
@@ -34,9 +34,9 @@ Di notte l'ionizzazione e l'assorbimento nella regione D diminuiscono sensibilme
 >
 > 🔧 *Nota: assorbimento, geometria del percorso e contributi ionosferici diversi fanno variare le condizioni MW da una notte all'altra. La sola velocità del fading non identifica lo strato coinvolto.*
 
-## Skip: la zona cieca
+## Skip e zona di skip
 
-Quando un'onda HF lascia il trasmettitore, viaggia verso l'alto con un certo angolo. Si riflette sulla ionosfera e ricade a terra a una certa distanza. Tra il trasmettitore e il punto di caduta c'è una zona — lo **skip** — dove il segnale non arriva né per via diretta (troppo lontana) né per via ionosferica (ancora troppo vicina). In questa zona cieca, il segnale è praticamente inudibile.
+Un'onda HF può essere rifratta dalla ionosfera e tornare a terra: questa propagazione per onda di cielo è detta **skip**. Il percorso Terra–ionosfera–Terra è un salto (hop). Quando la copertura dell'onda di superficie termina prima del primo ritorno utile dell'onda di cielo, fra le due può esserci una **zona di skip**, con ricezione debole o assente. Non è una distanza fissa: dipende da frequenza, angolo di irradiazione e condizioni ionosferiche. Vedi le voci skip e sky-wave nel [glossario ARRL](https://www.arrl.org/files/file/Education/HRLM%20Online%20Glossary.pdf).
 
 Per il radioascolto, questo significa che alcune stazioni geograficamente vicine possono essere più difficili da ricevere rispetto ad altre più lontane. Una stazione a 300 km potrebbe cadere nella zona di skip, mentre una a 2000 km arriva forte.
 

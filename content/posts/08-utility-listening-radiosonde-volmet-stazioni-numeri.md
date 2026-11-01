@@ -1,7 +1,7 @@
 ---
 title: "Utility Listening: Radiosonde, VOLMET, Stazioni Numeri"
 date: 2025-12-20
-lastmod: 2026-11-01
+lastmod: 2026-11-02
 draft: false
 description: "Utility listening: radiosonde meteorologiche, VOLMET aeronautico, stazioni numeri enigmatiche. I servizi radio nascosti nell'etere."
 tags:
@@ -28,9 +28,9 @@ C'è anche chi le "caccia" fisicamente: segue la traiettoria prevista, si posizi
 
 Il **VOLMET** (dall'unione del termine francese "vol" e del latino "meteo") è un servizio radio che trasmette continuamente bollettini meteorologici per gli aeroporti, destinato ai piloti in volo.
 
-**Shannon VOLMET** (13.264 kHz, attivo h24) è uno dei più conosciuti in Europa, gestito dall'autorità dell'aviazione civile irlandese. Trasmette in USB le condizioni meteorologiche di aeroporti come Shannon, Dublin, Glasgow, Reykjavik e altri. Segnale spesso ottimo dall'Italia nelle ore notturne, con S4–S6 in condizioni normali.
+**Shannon VOLMET** (13264 kHz, attivo h24) è uno dei più conosciuti in Europa, gestito dall'autorità dell'aviazione civile irlandese. Trasmette in USB le condizioni meteorologiche di aeroporti come Shannon, Dublin, Glasgow, Reykjavik e altri. Segnale spesso ottimo dall'Italia nelle ore notturne, con S4–S6 in condizioni normali.
 
-Altre frequenze VOLMET europee: 5.505 kHz, 8.957 kHz, 11.253 kHz (variano per orario e stagione). Le frequenze VOLMET americane sono anche più accessibili durante la notte.
+Altre frequenze VOLMET europee: 5505 kHz, 8957 kHz, 11253 kHz (variano per orario e stagione). Le frequenze VOLMET americane sono anche più accessibili durante la notte.
 
 ## NAVTEX: i bollettini marittimi digitali
 
@@ -63,6 +63,6 @@ Il database **ENIGMA 2000** cataloga le stazioni numeri conosciute con frequenze
 1. **Installa fldigi o MultiPSK**: decodificano decine di modi digitali (RTTY, NAVTEX, SSTV, ecc.) da audio in ingresso
 2. **Scarica EIBI**: contiene schedule di stazioni utility oltre che emittenti
 3. **Consulta Priyom.org**: sito specializzato in stazioni numeri con schedule aggiornate
-4. **Prova 13.264 kHz**: Shannon VOLMET è un ottimo primo contatto con le utility — stazione forte, segnale chiaro, contenuto comprensibile
+4. **Prova 13264 kHz**: Shannon VOLMET è un ottimo primo contatto con le utility — stazione forte, segnale chiaro, contenuto comprensibile
 
 L'utility listening richiede più pazienza del broadcast listening tradizionale: le trasmissioni non hanno orari comodi, molti segnali sono digitali e richiedono software di decodifica, e alcune stazioni sono deliberatamente enigmatiche. Ma quando si decodifica per la prima volta un bollettino NAVTEX o si sente una stazione numeri trasmettere nel mezzo della notte, la soddisfazione è notevole.
